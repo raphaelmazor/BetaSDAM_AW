@@ -1,0 +1,2279 @@
+"ModName2","ModType","Comparison","Set","EvalStratum","n_tests","n_correct","PctCorrect"
+"NM","NM","EnotP","Training","AZ",12,12,1
+"NM","NM","EnotP","Training","CA",3,3,1
+"NM","NM","EnotP","Training","CO-WY-UT-MT",6,6,1
+"NM","NM","EnotP","Training","NM-TX",5,5,1
+"NM","NM","EnotP","Training","NV",4,4,1
+"NM","NM","EvIdry","Training","AZ",14,8,0.571428571428571
+"NM","NM","EvIdry","Training","CA",3,2,0.666666666666667
+"NM","NM","EvIdry","Training","CO-WY-UT-MT",11,8,0.727272727272727
+"NM","NM","EvIdry","Training","NM-TX",7,5,0.714285714285714
+"NM","NM","EvIdry","Training","NV",7,5,0.714285714285714
+"NM","NM","EvNE","Training","AZ",26,19,0.730769230769231
+"NM","NM","EvNE","Training","CA",17,16,0.941176470588235
+"NM","NM","EvNE","Training","CO-WY-UT-MT",15,12,0.8
+"NM","NM","EvNE","Training","NM-TX",14,12,0.857142857142857
+"NM","NM","EvNE","Training","NV",17,14,0.823529411764706
+"NM","NM","EvNE_SInm","Training","AZ",26,19,0.730769230769231
+"NM","NM","EvNE_SInm","Training","CA",17,16,0.941176470588235
+"NM","NM","EvNE_SInm","Training","CO-WY-UT-MT",15,12,0.8
+"NM","NM","EvNE_SInm","Training","NM-TX",14,12,0.857142857142857
+"NM","NM","EvNE_SInm","Training","NV",17,14,0.823529411764706
+"NM","NM","EvNE_SIpnw","Training","AZ",26,19,0.730769230769231
+"NM","NM","EvNE_SIpnw","Training","CA",17,16,0.941176470588235
+"NM","NM","EvNE_SIpnw","Training","CO-WY-UT-MT",15,12,0.8
+"NM","NM","EvNE_SIpnw","Training","NM-TX",14,11,0.785714285714286
+"NM","NM","EvNE_SIpnw","Training","NV",17,14,0.823529411764706
+"NM","NM","PnotE","Training","AZ",6,6,1
+"NM","NM","PnotE","Training","CA",5,5,1
+"NM","NM","PnotE","Training","CO-WY-UT-MT",3,3,1
+"NM","NM","PnotE","Training","NM-TX",5,5,1
+"NM","NM","PnotE","Training","NV",6,5,0.833333333333333
+"NM","NM","PvIvE","Training","AZ",26,15,0.576923076923077
+"NM","NM","PvIvE","Training","CA",17,8,0.470588235294118
+"NM","NM","PvIvE","Training","CO-WY-UT-MT",15,11,0.733333333333333
+"NM","NM","PvIvE","Training","NM-TX",14,11,0.785714285714286
+"NM","NM","PvIvE","Training","NV",17,10,0.588235294117647
+"NM","NM","PvIwet","Training","AZ",10,7,0.7
+"NM","NM","PvIwet","Training","CA",14,6,0.428571428571429
+"NM","NM","PvIwet","Training","CO-WY-UT-MT",4,3,0.75
+"NM","NM","PvIwet","Training","NM-TX",7,6,0.857142857142857
+"NM","NM","PvIwet","Training","NV",10,5,0.5
+"NM","NM","PvNP","Training","AZ",26,22,0.846153846153846
+"NM","NM","PvNP","Training","CA",17,9,0.529411764705882
+"NM","NM","PvNP","Training","CO-WY-UT-MT",15,14,0.933333333333333
+"NM","NM","PvNP","Training","NM-TX",14,13,0.928571428571429
+"NM","NM","PvNP","Training","NV",17,12,0.705882352941177
+"PNW","PNW","EnotP","Training","AZ",12,12,1
+"PNW","PNW","EnotP","Training","CA",3,3,1
+"PNW","PNW","EnotP","Training","CO-WY-UT-MT",6,6,1
+"PNW","PNW","EnotP","Training","NM-TX",5,5,1
+"PNW","PNW","EnotP","Training","NV",4,4,1
+"PNW","PNW","EvIdry","Training","AZ",14,9,0.642857142857143
+"PNW","PNW","EvIdry","Training","CA",3,3,1
+"PNW","PNW","EvIdry","Training","CO-WY-UT-MT",11,7,0.636363636363636
+"PNW","PNW","EvIdry","Training","NM-TX",7,6,0.857142857142857
+"PNW","PNW","EvIdry","Training","NV",7,6,0.857142857142857
+"PNW","PNW","EvNE","Training","AZ",26,19,0.730769230769231
+"PNW","PNW","EvNE","Training","CA",17,17,1
+"PNW","PNW","EvNE","Training","CO-WY-UT-MT",15,11,0.733333333333333
+"PNW","PNW","EvNE","Training","NM-TX",14,13,0.928571428571429
+"PNW","PNW","EvNE","Training","NV",17,14,0.823529411764706
+"PNW","PNW","EvNE_SInm","Training","AZ",26,19,0.730769230769231
+"PNW","PNW","EvNE_SInm","Training","CA",17,17,1
+"PNW","PNW","EvNE_SInm","Training","CO-WY-UT-MT",15,11,0.733333333333333
+"PNW","PNW","EvNE_SInm","Training","NM-TX",14,13,0.928571428571429
+"PNW","PNW","EvNE_SInm","Training","NV",17,14,0.823529411764706
+"PNW","PNW","EvNE_SIpnw","Training","AZ",26,19,0.730769230769231
+"PNW","PNW","EvNE_SIpnw","Training","CA",17,17,1
+"PNW","PNW","EvNE_SIpnw","Training","CO-WY-UT-MT",15,11,0.733333333333333
+"PNW","PNW","EvNE_SIpnw","Training","NM-TX",14,12,0.857142857142857
+"PNW","PNW","EvNE_SIpnw","Training","NV",17,14,0.823529411764706
+"PNW","PNW","PnotE","Training","AZ",6,6,1
+"PNW","PNW","PnotE","Training","CA",5,5,1
+"PNW","PNW","PnotE","Training","CO-WY-UT-MT",3,3,1
+"PNW","PNW","PnotE","Training","NM-TX",5,5,1
+"PNW","PNW","PnotE","Training","NV",6,5,0.833333333333333
+"PNW","PNW","PvIvE","Training","AZ",26,15,0.576923076923077
+"PNW","PNW","PvIvE","Training","CA",17,10,0.588235294117647
+"PNW","PNW","PvIvE","Training","CO-WY-UT-MT",15,8,0.533333333333333
+"PNW","PNW","PvIvE","Training","NM-TX",14,11,0.785714285714286
+"PNW","PNW","PvIvE","Training","NV",17,9,0.529411764705882
+"PNW","PNW","PvIwet","Training","AZ",10,6,0.6
+"PNW","PNW","PvIwet","Training","CA",14,7,0.5
+"PNW","PNW","PvIwet","Training","CO-WY-UT-MT",4,1,0.25
+"PNW","PNW","PvIwet","Training","NM-TX",7,5,0.714285714285714
+"PNW","PNW","PvIwet","Training","NV",10,3,0.3
+"PNW","PNW","PvNP","Training","AZ",26,22,0.846153846153846
+"PNW","PNW","PvNP","Training","CA",17,10,0.588235294117647
+"PNW","PNW","PvNP","Training","CO-WY-UT-MT",15,12,0.8
+"PNW","PNW","PvNP","Training","NM-TX",14,12,0.857142857142857
+"PNW","PNW","PvNP","Training","NV",17,11,0.647058823529412
+"PNW2.rf","PNW2.rf","EnotP","Testing","AZ",3,3,1
+"PNW2.rf","PNW2.rf","EnotP","Testing","CA",1,1,1
+"PNW2.rf","PNW2.rf","EnotP","Testing","CO-WY-UT-MT",1,1,1
+"PNW2.rf","PNW2.rf","EnotP","Testing","NM-TX",1,1,1
+"PNW2.rf","PNW2.rf","EnotP","Testing","NV",1,1,1
+"PNW2.rf","PNW2.rf","EnotP","Training","AZ",9,8,0.888888888888889
+"PNW2.rf","PNW2.rf","EnotP","Training","CA",2,2,1
+"PNW2.rf","PNW2.rf","EnotP","Training","CO-WY-UT-MT",5,5,1
+"PNW2.rf","PNW2.rf","EnotP","Training","NM-TX",4,4,1
+"PNW2.rf","PNW2.rf","EnotP","Training","NV",3,3,1
+"PNW2.rf","PNW2.rf","EvIdry","Testing","AZ",4,3,0.75
+"PNW2.rf","PNW2.rf","EvIdry","Testing","CA",1,1,1
+"PNW2.rf","PNW2.rf","EvIdry","Testing","CO-WY-UT-MT",2,1,0.5
+"PNW2.rf","PNW2.rf","EvIdry","Testing","NM-TX",1,1,1
+"PNW2.rf","PNW2.rf","EvIdry","Testing","NV",1,1,1
+"PNW2.rf","PNW2.rf","EvIdry","Training","AZ",10,6,0.6
+"PNW2.rf","PNW2.rf","EvIdry","Training","CA",2,2,1
+"PNW2.rf","PNW2.rf","EvIdry","Training","CO-WY-UT-MT",9,6,0.666666666666667
+"PNW2.rf","PNW2.rf","EvIdry","Training","NM-TX",6,5,0.833333333333333
+"PNW2.rf","PNW2.rf","EvIdry","Training","NV",6,4,0.666666666666667
+"PNW2.rf","PNW2.rf","EvNE","Testing","AZ",6,5,0.833333333333333
+"PNW2.rf","PNW2.rf","EvNE","Testing","CA",3,3,1
+"PNW2.rf","PNW2.rf","EvNE","Testing","CO-WY-UT-MT",4,3,0.75
+"PNW2.rf","PNW2.rf","EvNE","Testing","NM-TX",2,2,1
+"PNW2.rf","PNW2.rf","EvNE","Testing","NV",2,2,1
+"PNW2.rf","PNW2.rf","EvNE","Training","AZ",20,16,0.8
+"PNW2.rf","PNW2.rf","EvNE","Training","CA",14,13,0.928571428571429
+"PNW2.rf","PNW2.rf","EvNE","Training","CO-WY-UT-MT",11,8,0.727272727272727
+"PNW2.rf","PNW2.rf","EvNE","Training","NM-TX",12,11,0.916666666666667
+"PNW2.rf","PNW2.rf","EvNE","Training","NV",15,11,0.733333333333333
+"PNW2.rf","PNW2.rf","EvNE_SInm","Testing","AZ",6,4,0.666666666666667
+"PNW2.rf","PNW2.rf","EvNE_SInm","Testing","CA",3,3,1
+"PNW2.rf","PNW2.rf","EvNE_SInm","Testing","CO-WY-UT-MT",4,3,0.75
+"PNW2.rf","PNW2.rf","EvNE_SInm","Testing","NM-TX",2,2,1
+"PNW2.rf","PNW2.rf","EvNE_SInm","Testing","NV",2,2,1
+"PNW2.rf","PNW2.rf","EvNE_SInm","Training","AZ",20,17,0.85
+"PNW2.rf","PNW2.rf","EvNE_SInm","Training","CA",14,14,1
+"PNW2.rf","PNW2.rf","EvNE_SInm","Training","CO-WY-UT-MT",11,8,0.727272727272727
+"PNW2.rf","PNW2.rf","EvNE_SInm","Training","NM-TX",12,11,0.916666666666667
+"PNW2.rf","PNW2.rf","EvNE_SInm","Training","NV",15,11,0.733333333333333
+"PNW2.rf","PNW2.rf","EvNE_SIpnw","Testing","AZ",6,5,0.833333333333333
+"PNW2.rf","PNW2.rf","EvNE_SIpnw","Testing","CA",3,3,1
+"PNW2.rf","PNW2.rf","EvNE_SIpnw","Testing","CO-WY-UT-MT",4,3,0.75
+"PNW2.rf","PNW2.rf","EvNE_SIpnw","Testing","NM-TX",2,1,0.5
+"PNW2.rf","PNW2.rf","EvNE_SIpnw","Testing","NV",2,2,1
+"PNW2.rf","PNW2.rf","EvNE_SIpnw","Training","AZ",20,17,0.85
+"PNW2.rf","PNW2.rf","EvNE_SIpnw","Training","CA",14,13,0.928571428571429
+"PNW2.rf","PNW2.rf","EvNE_SIpnw","Training","CO-WY-UT-MT",11,8,0.727272727272727
+"PNW2.rf","PNW2.rf","EvNE_SIpnw","Training","NM-TX",12,11,0.916666666666667
+"PNW2.rf","PNW2.rf","EvNE_SIpnw","Training","NV",15,11,0.733333333333333
+"PNW2.rf","PNW2.rf","PnotE","Testing","AZ",1,1,1
+"PNW2.rf","PNW2.rf","PnotE","Testing","CO-WY-UT-MT",1,1,1
+"PNW2.rf","PNW2.rf","PnotE","Testing","NM-TX",1,1,1
+"PNW2.rf","PNW2.rf","PnotE","Testing","NV",1,1,1
+"PNW2.rf","PNW2.rf","PnotE","Training","AZ",5,5,1
+"PNW2.rf","PNW2.rf","PnotE","Training","CA",5,4,0.8
+"PNW2.rf","PNW2.rf","PnotE","Training","CO-WY-UT-MT",2,2,1
+"PNW2.rf","PNW2.rf","PnotE","Training","NM-TX",4,4,1
+"PNW2.rf","PNW2.rf","PnotE","Training","NV",5,4,0.8
+"PNW2.rf","PNW2.rf","PvIvE","Testing","AZ",6,4,0.666666666666667
+"PNW2.rf","PNW2.rf","PvIvE","Testing","CA",3,1,0.333333333333333
+"PNW2.rf","PNW2.rf","PvIvE","Testing","CO-WY-UT-MT",4,1,0.25
+"PNW2.rf","PNW2.rf","PvIvE","Testing","NM-TX",2,2,1
+"PNW2.rf","PNW2.rf","PvIvE","Testing","NV",2,1,0.5
+"PNW2.rf","PNW2.rf","PvIvE","Training","AZ",20,11,0.55
+"PNW2.rf","PNW2.rf","PvIvE","Training","CA",14,10,0.714285714285714
+"PNW2.rf","PNW2.rf","PvIvE","Training","CO-WY-UT-MT",11,8,0.727272727272727
+"PNW2.rf","PNW2.rf","PvIvE","Training","NM-TX",12,8,0.666666666666667
+"PNW2.rf","PNW2.rf","PvIvE","Training","NV",15,9,0.6
+"PNW2.rf","PNW2.rf","PvIwet","Testing","AZ",1,0,0
+"PNW2.rf","PNW2.rf","PvIwet","Testing","CA",2,0,0
+"PNW2.rf","PNW2.rf","PvIwet","Testing","CO-WY-UT-MT",2,0,0
+"PNW2.rf","PNW2.rf","PvIwet","Testing","NM-TX",1,1,1
+"PNW2.rf","PNW2.rf","PvIwet","Testing","NV",1,0,0
+"PNW2.rf","PNW2.rf","PvIwet","Training","AZ",9,4,0.444444444444444
+"PNW2.rf","PNW2.rf","PvIwet","Training","CA",12,8,0.666666666666667
+"PNW2.rf","PNW2.rf","PvIwet","Training","CO-WY-UT-MT",2,2,1
+"PNW2.rf","PNW2.rf","PvIwet","Training","NM-TX",6,3,0.5
+"PNW2.rf","PNW2.rf","PvIwet","Training","NV",9,5,0.555555555555556
+"PNW2.rf","PNW2.rf","PvNP","Testing","AZ",6,5,0.833333333333333
+"PNW2.rf","PNW2.rf","PvNP","Testing","CA",3,1,0.333333333333333
+"PNW2.rf","PNW2.rf","PvNP","Testing","CO-WY-UT-MT",4,2,0.5
+"PNW2.rf","PNW2.rf","PvNP","Testing","NM-TX",2,2,1
+"PNW2.rf","PNW2.rf","PvNP","Testing","NV",2,1,0.5
+"PNW2.rf","PNW2.rf","PvNP","Training","AZ",20,14,0.7
+"PNW2.rf","PNW2.rf","PvNP","Training","CA",14,10,0.714285714285714
+"PNW2.rf","PNW2.rf","PvNP","Training","CO-WY-UT-MT",11,11,1
+"PNW2.rf","PNW2.rf","PvNP","Training","NM-TX",12,9,0.75
+"PNW2.rf","PNW2.rf","PvNP","Training","NV",15,12,0.8
+"PNW2.rp","PNW2.rp","EnotP","Testing","AZ",3,3,1
+"PNW2.rp","PNW2.rp","EnotP","Testing","CA",1,1,1
+"PNW2.rp","PNW2.rp","EnotP","Testing","CO-WY-UT-MT",1,1,1
+"PNW2.rp","PNW2.rp","EnotP","Testing","NM-TX",1,1,1
+"PNW2.rp","PNW2.rp","EnotP","Testing","NV",1,1,1
+"PNW2.rp","PNW2.rp","EnotP","Training","AZ",9,8,0.888888888888889
+"PNW2.rp","PNW2.rp","EnotP","Training","CA",2,2,1
+"PNW2.rp","PNW2.rp","EnotP","Training","CO-WY-UT-MT",5,5,1
+"PNW2.rp","PNW2.rp","EnotP","Training","NM-TX",4,4,1
+"PNW2.rp","PNW2.rp","EnotP","Training","NV",3,3,1
+"PNW2.rp","PNW2.rp","EvIdry","Testing","AZ",4,3,0.75
+"PNW2.rp","PNW2.rp","EvIdry","Testing","CA",1,1,1
+"PNW2.rp","PNW2.rp","EvIdry","Testing","CO-WY-UT-MT",2,1,0.5
+"PNW2.rp","PNW2.rp","EvIdry","Testing","NM-TX",1,1,1
+"PNW2.rp","PNW2.rp","EvIdry","Testing","NV",1,1,1
+"PNW2.rp","PNW2.rp","EvIdry","Training","AZ",10,6,0.6
+"PNW2.rp","PNW2.rp","EvIdry","Training","CA",2,2,1
+"PNW2.rp","PNW2.rp","EvIdry","Training","CO-WY-UT-MT",9,6,0.666666666666667
+"PNW2.rp","PNW2.rp","EvIdry","Training","NM-TX",6,4,0.666666666666667
+"PNW2.rp","PNW2.rp","EvIdry","Training","NV",6,4,0.666666666666667
+"PNW2.rp","PNW2.rp","EvNE","Testing","AZ",6,4,0.666666666666667
+"PNW2.rp","PNW2.rp","EvNE","Testing","CA",3,3,1
+"PNW2.rp","PNW2.rp","EvNE","Testing","CO-WY-UT-MT",4,3,0.75
+"PNW2.rp","PNW2.rp","EvNE","Testing","NM-TX",2,2,1
+"PNW2.rp","PNW2.rp","EvNE","Testing","NV",2,2,1
+"PNW2.rp","PNW2.rp","EvNE","Training","AZ",20,16,0.8
+"PNW2.rp","PNW2.rp","EvNE","Training","CA",14,14,1
+"PNW2.rp","PNW2.rp","EvNE","Training","CO-WY-UT-MT",11,8,0.727272727272727
+"PNW2.rp","PNW2.rp","EvNE","Training","NM-TX",12,10,0.833333333333333
+"PNW2.rp","PNW2.rp","EvNE","Training","NV",15,10,0.666666666666667
+"PNW2.rp","PNW2.rp","EvNE_SInm","Testing","AZ",6,4,0.666666666666667
+"PNW2.rp","PNW2.rp","EvNE_SInm","Testing","CA",3,3,1
+"PNW2.rp","PNW2.rp","EvNE_SInm","Testing","CO-WY-UT-MT",4,3,0.75
+"PNW2.rp","PNW2.rp","EvNE_SInm","Testing","NM-TX",2,2,1
+"PNW2.rp","PNW2.rp","EvNE_SInm","Testing","NV",2,2,1
+"PNW2.rp","PNW2.rp","EvNE_SInm","Training","AZ",20,17,0.85
+"PNW2.rp","PNW2.rp","EvNE_SInm","Training","CA",14,14,1
+"PNW2.rp","PNW2.rp","EvNE_SInm","Training","CO-WY-UT-MT",11,8,0.727272727272727
+"PNW2.rp","PNW2.rp","EvNE_SInm","Training","NM-TX",12,10,0.833333333333333
+"PNW2.rp","PNW2.rp","EvNE_SInm","Training","NV",15,10,0.666666666666667
+"PNW2.rp","PNW2.rp","EvNE_SIpnw","Testing","AZ",6,4,0.666666666666667
+"PNW2.rp","PNW2.rp","EvNE_SIpnw","Testing","CA",3,3,1
+"PNW2.rp","PNW2.rp","EvNE_SIpnw","Testing","CO-WY-UT-MT",4,3,0.75
+"PNW2.rp","PNW2.rp","EvNE_SIpnw","Testing","NM-TX",2,1,0.5
+"PNW2.rp","PNW2.rp","EvNE_SIpnw","Testing","NV",2,2,1
+"PNW2.rp","PNW2.rp","EvNE_SIpnw","Training","AZ",20,17,0.85
+"PNW2.rp","PNW2.rp","EvNE_SIpnw","Training","CA",14,14,1
+"PNW2.rp","PNW2.rp","EvNE_SIpnw","Training","CO-WY-UT-MT",11,8,0.727272727272727
+"PNW2.rp","PNW2.rp","EvNE_SIpnw","Training","NM-TX",12,10,0.833333333333333
+"PNW2.rp","PNW2.rp","EvNE_SIpnw","Training","NV",15,10,0.666666666666667
+"PNW2.rp","PNW2.rp","PnotE","Testing","AZ",1,1,1
+"PNW2.rp","PNW2.rp","PnotE","Testing","CO-WY-UT-MT",1,1,1
+"PNW2.rp","PNW2.rp","PnotE","Testing","NM-TX",1,1,1
+"PNW2.rp","PNW2.rp","PnotE","Testing","NV",1,1,1
+"PNW2.rp","PNW2.rp","PnotE","Training","AZ",5,5,1
+"PNW2.rp","PNW2.rp","PnotE","Training","CA",5,5,1
+"PNW2.rp","PNW2.rp","PnotE","Training","CO-WY-UT-MT",2,2,1
+"PNW2.rp","PNW2.rp","PnotE","Training","NM-TX",4,4,1
+"PNW2.rp","PNW2.rp","PnotE","Training","NV",5,4,0.8
+"PNW2.rp","PNW2.rp","PvIvE","Testing","AZ",6,3,0.5
+"PNW2.rp","PNW2.rp","PvIvE","Testing","CA",3,3,1
+"PNW2.rp","PNW2.rp","PvIvE","Testing","CO-WY-UT-MT",4,1,0.25
+"PNW2.rp","PNW2.rp","PvIvE","Testing","NM-TX",2,2,1
+"PNW2.rp","PNW2.rp","PvIvE","Testing","NV",2,1,0.5
+"PNW2.rp","PNW2.rp","PvIvE","Training","AZ",20,15,0.75
+"PNW2.rp","PNW2.rp","PvIvE","Training","CA",14,7,0.5
+"PNW2.rp","PNW2.rp","PvIvE","Training","CO-WY-UT-MT",11,8,0.727272727272727
+"PNW2.rp","PNW2.rp","PvIvE","Training","NM-TX",12,9,0.75
+"PNW2.rp","PNW2.rp","PvIvE","Training","NV",15,8,0.533333333333333
+"PNW2.rp","PNW2.rp","PvIwet","Testing","AZ",1,0,0
+"PNW2.rp","PNW2.rp","PvIwet","Testing","CA",2,2,1
+"PNW2.rp","PNW2.rp","PvIwet","Testing","CO-WY-UT-MT",2,0,0
+"PNW2.rp","PNW2.rp","PvIwet","Testing","NM-TX",1,1,1
+"PNW2.rp","PNW2.rp","PvIwet","Testing","NV",1,0,0
+"PNW2.rp","PNW2.rp","PvIwet","Training","AZ",9,8,0.888888888888889
+"PNW2.rp","PNW2.rp","PvIwet","Training","CA",12,5,0.416666666666667
+"PNW2.rp","PNW2.rp","PvIwet","Training","CO-WY-UT-MT",2,2,1
+"PNW2.rp","PNW2.rp","PvIwet","Training","NM-TX",6,5,0.833333333333333
+"PNW2.rp","PNW2.rp","PvIwet","Training","NV",9,4,0.444444444444444
+"PNW2.rp","PNW2.rp","PvNP","Testing","AZ",6,5,0.833333333333333
+"PNW2.rp","PNW2.rp","PvNP","Testing","CA",3,3,1
+"PNW2.rp","PNW2.rp","PvNP","Testing","CO-WY-UT-MT",4,2,0.5
+"PNW2.rp","PNW2.rp","PvNP","Testing","NM-TX",2,2,1
+"PNW2.rp","PNW2.rp","PvNP","Testing","NV",2,1,0.5
+"PNW2.rp","PNW2.rp","PvNP","Training","AZ",20,18,0.9
+"PNW2.rp","PNW2.rp","PvNP","Training","CA",14,7,0.5
+"PNW2.rp","PNW2.rp","PvNP","Training","CO-WY-UT-MT",11,11,1
+"PNW2.rp","PNW2.rp","PvNP","Training","NM-TX",12,11,0.916666666666667
+"PNW2.rp","PNW2.rp","PvNP","Training","NV",15,12,0.8
+"Strat","RandomForest","EnotP","Testing","AZ",2,1,0.5
+"Strat","RandomForest","EnotP","Testing","CA",1,1,1
+"Strat","RandomForest","EnotP","Testing","NV",1,1,1
+"Strat","RandomForest","EnotP","Training","AZ",10,10,1
+"Strat","RandomForest","EnotP","Training","CA",2,2,1
+"Strat","RandomForest","EnotP","Training","CO-WY-UT-MT",6,6,1
+"Strat","RandomForest","EnotP","Training","NM-TX",5,5,1
+"Strat","RandomForest","EnotP","Training","NV",3,3,1
+"Strat","RandomForest","EvIdry","Testing","AZ",2,1,0.5
+"Strat","RandomForest","EvIdry","Testing","CA",1,1,1
+"Strat","RandomForest","EvIdry","Testing","CO-WY-UT-MT",1,0,0
+"Strat","RandomForest","EvIdry","Testing","NM-TX",1,0,0
+"Strat","RandomForest","EvIdry","Testing","NV",1,1,1
+"Strat","RandomForest","EvIdry","Training","AZ",12,9,0.75
+"Strat","RandomForest","EvIdry","Training","CA",2,2,1
+"Strat","RandomForest","EvIdry","Training","CO-WY-UT-MT",10,6,0.6
+"Strat","RandomForest","EvIdry","Training","NM-TX",6,5,0.833333333333333
+"Strat","RandomForest","EvIdry","Training","NV",6,2,0.333333333333333
+"Strat","RandomForest","EvNE","Testing","AZ",10,9,0.9
+"Strat","RandomForest","EvNE","Testing","CA",3,3,1
+"Strat","RandomForest","EvNE","Testing","CO-WY-UT-MT",1,0,0
+"Strat","RandomForest","EvNE","Testing","NM-TX",5,4,0.8
+"Strat","RandomForest","EvNE","Testing","NV",1,1,1
+"Strat","RandomForest","EvNE","Training","AZ",16,13,0.8125
+"Strat","RandomForest","EvNE","Training","CA",14,14,1
+"Strat","RandomForest","EvNE","Training","CO-WY-UT-MT",14,10,0.714285714285714
+"Strat","RandomForest","EvNE","Training","NM-TX",9,8,0.888888888888889
+"Strat","RandomForest","EvNE","Training","NV",16,11,0.6875
+"Strat","RandomForest","EvNE_SInm","Testing","AZ",10,9,0.9
+"Strat","RandomForest","EvNE_SInm","Testing","CA",3,3,1
+"Strat","RandomForest","EvNE_SInm","Testing","CO-WY-UT-MT",1,0,0
+"Strat","RandomForest","EvNE_SInm","Testing","NM-TX",5,4,0.8
+"Strat","RandomForest","EvNE_SInm","Testing","NV",1,1,1
+"Strat","RandomForest","EvNE_SInm","Training","AZ",16,12,0.75
+"Strat","RandomForest","EvNE_SInm","Training","CA",14,14,1
+"Strat","RandomForest","EvNE_SInm","Training","CO-WY-UT-MT",14,10,0.714285714285714
+"Strat","RandomForest","EvNE_SInm","Training","NM-TX",9,8,0.888888888888889
+"Strat","RandomForest","EvNE_SInm","Training","NV",16,11,0.6875
+"Strat","RandomForest","EvNE_SIpnw","Testing","AZ",10,9,0.9
+"Strat","RandomForest","EvNE_SIpnw","Testing","CA",3,3,1
+"Strat","RandomForest","EvNE_SIpnw","Testing","CO-WY-UT-MT",1,0,0
+"Strat","RandomForest","EvNE_SIpnw","Testing","NM-TX",5,4,0.8
+"Strat","RandomForest","EvNE_SIpnw","Testing","NV",1,1,1
+"Strat","RandomForest","EvNE_SIpnw","Training","AZ",16,13,0.8125
+"Strat","RandomForest","EvNE_SIpnw","Training","CA",14,14,1
+"Strat","RandomForest","EvNE_SIpnw","Training","CO-WY-UT-MT",14,10,0.714285714285714
+"Strat","RandomForest","EvNE_SIpnw","Training","NM-TX",9,7,0.777777777777778
+"Strat","RandomForest","EvNE_SIpnw","Training","NV",16,11,0.6875
+"Strat","RandomForest","PnotE","Testing","AZ",6,6,1
+"Strat","RandomForest","PnotE","Testing","CA",1,1,1
+"Strat","RandomForest","PnotE","Testing","NM-TX",2,2,1
+"Strat","RandomForest","PnotE","Training","CA",4,4,1
+"Strat","RandomForest","PnotE","Training","CO-WY-UT-MT",3,3,1
+"Strat","RandomForest","PnotE","Training","NM-TX",3,3,1
+"Strat","RandomForest","PnotE","Training","NV",6,6,1
+"Strat","RandomForest","PvIvE","Testing","AZ",10,6,0.6
+"Strat","RandomForest","PvIvE","Testing","CA",3,2,0.666666666666667
+"Strat","RandomForest","PvIvE","Testing","CO-WY-UT-MT",1,0,0
+"Strat","RandomForest","PvIvE","Testing","NM-TX",5,3,0.6
+"Strat","RandomForest","PvIvE","Testing","NV",1,1,1
+"Strat","RandomForest","PvIvE","Training","AZ",16,13,0.8125
+"Strat","RandomForest","PvIvE","Training","CA",14,6,0.428571428571429
+"Strat","RandomForest","PvIvE","Training","CO-WY-UT-MT",14,8,0.571428571428571
+"Strat","RandomForest","PvIvE","Training","NM-TX",9,6,0.666666666666667
+"Strat","RandomForest","PvIvE","Training","NV",16,3,0.1875
+"Strat","RandomForest","PvIwet","Testing","AZ",8,5,0.625
+"Strat","RandomForest","PvIwet","Testing","CA",2,1,0.5
+"Strat","RandomForest","PvIwet","Testing","NM-TX",4,3,0.75
+"Strat","RandomForest","PvIwet","Training","AZ",2,2,1
+"Strat","RandomForest","PvIwet","Training","CA",12,4,0.333333333333333
+"Strat","RandomForest","PvIwet","Training","CO-WY-UT-MT",4,2,0.5
+"Strat","RandomForest","PvIwet","Training","NM-TX",3,1,0.333333333333333
+"Strat","RandomForest","PvIwet","Training","NV",10,1,0.1
+"Strat","RandomForest","PvNP","Testing","AZ",10,6,0.6
+"Strat","RandomForest","PvNP","Testing","CA",3,2,0.666666666666667
+"Strat","RandomForest","PvNP","Testing","CO-WY-UT-MT",1,1,1
+"Strat","RandomForest","PvNP","Testing","NM-TX",5,4,0.8
+"Strat","RandomForest","PvNP","Testing","NV",1,1,1
+"Strat","RandomForest","PvNP","Training","AZ",16,16,1
+"Strat","RandomForest","PvNP","Training","CA",14,6,0.428571428571429
+"Strat","RandomForest","PvNP","Training","CO-WY-UT-MT",14,12,0.857142857142857
+"Strat","RandomForest","PvNP","Training","NM-TX",9,7,0.777777777777778
+"Strat","RandomForest","PvNP","Training","NV",16,8,0.5
+"Strat","Rpart","EnotP","Testing","AZ",2,2,1
+"Strat","Rpart","EnotP","Testing","CA",1,1,1
+"Strat","Rpart","EnotP","Testing","NV",1,1,1
+"Strat","Rpart","EnotP","Training","AZ",10,10,1
+"Strat","Rpart","EnotP","Training","CA",2,2,1
+"Strat","Rpart","EnotP","Training","CO-WY-UT-MT",6,6,1
+"Strat","Rpart","EnotP","Training","NM-TX",5,5,1
+"Strat","Rpart","EnotP","Training","NV",3,3,1
+"Strat","Rpart","EvIdry","Testing","AZ",2,1,0.5
+"Strat","Rpart","EvIdry","Testing","CA",1,0,0
+"Strat","Rpart","EvIdry","Testing","CO-WY-UT-MT",1,0,0
+"Strat","Rpart","EvIdry","Testing","NM-TX",1,1,1
+"Strat","Rpart","EvIdry","Testing","NV",1,0,0
+"Strat","Rpart","EvIdry","Training","AZ",12,9,0.75
+"Strat","Rpart","EvIdry","Training","CA",2,2,1
+"Strat","Rpart","EvIdry","Training","CO-WY-UT-MT",10,7,0.7
+"Strat","Rpart","EvIdry","Training","NM-TX",6,6,1
+"Strat","Rpart","EvIdry","Training","NV",6,5,0.833333333333333
+"Strat","Rpart","EvNE","Testing","AZ",10,8,0.8
+"Strat","Rpart","EvNE","Testing","CA",3,2,0.666666666666667
+"Strat","Rpart","EvNE","Testing","CO-WY-UT-MT",1,0,0
+"Strat","Rpart","EvNE","Testing","NM-TX",5,5,1
+"Strat","Rpart","EvNE","Testing","NV",1,0,0
+"Strat","Rpart","EvNE","Training","AZ",16,13,0.8125
+"Strat","Rpart","EvNE","Training","CA",14,14,1
+"Strat","Rpart","EvNE","Training","CO-WY-UT-MT",14,11,0.785714285714286
+"Strat","Rpart","EvNE","Training","NM-TX",9,9,1
+"Strat","Rpart","EvNE","Training","NV",16,14,0.875
+"Strat","Rpart","EvNE_SInm","Testing","AZ",10,9,0.9
+"Strat","Rpart","EvNE_SInm","Testing","CA",3,2,0.666666666666667
+"Strat","Rpart","EvNE_SInm","Testing","CO-WY-UT-MT",1,0,0
+"Strat","Rpart","EvNE_SInm","Testing","NM-TX",5,5,1
+"Strat","Rpart","EvNE_SInm","Testing","NV",1,0,0
+"Strat","Rpart","EvNE_SInm","Training","AZ",16,12,0.75
+"Strat","Rpart","EvNE_SInm","Training","CA",14,14,1
+"Strat","Rpart","EvNE_SInm","Training","CO-WY-UT-MT",14,11,0.785714285714286
+"Strat","Rpart","EvNE_SInm","Training","NM-TX",9,9,1
+"Strat","Rpart","EvNE_SInm","Training","NV",16,14,0.875
+"Strat","Rpart","EvNE_SIpnw","Testing","AZ",10,9,0.9
+"Strat","Rpart","EvNE_SIpnw","Testing","CA",3,2,0.666666666666667
+"Strat","Rpart","EvNE_SIpnw","Testing","CO-WY-UT-MT",1,0,0
+"Strat","Rpart","EvNE_SIpnw","Testing","NM-TX",5,5,1
+"Strat","Rpart","EvNE_SIpnw","Testing","NV",1,0,0
+"Strat","Rpart","EvNE_SIpnw","Training","AZ",16,13,0.8125
+"Strat","Rpart","EvNE_SIpnw","Training","CA",14,14,1
+"Strat","Rpart","EvNE_SIpnw","Training","CO-WY-UT-MT",14,11,0.785714285714286
+"Strat","Rpart","EvNE_SIpnw","Training","NM-TX",9,8,0.888888888888889
+"Strat","Rpart","EvNE_SIpnw","Training","NV",16,14,0.875
+"Strat","Rpart","PnotE","Testing","AZ",6,6,1
+"Strat","Rpart","PnotE","Testing","CA",1,1,1
+"Strat","Rpart","PnotE","Testing","NM-TX",2,2,1
+"Strat","Rpart","PnotE","Training","CA",4,4,1
+"Strat","Rpart","PnotE","Training","CO-WY-UT-MT",3,3,1
+"Strat","Rpart","PnotE","Training","NM-TX",3,3,1
+"Strat","Rpart","PnotE","Training","NV",6,6,1
+"Strat","Rpart","PvIvE","Testing","AZ",10,4,0.4
+"Strat","Rpart","PvIvE","Testing","CA",3,1,0.333333333333333
+"Strat","Rpart","PvIvE","Testing","CO-WY-UT-MT",1,0,0
+"Strat","Rpart","PvIvE","Testing","NM-TX",5,2,0.4
+"Strat","Rpart","PvIvE","Testing","NV",1,0,0
+"Strat","Rpart","PvIvE","Training","AZ",16,13,0.8125
+"Strat","Rpart","PvIvE","Training","CA",14,11,0.785714285714286
+"Strat","Rpart","PvIvE","Training","CO-WY-UT-MT",14,11,0.785714285714286
+"Strat","Rpart","PvIvE","Training","NM-TX",9,9,1
+"Strat","Rpart","PvIvE","Training","NV",16,10,0.625
+"Strat","Rpart","PvIwet","Testing","AZ",8,3,0.375
+"Strat","Rpart","PvIwet","Testing","CA",2,1,0.5
+"Strat","Rpart","PvIwet","Testing","NM-TX",4,1,0.25
+"Strat","Rpart","PvIwet","Training","AZ",2,2,1
+"Strat","Rpart","PvIwet","Training","CA",12,9,0.75
+"Strat","Rpart","PvIwet","Training","CO-WY-UT-MT",4,4,1
+"Strat","Rpart","PvIwet","Training","NM-TX",3,3,1
+"Strat","Rpart","PvIwet","Training","NV",10,5,0.5
+"Strat","Rpart","PvNP","Testing","AZ",10,6,0.6
+"Strat","Rpart","PvNP","Testing","CA",3,2,0.666666666666667
+"Strat","Rpart","PvNP","Testing","CO-WY-UT-MT",1,1,1
+"Strat","Rpart","PvNP","Testing","NM-TX",5,2,0.4
+"Strat","Rpart","PvNP","Testing","NV",1,1,1
+"Strat","Rpart","PvNP","Training","AZ",16,16,1
+"Strat","Rpart","PvNP","Training","CA",14,11,0.785714285714286
+"Strat","Rpart","PvNP","Training","CO-WY-UT-MT",14,14,1
+"Strat","Rpart","PvNP","Training","NM-TX",9,9,1
+"Strat","Rpart","PvNP","Training","NV",16,12,0.75
+"Strat","RpartScore","EnotP","Testing","AZ",2,1,0.5
+"Strat","RpartScore","EnotP","Testing","CA",1,1,1
+"Strat","RpartScore","EnotP","Testing","NV",1,1,1
+"Strat","RpartScore","EnotP","Training","AZ",10,10,1
+"Strat","RpartScore","EnotP","Training","CA",2,2,1
+"Strat","RpartScore","EnotP","Training","CO-WY-UT-MT",6,6,1
+"Strat","RpartScore","EnotP","Training","NM-TX",5,5,1
+"Strat","RpartScore","EnotP","Training","NV",3,3,1
+"Strat","RpartScore","EvIdry","Testing","AZ",2,1,0.5
+"Strat","RpartScore","EvIdry","Testing","CA",1,1,1
+"Strat","RpartScore","EvIdry","Testing","CO-WY-UT-MT",1,0,0
+"Strat","RpartScore","EvIdry","Testing","NM-TX",1,1,1
+"Strat","RpartScore","EvIdry","Testing","NV",1,0,0
+"Strat","RpartScore","EvIdry","Training","AZ",12,9,0.75
+"Strat","RpartScore","EvIdry","Training","CA",2,2,1
+"Strat","RpartScore","EvIdry","Training","CO-WY-UT-MT",10,7,0.7
+"Strat","RpartScore","EvIdry","Training","NM-TX",6,6,1
+"Strat","RpartScore","EvIdry","Training","NV",6,5,0.833333333333333
+"Strat","RpartScore","EvNE","Testing","AZ",10,9,0.9
+"Strat","RpartScore","EvNE","Testing","CA",3,3,1
+"Strat","RpartScore","EvNE","Testing","CO-WY-UT-MT",1,0,0
+"Strat","RpartScore","EvNE","Testing","NM-TX",5,5,1
+"Strat","RpartScore","EvNE","Testing","NV",1,0,0
+"Strat","RpartScore","EvNE","Training","AZ",16,12,0.75
+"Strat","RpartScore","EvNE","Training","CA",14,14,1
+"Strat","RpartScore","EvNE","Training","CO-WY-UT-MT",14,11,0.785714285714286
+"Strat","RpartScore","EvNE","Training","NM-TX",9,9,1
+"Strat","RpartScore","EvNE","Training","NV",16,14,0.875
+"Strat","RpartScore","EvNE_SInm","Testing","AZ",10,9,0.9
+"Strat","RpartScore","EvNE_SInm","Testing","CA",3,3,1
+"Strat","RpartScore","EvNE_SInm","Testing","CO-WY-UT-MT",1,0,0
+"Strat","RpartScore","EvNE_SInm","Testing","NM-TX",5,5,1
+"Strat","RpartScore","EvNE_SInm","Testing","NV",1,0,0
+"Strat","RpartScore","EvNE_SInm","Training","AZ",16,12,0.75
+"Strat","RpartScore","EvNE_SInm","Training","CA",14,14,1
+"Strat","RpartScore","EvNE_SInm","Training","CO-WY-UT-MT",14,11,0.785714285714286
+"Strat","RpartScore","EvNE_SInm","Training","NM-TX",9,9,1
+"Strat","RpartScore","EvNE_SInm","Training","NV",16,14,0.875
+"Strat","RpartScore","EvNE_SIpnw","Testing","AZ",10,9,0.9
+"Strat","RpartScore","EvNE_SIpnw","Testing","CA",3,3,1
+"Strat","RpartScore","EvNE_SIpnw","Testing","CO-WY-UT-MT",1,0,0
+"Strat","RpartScore","EvNE_SIpnw","Testing","NM-TX",5,5,1
+"Strat","RpartScore","EvNE_SIpnw","Testing","NV",1,0,0
+"Strat","RpartScore","EvNE_SIpnw","Training","AZ",16,12,0.75
+"Strat","RpartScore","EvNE_SIpnw","Training","CA",14,14,1
+"Strat","RpartScore","EvNE_SIpnw","Training","CO-WY-UT-MT",14,11,0.785714285714286
+"Strat","RpartScore","EvNE_SIpnw","Training","NM-TX",9,8,0.888888888888889
+"Strat","RpartScore","EvNE_SIpnw","Training","NV",16,14,0.875
+"Strat","RpartScore","PnotE","Testing","AZ",6,6,1
+"Strat","RpartScore","PnotE","Testing","CA",1,1,1
+"Strat","RpartScore","PnotE","Testing","NM-TX",2,2,1
+"Strat","RpartScore","PnotE","Training","CA",4,4,1
+"Strat","RpartScore","PnotE","Training","CO-WY-UT-MT",3,3,1
+"Strat","RpartScore","PnotE","Training","NM-TX",3,3,1
+"Strat","RpartScore","PnotE","Training","NV",6,6,1
+"Strat","RpartScore","PvIvE","Testing","AZ",10,6,0.6
+"Strat","RpartScore","PvIvE","Testing","CA",3,2,0.666666666666667
+"Strat","RpartScore","PvIvE","Testing","CO-WY-UT-MT",1,0,0
+"Strat","RpartScore","PvIvE","Testing","NM-TX",5,3,0.6
+"Strat","RpartScore","PvIvE","Testing","NV",1,0,0
+"Strat","RpartScore","PvIvE","Training","AZ",16,12,0.75
+"Strat","RpartScore","PvIvE","Training","CA",14,11,0.785714285714286
+"Strat","RpartScore","PvIvE","Training","CO-WY-UT-MT",14,11,0.785714285714286
+"Strat","RpartScore","PvIvE","Training","NM-TX",9,7,0.777777777777778
+"Strat","RpartScore","PvIvE","Training","NV",16,11,0.6875
+"Strat","RpartScore","PvIwet","Testing","AZ",8,5,0.625
+"Strat","RpartScore","PvIwet","Testing","CA",2,1,0.5
+"Strat","RpartScore","PvIwet","Testing","NM-TX",4,2,0.5
+"Strat","RpartScore","PvIwet","Training","AZ",2,2,1
+"Strat","RpartScore","PvIwet","Training","CA",12,9,0.75
+"Strat","RpartScore","PvIwet","Training","CO-WY-UT-MT",4,4,1
+"Strat","RpartScore","PvIwet","Training","NM-TX",3,1,0.333333333333333
+"Strat","RpartScore","PvIwet","Training","NV",10,6,0.6
+"Strat","RpartScore","PvNP","Testing","AZ",10,6,0.6
+"Strat","RpartScore","PvNP","Testing","CA",3,2,0.666666666666667
+"Strat","RpartScore","PvNP","Testing","CO-WY-UT-MT",1,1,1
+"Strat","RpartScore","PvNP","Testing","NM-TX",5,3,0.6
+"Strat","RpartScore","PvNP","Testing","NV",1,1,1
+"Strat","RpartScore","PvNP","Training","AZ",16,16,1
+"Strat","RpartScore","PvNP","Training","CA",14,11,0.785714285714286
+"Strat","RpartScore","PvNP","Training","CO-WY-UT-MT",14,14,1
+"Strat","RpartScore","PvNP","Training","NM-TX",9,7,0.777777777777778
+"Strat","RpartScore","PvNP","Training","NV",16,13,0.8125
+"Strat H2O","RandomForest","EnotP","Testing","AZ",2,2,1
+"Strat H2O","RandomForest","EnotP","Testing","CO-WY-UT-MT",1,1,1
+"Strat H2O","RandomForest","EnotP","Testing","NM-TX",1,1,1
+"Strat H2O","RandomForest","EnotP","Testing","NV",1,1,1
+"Strat H2O","RandomForest","EnotP","Training","AZ",10,10,1
+"Strat H2O","RandomForest","EnotP","Training","CA",3,3,1
+"Strat H2O","RandomForest","EnotP","Training","CO-WY-UT-MT",5,5,1
+"Strat H2O","RandomForest","EnotP","Training","NM-TX",4,4,1
+"Strat H2O","RandomForest","EnotP","Training","NV",3,3,1
+"Strat H2O","RandomForest","EvIdry","Testing","AZ",4,4,1
+"Strat H2O","RandomForest","EvIdry","Testing","CO-WY-UT-MT",3,2,0.666666666666667
+"Strat H2O","RandomForest","EvIdry","Testing","NM-TX",1,1,1
+"Strat H2O","RandomForest","EvIdry","Testing","NV",1,1,1
+"Strat H2O","RandomForest","EvIdry","Training","AZ",10,5,0.5
+"Strat H2O","RandomForest","EvIdry","Training","CA",3,3,1
+"Strat H2O","RandomForest","EvIdry","Training","CO-WY-UT-MT",8,4,0.5
+"Strat H2O","RandomForest","EvIdry","Training","NM-TX",6,4,0.666666666666667
+"Strat H2O","RandomForest","EvIdry","Training","NV",6,3,0.5
+"Strat H2O","RandomForest","EvNE","Testing","AZ",5,5,1
+"Strat H2O","RandomForest","EvNE","Testing","CA",3,3,1
+"Strat H2O","RandomForest","EvNE","Testing","CO-WY-UT-MT",3,2,0.666666666666667
+"Strat H2O","RandomForest","EvNE","Testing","NM-TX",2,2,1
+"Strat H2O","RandomForest","EvNE","Testing","NV",4,4,1
+"Strat H2O","RandomForest","EvNE","Training","AZ",21,14,0.666666666666667
+"Strat H2O","RandomForest","EvNE","Training","CA",14,14,1
+"Strat H2O","RandomForest","EvNE","Training","CO-WY-UT-MT",12,8,0.666666666666667
+"Strat H2O","RandomForest","EvNE","Training","NM-TX",12,10,0.833333333333333
+"Strat H2O","RandomForest","EvNE","Training","NV",13,10,0.769230769230769
+"Strat H2O","RandomForest","EvNE_SInm","Testing","AZ",5,5,1
+"Strat H2O","RandomForest","EvNE_SInm","Testing","CA",3,3,1
+"Strat H2O","RandomForest","EvNE_SInm","Testing","CO-WY-UT-MT",3,2,0.666666666666667
+"Strat H2O","RandomForest","EvNE_SInm","Testing","NM-TX",2,2,1
+"Strat H2O","RandomForest","EvNE_SInm","Testing","NV",4,4,1
+"Strat H2O","RandomForest","EvNE_SInm","Training","AZ",21,15,0.714285714285714
+"Strat H2O","RandomForest","EvNE_SInm","Training","CA",14,14,1
+"Strat H2O","RandomForest","EvNE_SInm","Training","CO-WY-UT-MT",12,8,0.666666666666667
+"Strat H2O","RandomForest","EvNE_SInm","Training","NM-TX",12,10,0.833333333333333
+"Strat H2O","RandomForest","EvNE_SInm","Training","NV",13,11,0.846153846153846
+"Strat H2O","RandomForest","EvNE_SIpnw","Testing","AZ",5,5,1
+"Strat H2O","RandomForest","EvNE_SIpnw","Testing","CA",3,3,1
+"Strat H2O","RandomForest","EvNE_SIpnw","Testing","CO-WY-UT-MT",3,2,0.666666666666667
+"Strat H2O","RandomForest","EvNE_SIpnw","Testing","NM-TX",2,2,1
+"Strat H2O","RandomForest","EvNE_SIpnw","Testing","NV",4,4,1
+"Strat H2O","RandomForest","EvNE_SIpnw","Training","AZ",21,15,0.714285714285714
+"Strat H2O","RandomForest","EvNE_SIpnw","Training","CA",14,14,1
+"Strat H2O","RandomForest","EvNE_SIpnw","Training","CO-WY-UT-MT",12,8,0.666666666666667
+"Strat H2O","RandomForest","EvNE_SIpnw","Training","NM-TX",12,9,0.75
+"Strat H2O","RandomForest","EvNE_SIpnw","Training","NV",13,10,0.769230769230769
+"Strat H2O","RandomForest","PnotE","Testing","NV",1,1,1
+"Strat H2O","RandomForest","PnotE","Training","AZ",6,6,1
+"Strat H2O","RandomForest","PnotE","Training","CA",5,5,1
+"Strat H2O","RandomForest","PnotE","Training","CO-WY-UT-MT",3,3,1
+"Strat H2O","RandomForest","PnotE","Training","NM-TX",5,5,1
+"Strat H2O","RandomForest","PnotE","Training","NV",5,5,1
+"Strat H2O","RandomForest","PvIvE","Testing","AZ",5,5,1
+"Strat H2O","RandomForest","PvIvE","Testing","CA",3,0,0
+"Strat H2O","RandomForest","PvIvE","Testing","CO-WY-UT-MT",3,2,0.666666666666667
+"Strat H2O","RandomForest","PvIvE","Testing","NM-TX",2,2,1
+"Strat H2O","RandomForest","PvIvE","Testing","NV",4,3,0.75
+"Strat H2O","RandomForest","PvIvE","Training","AZ",21,12,0.571428571428571
+"Strat H2O","RandomForest","PvIvE","Training","CA",14,11,0.785714285714286
+"Strat H2O","RandomForest","PvIvE","Training","CO-WY-UT-MT",12,6,0.5
+"Strat H2O","RandomForest","PvIvE","Training","NM-TX",12,8,0.666666666666667
+"Strat H2O","RandomForest","PvIvE","Training","NV",13,6,0.461538461538462
+"Strat H2O","RandomForest","PvIwet","Testing","AZ",1,1,1
+"Strat H2O","RandomForest","PvIwet","Testing","CA",3,0,0
+"Strat H2O","RandomForest","PvIwet","Testing","NM-TX",1,1,1
+"Strat H2O","RandomForest","PvIwet","Testing","NV",3,2,0.666666666666667
+"Strat H2O","RandomForest","PvIwet","Training","AZ",9,7,0.777777777777778
+"Strat H2O","RandomForest","PvIwet","Training","CA",11,8,0.727272727272727
+"Strat H2O","RandomForest","PvIwet","Training","CO-WY-UT-MT",4,2,0.5
+"Strat H2O","RandomForest","PvIwet","Training","NM-TX",6,4,0.666666666666667
+"Strat H2O","RandomForest","PvIwet","Training","NV",7,3,0.428571428571429
+"Strat H2O","RandomForest","PvNP","Testing","AZ",5,5,1
+"Strat H2O","RandomForest","PvNP","Testing","CA",3,0,0
+"Strat H2O","RandomForest","PvNP","Testing","CO-WY-UT-MT",3,3,1
+"Strat H2O","RandomForest","PvNP","Testing","NM-TX",2,2,1
+"Strat H2O","RandomForest","PvNP","Testing","NV",4,3,0.75
+"Strat H2O","RandomForest","PvNP","Training","AZ",21,19,0.904761904761905
+"Strat H2O","RandomForest","PvNP","Training","CA",14,11,0.785714285714286
+"Strat H2O","RandomForest","PvNP","Training","CO-WY-UT-MT",12,10,0.833333333333333
+"Strat H2O","RandomForest","PvNP","Training","NM-TX",12,10,0.833333333333333
+"Strat H2O","RandomForest","PvNP","Training","NV",13,9,0.692307692307692
+"Strat H2O","Rpart","EnotP","Testing","AZ",2,2,1
+"Strat H2O","Rpart","EnotP","Testing","CO-WY-UT-MT",1,1,1
+"Strat H2O","Rpart","EnotP","Testing","NM-TX",1,1,1
+"Strat H2O","Rpart","EnotP","Testing","NV",1,1,1
+"Strat H2O","Rpart","EnotP","Training","AZ",10,10,1
+"Strat H2O","Rpart","EnotP","Training","CA",3,3,1
+"Strat H2O","Rpart","EnotP","Training","CO-WY-UT-MT",5,5,1
+"Strat H2O","Rpart","EnotP","Training","NM-TX",4,4,1
+"Strat H2O","Rpart","EnotP","Training","NV",3,3,1
+"Strat H2O","Rpart","EvIdry","Testing","AZ",4,4,1
+"Strat H2O","Rpart","EvIdry","Testing","CO-WY-UT-MT",3,2,0.666666666666667
+"Strat H2O","Rpart","EvIdry","Testing","NM-TX",1,1,1
+"Strat H2O","Rpart","EvIdry","Testing","NV",1,1,1
+"Strat H2O","Rpart","EvIdry","Training","AZ",10,9,0.9
+"Strat H2O","Rpart","EvIdry","Training","CA",3,3,1
+"Strat H2O","Rpart","EvIdry","Training","CO-WY-UT-MT",8,6,0.75
+"Strat H2O","Rpart","EvIdry","Training","NM-TX",6,6,1
+"Strat H2O","Rpart","EvIdry","Training","NV",6,3,0.5
+"Strat H2O","Rpart","EvNE","Testing","AZ",5,5,1
+"Strat H2O","Rpart","EvNE","Testing","CA",3,3,1
+"Strat H2O","Rpart","EvNE","Testing","CO-WY-UT-MT",3,2,0.666666666666667
+"Strat H2O","Rpart","EvNE","Testing","NM-TX",2,2,1
+"Strat H2O","Rpart","EvNE","Testing","NV",4,4,1
+"Strat H2O","Rpart","EvNE","Training","AZ",21,18,0.857142857142857
+"Strat H2O","Rpart","EvNE","Training","CA",14,14,1
+"Strat H2O","Rpart","EvNE","Training","CO-WY-UT-MT",12,10,0.833333333333333
+"Strat H2O","Rpart","EvNE","Training","NM-TX",12,12,1
+"Strat H2O","Rpart","EvNE","Training","NV",13,10,0.769230769230769
+"Strat H2O","Rpart","EvNE_SInm","Testing","AZ",5,5,1
+"Strat H2O","Rpart","EvNE_SInm","Testing","CA",3,3,1
+"Strat H2O","Rpart","EvNE_SInm","Testing","CO-WY-UT-MT",3,3,1
+"Strat H2O","Rpart","EvNE_SInm","Testing","NM-TX",2,2,1
+"Strat H2O","Rpart","EvNE_SInm","Testing","NV",4,4,1
+"Strat H2O","Rpart","EvNE_SInm","Training","AZ",21,16,0.761904761904762
+"Strat H2O","Rpart","EvNE_SInm","Training","CA",14,14,1
+"Strat H2O","Rpart","EvNE_SInm","Training","CO-WY-UT-MT",12,10,0.833333333333333
+"Strat H2O","Rpart","EvNE_SInm","Training","NM-TX",12,12,1
+"Strat H2O","Rpart","EvNE_SInm","Training","NV",13,11,0.846153846153846
+"Strat H2O","Rpart","EvNE_SIpnw","Testing","AZ",5,5,1
+"Strat H2O","Rpart","EvNE_SIpnw","Testing","CA",3,3,1
+"Strat H2O","Rpart","EvNE_SIpnw","Testing","CO-WY-UT-MT",3,3,1
+"Strat H2O","Rpart","EvNE_SIpnw","Testing","NM-TX",2,2,1
+"Strat H2O","Rpart","EvNE_SIpnw","Testing","NV",4,4,1
+"Strat H2O","Rpart","EvNE_SIpnw","Training","AZ",21,17,0.80952380952381
+"Strat H2O","Rpart","EvNE_SIpnw","Training","CA",14,14,1
+"Strat H2O","Rpart","EvNE_SIpnw","Training","CO-WY-UT-MT",12,10,0.833333333333333
+"Strat H2O","Rpart","EvNE_SIpnw","Training","NM-TX",12,11,0.916666666666667
+"Strat H2O","Rpart","EvNE_SIpnw","Training","NV",13,10,0.769230769230769
+"Strat H2O","Rpart","PnotE","Testing","NV",1,1,1
+"Strat H2O","Rpart","PnotE","Training","AZ",6,6,1
+"Strat H2O","Rpart","PnotE","Training","CA",5,5,1
+"Strat H2O","Rpart","PnotE","Training","CO-WY-UT-MT",3,3,1
+"Strat H2O","Rpart","PnotE","Training","NM-TX",5,5,1
+"Strat H2O","Rpart","PnotE","Training","NV",5,5,1
+"Strat H2O","Rpart","PvIvE","Testing","AZ",5,5,1
+"Strat H2O","Rpart","PvIvE","Testing","CA",3,2,0.666666666666667
+"Strat H2O","Rpart","PvIvE","Testing","CO-WY-UT-MT",3,2,0.666666666666667
+"Strat H2O","Rpart","PvIvE","Testing","NM-TX",2,2,1
+"Strat H2O","Rpart","PvIvE","Testing","NV",4,3,0.75
+"Strat H2O","Rpart","PvIvE","Training","AZ",21,16,0.761904761904762
+"Strat H2O","Rpart","PvIvE","Training","CA",14,10,0.714285714285714
+"Strat H2O","Rpart","PvIvE","Training","CO-WY-UT-MT",12,9,0.75
+"Strat H2O","Rpart","PvIvE","Training","NM-TX",12,11,0.916666666666667
+"Strat H2O","Rpart","PvIvE","Training","NV",13,7,0.538461538461538
+"Strat H2O","Rpart","PvIwet","Testing","AZ",1,1,1
+"Strat H2O","Rpart","PvIwet","Testing","CA",3,2,0.666666666666667
+"Strat H2O","Rpart","PvIwet","Testing","NM-TX",1,1,1
+"Strat H2O","Rpart","PvIwet","Testing","NV",3,2,0.666666666666667
+"Strat H2O","Rpart","PvIwet","Training","AZ",9,7,0.777777777777778
+"Strat H2O","Rpart","PvIwet","Training","CA",11,7,0.636363636363636
+"Strat H2O","Rpart","PvIwet","Training","CO-WY-UT-MT",4,3,0.75
+"Strat H2O","Rpart","PvIwet","Training","NM-TX",6,5,0.833333333333333
+"Strat H2O","Rpart","PvIwet","Training","NV",7,4,0.571428571428571
+"Strat H2O","Rpart","PvNP","Testing","AZ",5,5,1
+"Strat H2O","Rpart","PvNP","Testing","CA",3,2,0.666666666666667
+"Strat H2O","Rpart","PvNP","Testing","CO-WY-UT-MT",3,3,1
+"Strat H2O","Rpart","PvNP","Testing","NM-TX",2,2,1
+"Strat H2O","Rpart","PvNP","Testing","NV",4,3,0.75
+"Strat H2O","Rpart","PvNP","Training","AZ",21,19,0.904761904761905
+"Strat H2O","Rpart","PvNP","Training","CA",14,10,0.714285714285714
+"Strat H2O","Rpart","PvNP","Training","CO-WY-UT-MT",12,11,0.916666666666667
+"Strat H2O","Rpart","PvNP","Training","NM-TX",12,11,0.916666666666667
+"Strat H2O","Rpart","PvNP","Training","NV",13,10,0.769230769230769
+"Strat H2O","RpartScore","EnotP","Testing","AZ",2,2,1
+"Strat H2O","RpartScore","EnotP","Testing","CO-WY-UT-MT",1,1,1
+"Strat H2O","RpartScore","EnotP","Testing","NM-TX",1,1,1
+"Strat H2O","RpartScore","EnotP","Testing","NV",1,1,1
+"Strat H2O","RpartScore","EnotP","Training","AZ",10,10,1
+"Strat H2O","RpartScore","EnotP","Training","CA",3,3,1
+"Strat H2O","RpartScore","EnotP","Training","CO-WY-UT-MT",5,5,1
+"Strat H2O","RpartScore","EnotP","Training","NM-TX",4,4,1
+"Strat H2O","RpartScore","EnotP","Training","NV",3,3,1
+"Strat H2O","RpartScore","EvIdry","Testing","AZ",4,4,1
+"Strat H2O","RpartScore","EvIdry","Testing","CO-WY-UT-MT",3,2,0.666666666666667
+"Strat H2O","RpartScore","EvIdry","Testing","NM-TX",1,1,1
+"Strat H2O","RpartScore","EvIdry","Testing","NV",1,1,1
+"Strat H2O","RpartScore","EvIdry","Training","AZ",10,9,0.9
+"Strat H2O","RpartScore","EvIdry","Training","CA",3,3,1
+"Strat H2O","RpartScore","EvIdry","Training","CO-WY-UT-MT",8,6,0.75
+"Strat H2O","RpartScore","EvIdry","Training","NM-TX",6,6,1
+"Strat H2O","RpartScore","EvIdry","Training","NV",6,3,0.5
+"Strat H2O","RpartScore","EvNE","Testing","AZ",5,5,1
+"Strat H2O","RpartScore","EvNE","Testing","CA",3,3,1
+"Strat H2O","RpartScore","EvNE","Testing","CO-WY-UT-MT",3,2,0.666666666666667
+"Strat H2O","RpartScore","EvNE","Testing","NM-TX",2,2,1
+"Strat H2O","RpartScore","EvNE","Testing","NV",4,4,1
+"Strat H2O","RpartScore","EvNE","Training","AZ",21,18,0.857142857142857
+"Strat H2O","RpartScore","EvNE","Training","CA",14,14,1
+"Strat H2O","RpartScore","EvNE","Training","CO-WY-UT-MT",12,10,0.833333333333333
+"Strat H2O","RpartScore","EvNE","Training","NM-TX",12,12,1
+"Strat H2O","RpartScore","EvNE","Training","NV",13,10,0.769230769230769
+"Strat H2O","RpartScore","EvNE_SInm","Testing","AZ",5,5,1
+"Strat H2O","RpartScore","EvNE_SInm","Testing","CA",3,3,1
+"Strat H2O","RpartScore","EvNE_SInm","Testing","CO-WY-UT-MT",3,3,1
+"Strat H2O","RpartScore","EvNE_SInm","Testing","NM-TX",2,2,1
+"Strat H2O","RpartScore","EvNE_SInm","Testing","NV",4,4,1
+"Strat H2O","RpartScore","EvNE_SInm","Training","AZ",21,16,0.761904761904762
+"Strat H2O","RpartScore","EvNE_SInm","Training","CA",14,14,1
+"Strat H2O","RpartScore","EvNE_SInm","Training","CO-WY-UT-MT",12,10,0.833333333333333
+"Strat H2O","RpartScore","EvNE_SInm","Training","NM-TX",12,12,1
+"Strat H2O","RpartScore","EvNE_SInm","Training","NV",13,11,0.846153846153846
+"Strat H2O","RpartScore","EvNE_SIpnw","Testing","AZ",5,5,1
+"Strat H2O","RpartScore","EvNE_SIpnw","Testing","CA",3,3,1
+"Strat H2O","RpartScore","EvNE_SIpnw","Testing","CO-WY-UT-MT",3,3,1
+"Strat H2O","RpartScore","EvNE_SIpnw","Testing","NM-TX",2,2,1
+"Strat H2O","RpartScore","EvNE_SIpnw","Testing","NV",4,4,1
+"Strat H2O","RpartScore","EvNE_SIpnw","Training","AZ",21,17,0.80952380952381
+"Strat H2O","RpartScore","EvNE_SIpnw","Training","CA",14,14,1
+"Strat H2O","RpartScore","EvNE_SIpnw","Training","CO-WY-UT-MT",12,10,0.833333333333333
+"Strat H2O","RpartScore","EvNE_SIpnw","Training","NM-TX",12,11,0.916666666666667
+"Strat H2O","RpartScore","EvNE_SIpnw","Training","NV",13,10,0.769230769230769
+"Strat H2O","RpartScore","PnotE","Testing","NV",1,1,1
+"Strat H2O","RpartScore","PnotE","Training","AZ",6,6,1
+"Strat H2O","RpartScore","PnotE","Training","CA",5,5,1
+"Strat H2O","RpartScore","PnotE","Training","CO-WY-UT-MT",3,3,1
+"Strat H2O","RpartScore","PnotE","Training","NM-TX",5,5,1
+"Strat H2O","RpartScore","PnotE","Training","NV",5,5,1
+"Strat H2O","RpartScore","PvIvE","Testing","AZ",5,5,1
+"Strat H2O","RpartScore","PvIvE","Testing","CA",3,2,0.666666666666667
+"Strat H2O","RpartScore","PvIvE","Testing","CO-WY-UT-MT",3,2,0.666666666666667
+"Strat H2O","RpartScore","PvIvE","Testing","NM-TX",2,2,1
+"Strat H2O","RpartScore","PvIvE","Testing","NV",4,2,0.5
+"Strat H2O","RpartScore","PvIvE","Training","AZ",21,16,0.761904761904762
+"Strat H2O","RpartScore","PvIvE","Training","CA",14,10,0.714285714285714
+"Strat H2O","RpartScore","PvIvE","Training","CO-WY-UT-MT",12,9,0.75
+"Strat H2O","RpartScore","PvIvE","Training","NM-TX",12,11,0.916666666666667
+"Strat H2O","RpartScore","PvIvE","Training","NV",13,9,0.692307692307692
+"Strat H2O","RpartScore","PvIwet","Testing","AZ",1,1,1
+"Strat H2O","RpartScore","PvIwet","Testing","CA",3,2,0.666666666666667
+"Strat H2O","RpartScore","PvIwet","Testing","NM-TX",1,1,1
+"Strat H2O","RpartScore","PvIwet","Testing","NV",3,1,0.333333333333333
+"Strat H2O","RpartScore","PvIwet","Training","AZ",9,7,0.777777777777778
+"Strat H2O","RpartScore","PvIwet","Training","CA",11,7,0.636363636363636
+"Strat H2O","RpartScore","PvIwet","Training","CO-WY-UT-MT",4,3,0.75
+"Strat H2O","RpartScore","PvIwet","Training","NM-TX",6,5,0.833333333333333
+"Strat H2O","RpartScore","PvIwet","Training","NV",7,6,0.857142857142857
+"Strat H2O","RpartScore","PvNP","Testing","AZ",5,5,1
+"Strat H2O","RpartScore","PvNP","Testing","CA",3,2,0.666666666666667
+"Strat H2O","RpartScore","PvNP","Testing","CO-WY-UT-MT",3,3,1
+"Strat H2O","RpartScore","PvNP","Testing","NM-TX",2,2,1
+"Strat H2O","RpartScore","PvNP","Testing","NV",4,2,0.5
+"Strat H2O","RpartScore","PvNP","Training","AZ",21,19,0.904761904761905
+"Strat H2O","RpartScore","PvNP","Training","CA",14,10,0.714285714285714
+"Strat H2O","RpartScore","PvNP","Training","CO-WY-UT-MT",12,11,0.916666666666667
+"Strat H2O","RpartScore","PvNP","Training","NM-TX",12,11,0.916666666666667
+"Strat H2O","RpartScore","PvNP","Training","NV",13,12,0.923076923076923
+"Strat H2O SC","RandomForest","EnotP","Testing","AZ",1,1,1
+"Strat H2O SC","RandomForest","EnotP","Testing","CO-WY-UT-MT",1,1,1
+"Strat H2O SC","RandomForest","EnotP","Testing","NM-TX",2,2,1
+"Strat H2O SC","RandomForest","EnotP","Testing","NV",2,2,1
+"Strat H2O SC","RandomForest","EnotP","Training","AZ",11,11,1
+"Strat H2O SC","RandomForest","EnotP","Training","CA",3,3,1
+"Strat H2O SC","RandomForest","EnotP","Training","CO-WY-UT-MT",4,4,1
+"Strat H2O SC","RandomForest","EnotP","Training","NM-TX",3,3,1
+"Strat H2O SC","RandomForest","EnotP","Training","NV",2,2,1
+"Strat H2O SC","RandomForest","EvIdry","Testing","AZ",3,1,0.333333333333333
+"Strat H2O SC","RandomForest","EvIdry","Testing","CO-WY-UT-MT",2,1,0.5
+"Strat H2O SC","RandomForest","EvIdry","Testing","NM-TX",2,2,1
+"Strat H2O SC","RandomForest","EvIdry","Testing","NV",3,3,1
+"Strat H2O SC","RandomForest","EvIdry","Training","AZ",11,9,0.818181818181818
+"Strat H2O SC","RandomForest","EvIdry","Training","CA",3,3,1
+"Strat H2O SC","RandomForest","EvIdry","Training","CO-WY-UT-MT",8,5,0.625
+"Strat H2O SC","RandomForest","EvIdry","Training","NM-TX",5,3,0.6
+"Strat H2O SC","RandomForest","EvIdry","Training","NV",4,2,0.5
+"Strat H2O SC","RandomForest","EvNE","Testing","AZ",6,4,0.666666666666667
+"Strat H2O SC","RandomForest","EvNE","Testing","CA",5,5,1
+"Strat H2O SC","RandomForest","EvNE","Testing","CO-WY-UT-MT",2,1,0.5
+"Strat H2O SC","RandomForest","EvNE","Testing","NM-TX",4,4,1
+"Strat H2O SC","RandomForest","EvNE","Testing","NV",4,4,1
+"Strat H2O SC","RandomForest","EvNE","Training","AZ",19,17,0.894736842105263
+"Strat H2O SC","RandomForest","EvNE","Training","CA",12,12,1
+"Strat H2O SC","RandomForest","EvNE","Training","CO-WY-UT-MT",12,9,0.75
+"Strat H2O SC","RandomForest","EvNE","Training","NM-TX",10,8,0.8
+"Strat H2O SC","RandomForest","EvNE","Training","NV",13,11,0.846153846153846
+"Strat H2O SC","RandomForest","EvNE_SInm","Testing","AZ",6,3,0.5
+"Strat H2O SC","RandomForest","EvNE_SInm","Testing","CA",5,5,1
+"Strat H2O SC","RandomForest","EvNE_SInm","Testing","CO-WY-UT-MT",2,1,0.5
+"Strat H2O SC","RandomForest","EvNE_SInm","Testing","NM-TX",4,4,1
+"Strat H2O SC","RandomForest","EvNE_SInm","Testing","NV",4,4,1
+"Strat H2O SC","RandomForest","EvNE_SInm","Training","AZ",19,16,0.842105263157895
+"Strat H2O SC","RandomForest","EvNE_SInm","Training","CA",12,12,1
+"Strat H2O SC","RandomForest","EvNE_SInm","Training","CO-WY-UT-MT",12,9,0.75
+"Strat H2O SC","RandomForest","EvNE_SInm","Training","NM-TX",10,8,0.8
+"Strat H2O SC","RandomForest","EvNE_SInm","Training","NV",13,11,0.846153846153846
+"Strat H2O SC","RandomForest","EvNE_SIpnw","Testing","AZ",6,4,0.666666666666667
+"Strat H2O SC","RandomForest","EvNE_SIpnw","Testing","CA",5,5,1
+"Strat H2O SC","RandomForest","EvNE_SIpnw","Testing","CO-WY-UT-MT",2,1,0.5
+"Strat H2O SC","RandomForest","EvNE_SIpnw","Testing","NM-TX",4,3,0.75
+"Strat H2O SC","RandomForest","EvNE_SIpnw","Testing","NV",4,4,1
+"Strat H2O SC","RandomForest","EvNE_SIpnw","Training","AZ",19,17,0.894736842105263
+"Strat H2O SC","RandomForest","EvNE_SIpnw","Training","CA",12,12,1
+"Strat H2O SC","RandomForest","EvNE_SIpnw","Training","CO-WY-UT-MT",12,9,0.75
+"Strat H2O SC","RandomForest","EvNE_SIpnw","Training","NM-TX",10,8,0.8
+"Strat H2O SC","RandomForest","EvNE_SIpnw","Training","NV",13,11,0.846153846153846
+"Strat H2O SC","RandomForest","PnotE","Testing","AZ",2,2,1
+"Strat H2O SC","RandomForest","PnotE","Testing","CA",2,2,1
+"Strat H2O SC","RandomForest","PnotE","Testing","NM-TX",1,1,1
+"Strat H2O SC","RandomForest","PnotE","Training","AZ",3,3,1
+"Strat H2O SC","RandomForest","PnotE","Training","CA",3,3,1
+"Strat H2O SC","RandomForest","PnotE","Training","CO-WY-UT-MT",3,3,1
+"Strat H2O SC","RandomForest","PnotE","Training","NM-TX",4,4,1
+"Strat H2O SC","RandomForest","PnotE","Training","NV",6,6,1
+"Strat H2O SC","RandomForest","PvIvE","Testing","AZ",6,3,0.5
+"Strat H2O SC","RandomForest","PvIvE","Testing","CA",5,2,0.4
+"Strat H2O SC","RandomForest","PvIvE","Testing","CO-WY-UT-MT",2,1,0.5
+"Strat H2O SC","RandomForest","PvIvE","Testing","NM-TX",4,3,0.75
+"Strat H2O SC","RandomForest","PvIvE","Testing","NV",4,4,1
+"Strat H2O SC","RandomForest","PvIvE","Training","AZ",19,14,0.736842105263158
+"Strat H2O SC","RandomForest","PvIvE","Training","CA",12,6,0.5
+"Strat H2O SC","RandomForest","PvIvE","Training","CO-WY-UT-MT",12,8,0.666666666666667
+"Strat H2O SC","RandomForest","PvIvE","Training","NM-TX",10,6,0.6
+"Strat H2O SC","RandomForest","PvIvE","Training","NV",13,6,0.461538461538462
+"Strat H2O SC","RandomForest","PvIwet","Testing","AZ",3,2,0.666666666666667
+"Strat H2O SC","RandomForest","PvIwet","Testing","CA",5,2,0.4
+"Strat H2O SC","RandomForest","PvIwet","Testing","NM-TX",2,1,0.5
+"Strat H2O SC","RandomForest","PvIwet","Testing","NV",1,1,1
+"Strat H2O SC","RandomForest","PvIwet","Training","AZ",6,4,0.666666666666667
+"Strat H2O SC","RandomForest","PvIwet","Training","CA",9,3,0.333333333333333
+"Strat H2O SC","RandomForest","PvIwet","Training","CO-WY-UT-MT",4,3,0.75
+"Strat H2O SC","RandomForest","PvIwet","Training","NM-TX",5,3,0.6
+"Strat H2O SC","RandomForest","PvIwet","Training","NV",9,4,0.444444444444444
+"Strat H2O SC","RandomForest","PvNP","Testing","AZ",6,5,0.833333333333333
+"Strat H2O SC","RandomForest","PvNP","Testing","CA",5,2,0.4
+"Strat H2O SC","RandomForest","PvNP","Testing","CO-WY-UT-MT",2,2,1
+"Strat H2O SC","RandomForest","PvNP","Testing","NM-TX",4,3,0.75
+"Strat H2O SC","RandomForest","PvNP","Testing","NV",4,4,1
+"Strat H2O SC","RandomForest","PvNP","Training","AZ",19,16,0.842105263157895
+"Strat H2O SC","RandomForest","PvNP","Training","CA",12,6,0.5
+"Strat H2O SC","RandomForest","PvNP","Training","CO-WY-UT-MT",12,11,0.916666666666667
+"Strat H2O SC","RandomForest","PvNP","Training","NM-TX",10,8,0.8
+"Strat H2O SC","RandomForest","PvNP","Training","NV",13,8,0.615384615384615
+"Strat H2O SC","Rpart","EnotP","Testing","AZ",1,1,1
+"Strat H2O SC","Rpart","EnotP","Testing","CO-WY-UT-MT",1,1,1
+"Strat H2O SC","Rpart","EnotP","Testing","NM-TX",2,2,1
+"Strat H2O SC","Rpart","EnotP","Testing","NV",2,2,1
+"Strat H2O SC","Rpart","EnotP","Training","AZ",11,8,0.727272727272727
+"Strat H2O SC","Rpart","EnotP","Training","CA",3,3,1
+"Strat H2O SC","Rpart","EnotP","Training","CO-WY-UT-MT",4,4,1
+"Strat H2O SC","Rpart","EnotP","Training","NM-TX",3,3,1
+"Strat H2O SC","Rpart","EnotP","Training","NV",2,2,1
+"Strat H2O SC","Rpart","EvIdry","Testing","AZ",3,1,0.333333333333333
+"Strat H2O SC","Rpart","EvIdry","Testing","CO-WY-UT-MT",2,1,0.5
+"Strat H2O SC","Rpart","EvIdry","Testing","NM-TX",2,0,0
+"Strat H2O SC","Rpart","EvIdry","Testing","NV",3,2,0.666666666666667
+"Strat H2O SC","Rpart","EvIdry","Training","AZ",11,10,0.909090909090909
+"Strat H2O SC","Rpart","EvIdry","Training","CA",3,3,1
+"Strat H2O SC","Rpart","EvIdry","Training","CO-WY-UT-MT",8,6,0.75
+"Strat H2O SC","Rpart","EvIdry","Training","NM-TX",5,3,0.6
+"Strat H2O SC","Rpart","EvIdry","Training","NV",4,2,0.5
+"Strat H2O SC","Rpart","EvNE","Testing","AZ",6,4,0.666666666666667
+"Strat H2O SC","Rpart","EvNE","Testing","CA",5,5,1
+"Strat H2O SC","Rpart","EvNE","Testing","CO-WY-UT-MT",2,1,0.5
+"Strat H2O SC","Rpart","EvNE","Testing","NM-TX",4,2,0.5
+"Strat H2O SC","Rpart","EvNE","Testing","NV",4,3,0.75
+"Strat H2O SC","Rpart","EvNE","Training","AZ",19,16,0.842105263157895
+"Strat H2O SC","Rpart","EvNE","Training","CA",12,12,1
+"Strat H2O SC","Rpart","EvNE","Training","CO-WY-UT-MT",12,11,0.916666666666667
+"Strat H2O SC","Rpart","EvNE","Training","NM-TX",10,8,0.8
+"Strat H2O SC","Rpart","EvNE","Training","NV",13,11,0.846153846153846
+"Strat H2O SC","Rpart","EvNE_SInm","Testing","AZ",6,3,0.5
+"Strat H2O SC","Rpart","EvNE_SInm","Testing","CA",5,5,1
+"Strat H2O SC","Rpart","EvNE_SInm","Testing","CO-WY-UT-MT",2,1,0.5
+"Strat H2O SC","Rpart","EvNE_SInm","Testing","NM-TX",4,2,0.5
+"Strat H2O SC","Rpart","EvNE_SInm","Testing","NV",4,4,1
+"Strat H2O SC","Rpart","EvNE_SInm","Training","AZ",19,16,0.842105263157895
+"Strat H2O SC","Rpart","EvNE_SInm","Training","CA",12,12,1
+"Strat H2O SC","Rpart","EvNE_SInm","Training","CO-WY-UT-MT",12,11,0.916666666666667
+"Strat H2O SC","Rpart","EvNE_SInm","Training","NM-TX",10,8,0.8
+"Strat H2O SC","Rpart","EvNE_SInm","Training","NV",13,11,0.846153846153846
+"Strat H2O SC","Rpart","EvNE_SIpnw","Testing","AZ",6,4,0.666666666666667
+"Strat H2O SC","Rpart","EvNE_SIpnw","Testing","CA",5,5,1
+"Strat H2O SC","Rpart","EvNE_SIpnw","Testing","CO-WY-UT-MT",2,1,0.5
+"Strat H2O SC","Rpart","EvNE_SIpnw","Testing","NM-TX",4,2,0.5
+"Strat H2O SC","Rpart","EvNE_SIpnw","Testing","NV",4,3,0.75
+"Strat H2O SC","Rpart","EvNE_SIpnw","Training","AZ",19,16,0.842105263157895
+"Strat H2O SC","Rpart","EvNE_SIpnw","Training","CA",12,12,1
+"Strat H2O SC","Rpart","EvNE_SIpnw","Training","CO-WY-UT-MT",12,11,0.916666666666667
+"Strat H2O SC","Rpart","EvNE_SIpnw","Training","NM-TX",10,8,0.8
+"Strat H2O SC","Rpart","EvNE_SIpnw","Training","NV",13,11,0.846153846153846
+"Strat H2O SC","Rpart","PnotE","Testing","AZ",2,2,1
+"Strat H2O SC","Rpart","PnotE","Testing","CA",2,2,1
+"Strat H2O SC","Rpart","PnotE","Testing","NM-TX",1,1,1
+"Strat H2O SC","Rpart","PnotE","Training","AZ",3,3,1
+"Strat H2O SC","Rpart","PnotE","Training","CA",3,3,1
+"Strat H2O SC","Rpart","PnotE","Training","CO-WY-UT-MT",3,3,1
+"Strat H2O SC","Rpart","PnotE","Training","NM-TX",4,4,1
+"Strat H2O SC","Rpart","PnotE","Training","NV",6,6,1
+"Strat H2O SC","Rpart","PvIvE","Testing","AZ",6,3,0.5
+"Strat H2O SC","Rpart","PvIvE","Testing","CA",5,2,0.4
+"Strat H2O SC","Rpart","PvIvE","Testing","CO-WY-UT-MT",2,1,0.5
+"Strat H2O SC","Rpart","PvIvE","Testing","NM-TX",4,2,0.5
+"Strat H2O SC","Rpart","PvIvE","Testing","NV",4,2,0.5
+"Strat H2O SC","Rpart","PvIvE","Training","AZ",19,14,0.736842105263158
+"Strat H2O SC","Rpart","PvIvE","Training","CA",12,9,0.75
+"Strat H2O SC","Rpart","PvIvE","Training","CO-WY-UT-MT",12,9,0.75
+"Strat H2O SC","Rpart","PvIvE","Training","NM-TX",10,7,0.7
+"Strat H2O SC","Rpart","PvIvE","Training","NV",13,10,0.769230769230769
+"Strat H2O SC","Rpart","PvIwet","Testing","AZ",3,2,0.666666666666667
+"Strat H2O SC","Rpart","PvIwet","Testing","CA",5,2,0.4
+"Strat H2O SC","Rpart","PvIwet","Testing","NM-TX",2,2,1
+"Strat H2O SC","Rpart","PvIwet","Testing","NV",1,0,0
+"Strat H2O SC","Rpart","PvIwet","Training","AZ",6,4,0.666666666666667
+"Strat H2O SC","Rpart","PvIwet","Training","CA",9,6,0.666666666666667
+"Strat H2O SC","Rpart","PvIwet","Training","CO-WY-UT-MT",4,3,0.75
+"Strat H2O SC","Rpart","PvIwet","Training","NM-TX",5,4,0.8
+"Strat H2O SC","Rpart","PvIwet","Training","NV",9,8,0.888888888888889
+"Strat H2O SC","Rpart","PvNP","Testing","AZ",6,5,0.833333333333333
+"Strat H2O SC","Rpart","PvNP","Testing","CA",5,2,0.4
+"Strat H2O SC","Rpart","PvNP","Testing","CO-WY-UT-MT",2,2,1
+"Strat H2O SC","Rpart","PvNP","Testing","NM-TX",4,4,1
+"Strat H2O SC","Rpart","PvNP","Testing","NV",4,3,0.75
+"Strat H2O SC","Rpart","PvNP","Training","AZ",19,14,0.736842105263158
+"Strat H2O SC","Rpart","PvNP","Training","CA",12,9,0.75
+"Strat H2O SC","Rpart","PvNP","Training","CO-WY-UT-MT",12,10,0.833333333333333
+"Strat H2O SC","Rpart","PvNP","Training","NM-TX",10,9,0.9
+"Strat H2O SC","Rpart","PvNP","Training","NV",13,12,0.923076923076923
+"Strat H2O SC","RpartScore","EnotP","Testing","AZ",1,1,1
+"Strat H2O SC","RpartScore","EnotP","Testing","CO-WY-UT-MT",1,1,1
+"Strat H2O SC","RpartScore","EnotP","Testing","NM-TX",2,2,1
+"Strat H2O SC","RpartScore","EnotP","Testing","NV",2,2,1
+"Strat H2O SC","RpartScore","EnotP","Training","AZ",11,11,1
+"Strat H2O SC","RpartScore","EnotP","Training","CA",3,3,1
+"Strat H2O SC","RpartScore","EnotP","Training","CO-WY-UT-MT",4,4,1
+"Strat H2O SC","RpartScore","EnotP","Training","NM-TX",3,3,1
+"Strat H2O SC","RpartScore","EnotP","Training","NV",2,2,1
+"Strat H2O SC","RpartScore","EvIdry","Testing","AZ",3,1,0.333333333333333
+"Strat H2O SC","RpartScore","EvIdry","Testing","CO-WY-UT-MT",2,1,0.5
+"Strat H2O SC","RpartScore","EvIdry","Testing","NM-TX",2,0,0
+"Strat H2O SC","RpartScore","EvIdry","Testing","NV",3,2,0.666666666666667
+"Strat H2O SC","RpartScore","EvIdry","Training","AZ",11,10,0.909090909090909
+"Strat H2O SC","RpartScore","EvIdry","Training","CA",3,3,1
+"Strat H2O SC","RpartScore","EvIdry","Training","CO-WY-UT-MT",8,6,0.75
+"Strat H2O SC","RpartScore","EvIdry","Training","NM-TX",5,3,0.6
+"Strat H2O SC","RpartScore","EvIdry","Training","NV",4,3,0.75
+"Strat H2O SC","RpartScore","EvNE","Testing","AZ",6,4,0.666666666666667
+"Strat H2O SC","RpartScore","EvNE","Testing","CA",5,5,1
+"Strat H2O SC","RpartScore","EvNE","Testing","CO-WY-UT-MT",2,1,0.5
+"Strat H2O SC","RpartScore","EvNE","Testing","NM-TX",4,2,0.5
+"Strat H2O SC","RpartScore","EvNE","Testing","NV",4,3,0.75
+"Strat H2O SC","RpartScore","EvNE","Training","AZ",19,16,0.842105263157895
+"Strat H2O SC","RpartScore","EvNE","Training","CA",12,12,1
+"Strat H2O SC","RpartScore","EvNE","Training","CO-WY-UT-MT",12,11,0.916666666666667
+"Strat H2O SC","RpartScore","EvNE","Training","NM-TX",10,8,0.8
+"Strat H2O SC","RpartScore","EvNE","Training","NV",13,12,0.923076923076923
+"Strat H2O SC","RpartScore","EvNE_SInm","Testing","AZ",6,3,0.5
+"Strat H2O SC","RpartScore","EvNE_SInm","Testing","CA",5,5,1
+"Strat H2O SC","RpartScore","EvNE_SInm","Testing","CO-WY-UT-MT",2,1,0.5
+"Strat H2O SC","RpartScore","EvNE_SInm","Testing","NM-TX",4,2,0.5
+"Strat H2O SC","RpartScore","EvNE_SInm","Testing","NV",4,3,0.75
+"Strat H2O SC","RpartScore","EvNE_SInm","Training","AZ",19,16,0.842105263157895
+"Strat H2O SC","RpartScore","EvNE_SInm","Training","CA",12,12,1
+"Strat H2O SC","RpartScore","EvNE_SInm","Training","CO-WY-UT-MT",12,11,0.916666666666667
+"Strat H2O SC","RpartScore","EvNE_SInm","Training","NM-TX",10,8,0.8
+"Strat H2O SC","RpartScore","EvNE_SInm","Training","NV",13,12,0.923076923076923
+"Strat H2O SC","RpartScore","EvNE_SIpnw","Testing","AZ",6,4,0.666666666666667
+"Strat H2O SC","RpartScore","EvNE_SIpnw","Testing","CA",5,5,1
+"Strat H2O SC","RpartScore","EvNE_SIpnw","Testing","CO-WY-UT-MT",2,1,0.5
+"Strat H2O SC","RpartScore","EvNE_SIpnw","Testing","NM-TX",4,2,0.5
+"Strat H2O SC","RpartScore","EvNE_SIpnw","Testing","NV",4,3,0.75
+"Strat H2O SC","RpartScore","EvNE_SIpnw","Training","AZ",19,16,0.842105263157895
+"Strat H2O SC","RpartScore","EvNE_SIpnw","Training","CA",12,12,1
+"Strat H2O SC","RpartScore","EvNE_SIpnw","Training","CO-WY-UT-MT",12,11,0.916666666666667
+"Strat H2O SC","RpartScore","EvNE_SIpnw","Training","NM-TX",10,8,0.8
+"Strat H2O SC","RpartScore","EvNE_SIpnw","Training","NV",13,12,0.923076923076923
+"Strat H2O SC","RpartScore","PnotE","Testing","AZ",2,2,1
+"Strat H2O SC","RpartScore","PnotE","Testing","CA",2,2,1
+"Strat H2O SC","RpartScore","PnotE","Testing","NM-TX",1,1,1
+"Strat H2O SC","RpartScore","PnotE","Training","AZ",3,3,1
+"Strat H2O SC","RpartScore","PnotE","Training","CA",3,3,1
+"Strat H2O SC","RpartScore","PnotE","Training","CO-WY-UT-MT",3,3,1
+"Strat H2O SC","RpartScore","PnotE","Training","NM-TX",4,4,1
+"Strat H2O SC","RpartScore","PnotE","Training","NV",6,6,1
+"Strat H2O SC","RpartScore","PvIvE","Testing","AZ",6,2,0.333333333333333
+"Strat H2O SC","RpartScore","PvIvE","Testing","CA",5,3,0.6
+"Strat H2O SC","RpartScore","PvIvE","Testing","CO-WY-UT-MT",2,1,0.5
+"Strat H2O SC","RpartScore","PvIvE","Testing","NM-TX",4,2,0.5
+"Strat H2O SC","RpartScore","PvIvE","Testing","NV",4,3,0.75
+"Strat H2O SC","RpartScore","PvIvE","Training","AZ",19,14,0.736842105263158
+"Strat H2O SC","RpartScore","PvIvE","Training","CA",12,10,0.833333333333333
+"Strat H2O SC","RpartScore","PvIvE","Training","CO-WY-UT-MT",12,9,0.75
+"Strat H2O SC","RpartScore","PvIvE","Training","NM-TX",10,7,0.7
+"Strat H2O SC","RpartScore","PvIvE","Training","NV",13,8,0.615384615384615
+"Strat H2O SC","RpartScore","PvIwet","Testing","AZ",3,1,0.333333333333333
+"Strat H2O SC","RpartScore","PvIwet","Testing","CA",5,3,0.6
+"Strat H2O SC","RpartScore","PvIwet","Testing","NM-TX",2,2,1
+"Strat H2O SC","RpartScore","PvIwet","Testing","NV",1,1,1
+"Strat H2O SC","RpartScore","PvIwet","Training","AZ",6,4,0.666666666666667
+"Strat H2O SC","RpartScore","PvIwet","Training","CA",9,7,0.777777777777778
+"Strat H2O SC","RpartScore","PvIwet","Training","CO-WY-UT-MT",4,3,0.75
+"Strat H2O SC","RpartScore","PvIwet","Training","NM-TX",5,4,0.8
+"Strat H2O SC","RpartScore","PvIwet","Training","NV",9,5,0.555555555555556
+"Strat H2O SC","RpartScore","PvNP","Testing","AZ",6,4,0.666666666666667
+"Strat H2O SC","RpartScore","PvNP","Testing","CA",5,3,0.6
+"Strat H2O SC","RpartScore","PvNP","Testing","CO-WY-UT-MT",2,2,1
+"Strat H2O SC","RpartScore","PvNP","Testing","NM-TX",4,4,1
+"Strat H2O SC","RpartScore","PvNP","Testing","NV",4,4,1
+"Strat H2O SC","RpartScore","PvNP","Training","AZ",19,17,0.894736842105263
+"Strat H2O SC","RpartScore","PvNP","Training","CA",12,10,0.833333333333333
+"Strat H2O SC","RpartScore","PvNP","Training","CO-WY-UT-MT",12,10,0.833333333333333
+"Strat H2O SC","RpartScore","PvNP","Training","NM-TX",10,9,0.9
+"Strat H2O SC","RpartScore","PvNP","Training","NV",13,9,0.692307692307692
+"Strat SC","RandomForest","EnotP","Testing","AZ",2,2,1
+"Strat SC","RandomForest","EnotP","Testing","CA",1,1,1
+"Strat SC","RandomForest","EnotP","Testing","NM-TX",1,1,1
+"Strat SC","RandomForest","EnotP","Testing","NV",2,2,1
+"Strat SC","RandomForest","EnotP","Training","AZ",10,9,0.9
+"Strat SC","RandomForest","EnotP","Training","CA",2,2,1
+"Strat SC","RandomForest","EnotP","Training","CO-WY-UT-MT",5,5,1
+"Strat SC","RandomForest","EnotP","Training","NM-TX",4,4,1
+"Strat SC","RandomForest","EnotP","Training","NV",2,2,1
+"Strat SC","RandomForest","EvIdry","Testing","AZ",1,1,1
+"Strat SC","RandomForest","EvIdry","Testing","CA",1,1,1
+"Strat SC","RandomForest","EvIdry","Testing","CO-WY-UT-MT",2,0,0
+"Strat SC","RandomForest","EvIdry","Testing","NM-TX",2,1,0.5
+"Strat SC","RandomForest","EvIdry","Testing","NV",2,2,1
+"Strat SC","RandomForest","EvIdry","Training","AZ",13,8,0.615384615384615
+"Strat SC","RandomForest","EvIdry","Training","CA",2,2,1
+"Strat SC","RandomForest","EvIdry","Training","CO-WY-UT-MT",8,2,0.25
+"Strat SC","RandomForest","EvIdry","Training","NM-TX",5,4,0.8
+"Strat SC","RandomForest","EvIdry","Training","NV",5,3,0.6
+"Strat SC","RandomForest","EvNE","Testing","AZ",3,3,1
+"Strat SC","RandomForest","EvNE","Testing","CA",3,3,1
+"Strat SC","RandomForest","EvNE","Testing","CO-WY-UT-MT",2,0,0
+"Strat SC","RandomForest","EvNE","Testing","NM-TX",5,4,0.8
+"Strat SC","RandomForest","EvNE","Testing","NV",4,4,1
+"Strat SC","RandomForest","EvNE","Training","AZ",22,18,0.818181818181818
+"Strat SC","RandomForest","EvNE","Training","CA",14,13,0.928571428571429
+"Strat SC","RandomForest","EvNE","Training","CO-WY-UT-MT",12,6,0.5
+"Strat SC","RandomForest","EvNE","Training","NM-TX",9,8,0.888888888888889
+"Strat SC","RandomForest","EvNE","Training","NV",13,9,0.692307692307692
+"Strat SC","RandomForest","EvNE_SInm","Testing","AZ",3,3,1
+"Strat SC","RandomForest","EvNE_SInm","Testing","CA",3,3,1
+"Strat SC","RandomForest","EvNE_SInm","Testing","CO-WY-UT-MT",2,0,0
+"Strat SC","RandomForest","EvNE_SInm","Testing","NM-TX",5,4,0.8
+"Strat SC","RandomForest","EvNE_SInm","Testing","NV",4,4,1
+"Strat SC","RandomForest","EvNE_SInm","Training","AZ",22,17,0.772727272727273
+"Strat SC","RandomForest","EvNE_SInm","Training","CA",14,14,1
+"Strat SC","RandomForest","EvNE_SInm","Training","CO-WY-UT-MT",12,6,0.5
+"Strat SC","RandomForest","EvNE_SInm","Training","NM-TX",9,8,0.888888888888889
+"Strat SC","RandomForest","EvNE_SInm","Training","NV",13,9,0.692307692307692
+"Strat SC","RandomForest","EvNE_SIpnw","Testing","AZ",3,3,1
+"Strat SC","RandomForest","EvNE_SIpnw","Testing","CA",3,3,1
+"Strat SC","RandomForest","EvNE_SIpnw","Testing","CO-WY-UT-MT",2,0,0
+"Strat SC","RandomForest","EvNE_SIpnw","Testing","NM-TX",5,4,0.8
+"Strat SC","RandomForest","EvNE_SIpnw","Testing","NV",4,4,1
+"Strat SC","RandomForest","EvNE_SIpnw","Training","AZ",22,18,0.818181818181818
+"Strat SC","RandomForest","EvNE_SIpnw","Training","CA",14,13,0.928571428571429
+"Strat SC","RandomForest","EvNE_SIpnw","Training","CO-WY-UT-MT",12,6,0.5
+"Strat SC","RandomForest","EvNE_SIpnw","Training","NM-TX",9,7,0.777777777777778
+"Strat SC","RandomForest","EvNE_SIpnw","Training","NV",13,9,0.692307692307692
+"Strat SC","RandomForest","PnotE","Testing","AZ",1,1,1
+"Strat SC","RandomForest","PnotE","Testing","CA",1,1,1
+"Strat SC","RandomForest","PnotE","Testing","NM-TX",2,2,1
+"Strat SC","RandomForest","PnotE","Testing","NV",2,2,1
+"Strat SC","RandomForest","PnotE","Training","AZ",4,4,1
+"Strat SC","RandomForest","PnotE","Training","CA",4,4,1
+"Strat SC","RandomForest","PnotE","Training","CO-WY-UT-MT",3,3,1
+"Strat SC","RandomForest","PnotE","Training","NM-TX",3,3,1
+"Strat SC","RandomForest","PnotE","Training","NV",4,3,0.75
+"Strat SC","RandomForest","PvIvE","Testing","AZ",3,3,1
+"Strat SC","RandomForest","PvIvE","Testing","CA",3,2,0.666666666666667
+"Strat SC","RandomForest","PvIvE","Testing","CO-WY-UT-MT",2,0,0
+"Strat SC","RandomForest","PvIvE","Testing","NM-TX",5,4,0.8
+"Strat SC","RandomForest","PvIvE","Testing","NV",4,2,0.5
+"Strat SC","RandomForest","PvIvE","Training","AZ",22,15,0.681818181818182
+"Strat SC","RandomForest","PvIvE","Training","CA",14,8,0.571428571428571
+"Strat SC","RandomForest","PvIvE","Training","CO-WY-UT-MT",12,4,0.333333333333333
+"Strat SC","RandomForest","PvIvE","Training","NM-TX",9,8,0.888888888888889
+"Strat SC","RandomForest","PvIvE","Training","NV",13,4,0.307692307692308
+"Strat SC","RandomForest","PvIwet","Testing","AZ",1,1,1
+"Strat SC","RandomForest","PvIwet","Testing","CA",2,1,0.5
+"Strat SC","RandomForest","PvIwet","Testing","NM-TX",3,3,1
+"Strat SC","RandomForest","PvIwet","Testing","NV",2,0,0
+"Strat SC","RandomForest","PvIwet","Training","AZ",8,6,0.75
+"Strat SC","RandomForest","PvIwet","Training","CA",12,6,0.5
+"Strat SC","RandomForest","PvIwet","Training","CO-WY-UT-MT",4,2,0.5
+"Strat SC","RandomForest","PvIwet","Training","NM-TX",4,4,1
+"Strat SC","RandomForest","PvIwet","Training","NV",8,1,0.125
+"Strat SC","RandomForest","PvNP","Testing","AZ",3,3,1
+"Strat SC","RandomForest","PvNP","Testing","CA",3,2,0.666666666666667
+"Strat SC","RandomForest","PvNP","Testing","CO-WY-UT-MT",2,2,1
+"Strat SC","RandomForest","PvNP","Testing","NM-TX",5,5,1
+"Strat SC","RandomForest","PvNP","Testing","NV",4,2,0.5
+"Strat SC","RandomForest","PvNP","Training","AZ",22,18,0.818181818181818
+"Strat SC","RandomForest","PvNP","Training","CA",14,9,0.642857142857143
+"Strat SC","RandomForest","PvNP","Training","CO-WY-UT-MT",12,10,0.833333333333333
+"Strat SC","RandomForest","PvNP","Training","NM-TX",9,9,1
+"Strat SC","RandomForest","PvNP","Training","NV",13,7,0.538461538461538
+"Strat SC","Rpart","EnotP","Testing","AZ",2,2,1
+"Strat SC","Rpart","EnotP","Testing","CA",1,1,1
+"Strat SC","Rpart","EnotP","Testing","NM-TX",1,1,1
+"Strat SC","Rpart","EnotP","Testing","NV",2,2,1
+"Strat SC","Rpart","EnotP","Training","AZ",10,10,1
+"Strat SC","Rpart","EnotP","Training","CA",2,2,1
+"Strat SC","Rpart","EnotP","Training","CO-WY-UT-MT",5,5,1
+"Strat SC","Rpart","EnotP","Training","NM-TX",4,4,1
+"Strat SC","Rpart","EnotP","Training","NV",2,2,1
+"Strat SC","Rpart","EvIdry","Testing","AZ",1,1,1
+"Strat SC","Rpart","EvIdry","Testing","CA",1,1,1
+"Strat SC","Rpart","EvIdry","Testing","CO-WY-UT-MT",2,2,1
+"Strat SC","Rpart","EvIdry","Testing","NM-TX",2,1,0.5
+"Strat SC","Rpart","EvIdry","Testing","NV",2,0,0
+"Strat SC","Rpart","EvIdry","Training","AZ",13,8,0.615384615384615
+"Strat SC","Rpart","EvIdry","Training","CA",2,2,1
+"Strat SC","Rpart","EvIdry","Training","CO-WY-UT-MT",8,3,0.375
+"Strat SC","Rpart","EvIdry","Training","NM-TX",5,5,1
+"Strat SC","Rpart","EvIdry","Training","NV",5,5,1
+"Strat SC","Rpart","EvNE","Testing","AZ",3,3,1
+"Strat SC","Rpart","EvNE","Testing","CA",3,3,1
+"Strat SC","Rpart","EvNE","Testing","CO-WY-UT-MT",2,2,1
+"Strat SC","Rpart","EvNE","Testing","NM-TX",5,4,0.8
+"Strat SC","Rpart","EvNE","Testing","NV",4,2,0.5
+"Strat SC","Rpart","EvNE","Training","AZ",22,17,0.772727272727273
+"Strat SC","Rpart","EvNE","Training","CA",14,14,1
+"Strat SC","Rpart","EvNE","Training","CO-WY-UT-MT",12,7,0.583333333333333
+"Strat SC","Rpart","EvNE","Training","NM-TX",9,9,1
+"Strat SC","Rpart","EvNE","Training","NV",13,12,0.923076923076923
+"Strat SC","Rpart","EvNE_SInm","Testing","AZ",3,3,1
+"Strat SC","Rpart","EvNE_SInm","Testing","CA",3,3,1
+"Strat SC","Rpart","EvNE_SInm","Testing","CO-WY-UT-MT",2,2,1
+"Strat SC","Rpart","EvNE_SInm","Testing","NM-TX",5,4,0.8
+"Strat SC","Rpart","EvNE_SInm","Testing","NV",4,2,0.5
+"Strat SC","Rpart","EvNE_SInm","Training","AZ",22,17,0.772727272727273
+"Strat SC","Rpart","EvNE_SInm","Training","CA",14,14,1
+"Strat SC","Rpart","EvNE_SInm","Training","CO-WY-UT-MT",12,7,0.583333333333333
+"Strat SC","Rpart","EvNE_SInm","Training","NM-TX",9,9,1
+"Strat SC","Rpart","EvNE_SInm","Training","NV",13,12,0.923076923076923
+"Strat SC","Rpart","EvNE_SIpnw","Testing","AZ",3,3,1
+"Strat SC","Rpart","EvNE_SIpnw","Testing","CA",3,3,1
+"Strat SC","Rpart","EvNE_SIpnw","Testing","CO-WY-UT-MT",2,2,1
+"Strat SC","Rpart","EvNE_SIpnw","Testing","NM-TX",5,4,0.8
+"Strat SC","Rpart","EvNE_SIpnw","Testing","NV",4,2,0.5
+"Strat SC","Rpart","EvNE_SIpnw","Training","AZ",22,17,0.772727272727273
+"Strat SC","Rpart","EvNE_SIpnw","Training","CA",14,14,1
+"Strat SC","Rpart","EvNE_SIpnw","Training","CO-WY-UT-MT",12,7,0.583333333333333
+"Strat SC","Rpart","EvNE_SIpnw","Training","NM-TX",9,8,0.888888888888889
+"Strat SC","Rpart","EvNE_SIpnw","Training","NV",13,12,0.923076923076923
+"Strat SC","Rpart","PnotE","Testing","AZ",1,1,1
+"Strat SC","Rpart","PnotE","Testing","CA",1,1,1
+"Strat SC","Rpart","PnotE","Testing","NM-TX",2,2,1
+"Strat SC","Rpart","PnotE","Testing","NV",2,2,1
+"Strat SC","Rpart","PnotE","Training","AZ",4,4,1
+"Strat SC","Rpart","PnotE","Training","CA",4,4,1
+"Strat SC","Rpart","PnotE","Training","CO-WY-UT-MT",3,3,1
+"Strat SC","Rpart","PnotE","Training","NM-TX",3,3,1
+"Strat SC","Rpart","PnotE","Training","NV",4,4,1
+"Strat SC","Rpart","PvIvE","Testing","AZ",3,3,1
+"Strat SC","Rpart","PvIvE","Testing","CA",3,1,0.333333333333333
+"Strat SC","Rpart","PvIvE","Testing","CO-WY-UT-MT",2,2,1
+"Strat SC","Rpart","PvIvE","Testing","NM-TX",5,3,0.6
+"Strat SC","Rpart","PvIvE","Testing","NV",4,2,0.5
+"Strat SC","Rpart","PvIvE","Training","AZ",22,15,0.681818181818182
+"Strat SC","Rpart","PvIvE","Training","CA",14,11,0.785714285714286
+"Strat SC","Rpart","PvIvE","Training","CO-WY-UT-MT",12,7,0.583333333333333
+"Strat SC","Rpart","PvIvE","Training","NM-TX",9,8,0.888888888888889
+"Strat SC","Rpart","PvIvE","Training","NV",13,9,0.692307692307692
+"Strat SC","Rpart","PvIwet","Testing","AZ",1,1,1
+"Strat SC","Rpart","PvIwet","Testing","CA",2,0,0
+"Strat SC","Rpart","PvIwet","Testing","NM-TX",3,2,0.666666666666667
+"Strat SC","Rpart","PvIwet","Testing","NV",2,2,1
+"Strat SC","Rpart","PvIwet","Training","AZ",8,7,0.875
+"Strat SC","Rpart","PvIwet","Training","CA",12,9,0.75
+"Strat SC","Rpart","PvIwet","Training","CO-WY-UT-MT",4,4,1
+"Strat SC","Rpart","PvIwet","Training","NM-TX",4,3,0.75
+"Strat SC","Rpart","PvIwet","Training","NV",8,4,0.5
+"Strat SC","Rpart","PvNP","Testing","AZ",3,3,1
+"Strat SC","Rpart","PvNP","Testing","CA",3,1,0.333333333333333
+"Strat SC","Rpart","PvNP","Testing","CO-WY-UT-MT",2,2,1
+"Strat SC","Rpart","PvNP","Testing","NM-TX",5,4,0.8
+"Strat SC","Rpart","PvNP","Testing","NV",4,4,1
+"Strat SC","Rpart","PvNP","Training","AZ",22,20,0.909090909090909
+"Strat SC","Rpart","PvNP","Training","CA",14,11,0.785714285714286
+"Strat SC","Rpart","PvNP","Training","CO-WY-UT-MT",12,12,1
+"Strat SC","Rpart","PvNP","Training","NM-TX",9,8,0.888888888888889
+"Strat SC","Rpart","PvNP","Training","NV",13,10,0.769230769230769
+"Strat SC","RpartScore","EnotP","Testing","AZ",2,2,1
+"Strat SC","RpartScore","EnotP","Testing","CA",1,1,1
+"Strat SC","RpartScore","EnotP","Testing","NM-TX",1,1,1
+"Strat SC","RpartScore","EnotP","Testing","NV",2,2,1
+"Strat SC","RpartScore","EnotP","Training","AZ",10,10,1
+"Strat SC","RpartScore","EnotP","Training","CA",2,2,1
+"Strat SC","RpartScore","EnotP","Training","CO-WY-UT-MT",5,5,1
+"Strat SC","RpartScore","EnotP","Training","NM-TX",4,4,1
+"Strat SC","RpartScore","EnotP","Training","NV",2,2,1
+"Strat SC","RpartScore","EvIdry","Testing","AZ",1,1,1
+"Strat SC","RpartScore","EvIdry","Testing","CA",1,1,1
+"Strat SC","RpartScore","EvIdry","Testing","CO-WY-UT-MT",2,2,1
+"Strat SC","RpartScore","EvIdry","Testing","NM-TX",2,1,0.5
+"Strat SC","RpartScore","EvIdry","Testing","NV",2,0,0
+"Strat SC","RpartScore","EvIdry","Training","AZ",13,8,0.615384615384615
+"Strat SC","RpartScore","EvIdry","Training","CA",2,1,0.5
+"Strat SC","RpartScore","EvIdry","Training","CO-WY-UT-MT",8,5,0.625
+"Strat SC","RpartScore","EvIdry","Training","NM-TX",5,5,1
+"Strat SC","RpartScore","EvIdry","Training","NV",5,5,1
+"Strat SC","RpartScore","EvNE","Testing","AZ",3,3,1
+"Strat SC","RpartScore","EvNE","Testing","CA",3,3,1
+"Strat SC","RpartScore","EvNE","Testing","CO-WY-UT-MT",2,2,1
+"Strat SC","RpartScore","EvNE","Testing","NM-TX",5,4,0.8
+"Strat SC","RpartScore","EvNE","Testing","NV",4,2,0.5
+"Strat SC","RpartScore","EvNE","Training","AZ",22,17,0.772727272727273
+"Strat SC","RpartScore","EvNE","Training","CA",14,13,0.928571428571429
+"Strat SC","RpartScore","EvNE","Training","CO-WY-UT-MT",12,9,0.75
+"Strat SC","RpartScore","EvNE","Training","NM-TX",9,9,1
+"Strat SC","RpartScore","EvNE","Training","NV",13,12,0.923076923076923
+"Strat SC","RpartScore","EvNE_SInm","Testing","AZ",3,3,1
+"Strat SC","RpartScore","EvNE_SInm","Testing","CA",3,3,1
+"Strat SC","RpartScore","EvNE_SInm","Testing","CO-WY-UT-MT",2,2,1
+"Strat SC","RpartScore","EvNE_SInm","Testing","NM-TX",5,4,0.8
+"Strat SC","RpartScore","EvNE_SInm","Testing","NV",4,2,0.5
+"Strat SC","RpartScore","EvNE_SInm","Training","AZ",22,17,0.772727272727273
+"Strat SC","RpartScore","EvNE_SInm","Training","CA",14,13,0.928571428571429
+"Strat SC","RpartScore","EvNE_SInm","Training","CO-WY-UT-MT",12,9,0.75
+"Strat SC","RpartScore","EvNE_SInm","Training","NM-TX",9,9,1
+"Strat SC","RpartScore","EvNE_SInm","Training","NV",13,12,0.923076923076923
+"Strat SC","RpartScore","EvNE_SIpnw","Testing","AZ",3,3,1
+"Strat SC","RpartScore","EvNE_SIpnw","Testing","CA",3,3,1
+"Strat SC","RpartScore","EvNE_SIpnw","Testing","CO-WY-UT-MT",2,2,1
+"Strat SC","RpartScore","EvNE_SIpnw","Testing","NM-TX",5,4,0.8
+"Strat SC","RpartScore","EvNE_SIpnw","Testing","NV",4,2,0.5
+"Strat SC","RpartScore","EvNE_SIpnw","Training","AZ",22,17,0.772727272727273
+"Strat SC","RpartScore","EvNE_SIpnw","Training","CA",14,13,0.928571428571429
+"Strat SC","RpartScore","EvNE_SIpnw","Training","CO-WY-UT-MT",12,9,0.75
+"Strat SC","RpartScore","EvNE_SIpnw","Training","NM-TX",9,8,0.888888888888889
+"Strat SC","RpartScore","EvNE_SIpnw","Training","NV",13,12,0.923076923076923
+"Strat SC","RpartScore","PnotE","Testing","AZ",1,1,1
+"Strat SC","RpartScore","PnotE","Testing","CA",1,1,1
+"Strat SC","RpartScore","PnotE","Testing","NM-TX",2,2,1
+"Strat SC","RpartScore","PnotE","Testing","NV",2,2,1
+"Strat SC","RpartScore","PnotE","Training","AZ",4,4,1
+"Strat SC","RpartScore","PnotE","Training","CA",4,4,1
+"Strat SC","RpartScore","PnotE","Training","CO-WY-UT-MT",3,3,1
+"Strat SC","RpartScore","PnotE","Training","NM-TX",3,3,1
+"Strat SC","RpartScore","PnotE","Training","NV",4,4,1
+"Strat SC","RpartScore","PvIvE","Testing","AZ",3,3,1
+"Strat SC","RpartScore","PvIvE","Testing","CA",3,2,0.666666666666667
+"Strat SC","RpartScore","PvIvE","Testing","CO-WY-UT-MT",2,2,1
+"Strat SC","RpartScore","PvIvE","Testing","NM-TX",5,3,0.6
+"Strat SC","RpartScore","PvIvE","Testing","NV",4,1,0.25
+"Strat SC","RpartScore","PvIvE","Training","AZ",22,15,0.681818181818182
+"Strat SC","RpartScore","PvIvE","Training","CA",14,10,0.714285714285714
+"Strat SC","RpartScore","PvIvE","Training","CO-WY-UT-MT",12,9,0.75
+"Strat SC","RpartScore","PvIvE","Training","NM-TX",9,9,1
+"Strat SC","RpartScore","PvIvE","Training","NV",13,10,0.769230769230769
+"Strat SC","RpartScore","PvIwet","Testing","AZ",1,1,1
+"Strat SC","RpartScore","PvIwet","Testing","CA",2,1,0.5
+"Strat SC","RpartScore","PvIwet","Testing","NM-TX",3,2,0.666666666666667
+"Strat SC","RpartScore","PvIwet","Testing","NV",2,1,0.5
+"Strat SC","RpartScore","PvIwet","Training","AZ",8,7,0.875
+"Strat SC","RpartScore","PvIwet","Training","CA",12,9,0.75
+"Strat SC","RpartScore","PvIwet","Training","CO-WY-UT-MT",4,4,1
+"Strat SC","RpartScore","PvIwet","Training","NM-TX",4,4,1
+"Strat SC","RpartScore","PvIwet","Training","NV",8,5,0.625
+"Strat SC","RpartScore","PvNP","Testing","AZ",3,3,1
+"Strat SC","RpartScore","PvNP","Testing","CA",3,2,0.666666666666667
+"Strat SC","RpartScore","PvNP","Testing","CO-WY-UT-MT",2,2,1
+"Strat SC","RpartScore","PvNP","Testing","NM-TX",5,4,0.8
+"Strat SC","RpartScore","PvNP","Testing","NV",4,3,0.75
+"Strat SC","RpartScore","PvNP","Training","AZ",22,20,0.909090909090909
+"Strat SC","RpartScore","PvNP","Training","CA",14,11,0.785714285714286
+"Strat SC","RpartScore","PvNP","Training","CO-WY-UT-MT",12,12,1
+"Strat SC","RpartScore","PvNP","Training","NM-TX",9,9,1
+"Strat SC","RpartScore","PvNP","Training","NV",13,11,0.846153846153846
+"Unstrat","RandomForest","EnotP","Testing","AZ",1,0,0
+"Unstrat","RandomForest","EnotP","Testing","CA",1,1,1
+"Unstrat","RandomForest","EnotP","Testing","NM-TX",2,2,1
+"Unstrat","RandomForest","EnotP","Testing","NV",1,1,1
+"Unstrat","RandomForest","EnotP","Training","AZ",11,10,0.909090909090909
+"Unstrat","RandomForest","EnotP","Training","CA",2,2,1
+"Unstrat","RandomForest","EnotP","Training","CO-WY-UT-MT",6,6,1
+"Unstrat","RandomForest","EnotP","Training","NM-TX",3,3,1
+"Unstrat","RandomForest","EnotP","Training","NV",3,3,1
+"Unstrat","RandomForest","EvIdry","Testing","AZ",3,0,0
+"Unstrat","RandomForest","EvIdry","Testing","CA",1,1,1
+"Unstrat","RandomForest","EvIdry","Testing","CO-WY-UT-MT",2,0,0
+"Unstrat","RandomForest","EvIdry","Testing","NM-TX",3,2,0.666666666666667
+"Unstrat","RandomForest","EvIdry","Testing","NV",4,2,0.5
+"Unstrat","RandomForest","EvIdry","Training","AZ",11,8,0.727272727272727
+"Unstrat","RandomForest","EvIdry","Training","CA",2,2,1
+"Unstrat","RandomForest","EvIdry","Training","CO-WY-UT-MT",9,6,0.666666666666667
+"Unstrat","RandomForest","EvIdry","Training","NM-TX",4,3,0.75
+"Unstrat","RandomForest","EvIdry","Training","NV",3,3,1
+"Unstrat","RandomForest","EvNE","Testing","AZ",4,3,0.75
+"Unstrat","RandomForest","EvNE","Testing","CA",3,3,1
+"Unstrat","RandomForest","EvNE","Testing","CO-WY-UT-MT",2,0,0
+"Unstrat","RandomForest","EvNE","Testing","NM-TX",3,2,0.666666666666667
+"Unstrat","RandomForest","EvNE","Testing","NV",5,3,0.6
+"Unstrat","RandomForest","EvNE","Training","AZ",22,17,0.772727272727273
+"Unstrat","RandomForest","EvNE","Training","CA",14,14,1
+"Unstrat","RandomForest","EvNE","Training","CO-WY-UT-MT",13,10,0.769230769230769
+"Unstrat","RandomForest","EvNE","Training","NM-TX",11,10,0.909090909090909
+"Unstrat","RandomForest","EvNE","Training","NV",12,10,0.833333333333333
+"Unstrat","RandomForest","EvNE_SInm","Testing","AZ",4,3,0.75
+"Unstrat","RandomForest","EvNE_SInm","Testing","CA",3,3,1
+"Unstrat","RandomForest","EvNE_SInm","Testing","CO-WY-UT-MT",2,0,0
+"Unstrat","RandomForest","EvNE_SInm","Testing","NM-TX",3,2,0.666666666666667
+"Unstrat","RandomForest","EvNE_SInm","Testing","NV",5,3,0.6
+"Unstrat","RandomForest","EvNE_SInm","Training","AZ",22,18,0.818181818181818
+"Unstrat","RandomForest","EvNE_SInm","Training","CA",14,14,1
+"Unstrat","RandomForest","EvNE_SInm","Training","CO-WY-UT-MT",13,10,0.769230769230769
+"Unstrat","RandomForest","EvNE_SInm","Training","NM-TX",11,10,0.909090909090909
+"Unstrat","RandomForest","EvNE_SInm","Training","NV",12,10,0.833333333333333
+"Unstrat","RandomForest","EvNE_SIpnw","Testing","AZ",4,3,0.75
+"Unstrat","RandomForest","EvNE_SIpnw","Testing","CA",3,3,1
+"Unstrat","RandomForest","EvNE_SIpnw","Testing","CO-WY-UT-MT",2,0,0
+"Unstrat","RandomForest","EvNE_SIpnw","Testing","NM-TX",3,2,0.666666666666667
+"Unstrat","RandomForest","EvNE_SIpnw","Testing","NV",5,3,0.6
+"Unstrat","RandomForest","EvNE_SIpnw","Training","AZ",22,18,0.818181818181818
+"Unstrat","RandomForest","EvNE_SIpnw","Training","CA",14,14,1
+"Unstrat","RandomForest","EvNE_SIpnw","Training","CO-WY-UT-MT",13,10,0.769230769230769
+"Unstrat","RandomForest","EvNE_SIpnw","Training","NM-TX",11,9,0.818181818181818
+"Unstrat","RandomForest","EvNE_SIpnw","Training","NV",12,10,0.833333333333333
+"Unstrat","RandomForest","PnotE","Testing","AZ",1,1,1
+"Unstrat","RandomForest","PnotE","Testing","CA",1,1,1
+"Unstrat","RandomForest","PnotE","Testing","NV",1,1,1
+"Unstrat","RandomForest","PnotE","Training","AZ",5,5,1
+"Unstrat","RandomForest","PnotE","Training","CA",4,4,1
+"Unstrat","RandomForest","PnotE","Training","CO-WY-UT-MT",3,3,1
+"Unstrat","RandomForest","PnotE","Training","NM-TX",5,5,1
+"Unstrat","RandomForest","PnotE","Training","NV",5,5,1
+"Unstrat","RandomForest","PvIvE","Testing","AZ",4,0,0
+"Unstrat","RandomForest","PvIvE","Testing","CA",3,2,0.666666666666667
+"Unstrat","RandomForest","PvIvE","Testing","CO-WY-UT-MT",2,0,0
+"Unstrat","RandomForest","PvIvE","Testing","NM-TX",3,2,0.666666666666667
+"Unstrat","RandomForest","PvIvE","Testing","NV",5,2,0.4
+"Unstrat","RandomForest","PvIvE","Training","AZ",22,15,0.681818181818182
+"Unstrat","RandomForest","PvIvE","Training","CA",14,7,0.5
+"Unstrat","RandomForest","PvIvE","Training","CO-WY-UT-MT",13,9,0.692307692307692
+"Unstrat","RandomForest","PvIvE","Training","NM-TX",11,9,0.818181818181818
+"Unstrat","RandomForest","PvIvE","Training","NV",12,6,0.5
+"Unstrat","RandomForest","PvIwet","Testing","AZ",1,0,0
+"Unstrat","RandomForest","PvIwet","Testing","CA",2,1,0.5
+"Unstrat","RandomForest","PvIwet","Testing","NV",1,0,0
+"Unstrat","RandomForest","PvIwet","Training","AZ",9,6,0.666666666666667
+"Unstrat","RandomForest","PvIwet","Training","CA",12,5,0.416666666666667
+"Unstrat","RandomForest","PvIwet","Training","CO-WY-UT-MT",4,3,0.75
+"Unstrat","RandomForest","PvIwet","Training","NM-TX",7,6,0.857142857142857
+"Unstrat","RandomForest","PvIwet","Training","NV",9,3,0.333333333333333
+"Unstrat","RandomForest","PvNP","Testing","AZ",4,0,0
+"Unstrat","RandomForest","PvNP","Testing","CA",3,2,0.666666666666667
+"Unstrat","RandomForest","PvNP","Testing","CO-WY-UT-MT",2,2,1
+"Unstrat","RandomForest","PvNP","Testing","NM-TX",3,3,1
+"Unstrat","RandomForest","PvNP","Testing","NV",5,4,0.8
+"Unstrat","RandomForest","PvNP","Training","AZ",22,19,0.863636363636364
+"Unstrat","RandomForest","PvNP","Training","CA",14,7,0.5
+"Unstrat","RandomForest","PvNP","Training","CO-WY-UT-MT",13,12,0.923076923076923
+"Unstrat","RandomForest","PvNP","Training","NM-TX",11,10,0.909090909090909
+"Unstrat","RandomForest","PvNP","Training","NV",12,8,0.666666666666667
+"Unstrat","Rpart","EnotP","Testing","AZ",1,1,1
+"Unstrat","Rpart","EnotP","Testing","CA",1,1,1
+"Unstrat","Rpart","EnotP","Testing","NM-TX",2,2,1
+"Unstrat","Rpart","EnotP","Testing","NV",1,1,1
+"Unstrat","Rpart","EnotP","Training","AZ",11,11,1
+"Unstrat","Rpart","EnotP","Training","CA",2,2,1
+"Unstrat","Rpart","EnotP","Training","CO-WY-UT-MT",6,6,1
+"Unstrat","Rpart","EnotP","Training","NM-TX",3,3,1
+"Unstrat","Rpart","EnotP","Training","NV",3,3,1
+"Unstrat","Rpart","EvIdry","Testing","AZ",3,1,0.333333333333333
+"Unstrat","Rpart","EvIdry","Testing","CA",1,1,1
+"Unstrat","Rpart","EvIdry","Testing","CO-WY-UT-MT",2,0,0
+"Unstrat","Rpart","EvIdry","Testing","NM-TX",3,2,0.666666666666667
+"Unstrat","Rpart","EvIdry","Testing","NV",4,2,0.5
+"Unstrat","Rpart","EvIdry","Training","AZ",11,8,0.727272727272727
+"Unstrat","Rpart","EvIdry","Training","CA",2,2,1
+"Unstrat","Rpart","EvIdry","Training","CO-WY-UT-MT",9,7,0.777777777777778
+"Unstrat","Rpart","EvIdry","Training","NM-TX",4,3,0.75
+"Unstrat","Rpart","EvIdry","Training","NV",3,3,1
+"Unstrat","Rpart","EvNE","Testing","AZ",4,3,0.75
+"Unstrat","Rpart","EvNE","Testing","CA",3,3,1
+"Unstrat","Rpart","EvNE","Testing","CO-WY-UT-MT",2,0,0
+"Unstrat","Rpart","EvNE","Testing","NM-TX",3,2,0.666666666666667
+"Unstrat","Rpart","EvNE","Testing","NV",5,3,0.6
+"Unstrat","Rpart","EvNE","Training","AZ",22,18,0.818181818181818
+"Unstrat","Rpart","EvNE","Training","CA",14,14,1
+"Unstrat","Rpart","EvNE","Training","CO-WY-UT-MT",13,11,0.846153846153846
+"Unstrat","Rpart","EvNE","Training","NM-TX",11,10,0.909090909090909
+"Unstrat","Rpart","EvNE","Training","NV",12,9,0.75
+"Unstrat","Rpart","EvNE_SInm","Testing","AZ",4,3,0.75
+"Unstrat","Rpart","EvNE_SInm","Testing","CA",3,3,1
+"Unstrat","Rpart","EvNE_SInm","Testing","CO-WY-UT-MT",2,0,0
+"Unstrat","Rpart","EvNE_SInm","Testing","NM-TX",3,2,0.666666666666667
+"Unstrat","Rpart","EvNE_SInm","Testing","NV",5,3,0.6
+"Unstrat","Rpart","EvNE_SInm","Training","AZ",22,18,0.818181818181818
+"Unstrat","Rpart","EvNE_SInm","Training","CA",14,14,1
+"Unstrat","Rpart","EvNE_SInm","Training","CO-WY-UT-MT",13,11,0.846153846153846
+"Unstrat","Rpart","EvNE_SInm","Training","NM-TX",11,10,0.909090909090909
+"Unstrat","Rpart","EvNE_SInm","Training","NV",12,9,0.75
+"Unstrat","Rpart","EvNE_SIpnw","Testing","AZ",4,3,0.75
+"Unstrat","Rpart","EvNE_SIpnw","Testing","CA",3,3,1
+"Unstrat","Rpart","EvNE_SIpnw","Testing","CO-WY-UT-MT",2,0,0
+"Unstrat","Rpart","EvNE_SIpnw","Testing","NM-TX",3,2,0.666666666666667
+"Unstrat","Rpart","EvNE_SIpnw","Testing","NV",5,3,0.6
+"Unstrat","Rpart","EvNE_SIpnw","Training","AZ",22,18,0.818181818181818
+"Unstrat","Rpart","EvNE_SIpnw","Training","CA",14,14,1
+"Unstrat","Rpart","EvNE_SIpnw","Training","CO-WY-UT-MT",13,11,0.846153846153846
+"Unstrat","Rpart","EvNE_SIpnw","Training","NM-TX",11,9,0.818181818181818
+"Unstrat","Rpart","EvNE_SIpnw","Training","NV",12,9,0.75
+"Unstrat","Rpart","PnotE","Testing","AZ",1,1,1
+"Unstrat","Rpart","PnotE","Testing","CA",1,1,1
+"Unstrat","Rpart","PnotE","Testing","NV",1,1,1
+"Unstrat","Rpart","PnotE","Training","AZ",5,5,1
+"Unstrat","Rpart","PnotE","Training","CA",4,4,1
+"Unstrat","Rpart","PnotE","Training","CO-WY-UT-MT",3,3,1
+"Unstrat","Rpart","PnotE","Training","NM-TX",5,5,1
+"Unstrat","Rpart","PnotE","Training","NV",5,4,0.8
+"Unstrat","Rpart","PvIvE","Testing","AZ",4,1,0.25
+"Unstrat","Rpart","PvIvE","Testing","CA",3,2,0.666666666666667
+"Unstrat","Rpart","PvIvE","Testing","CO-WY-UT-MT",2,0,0
+"Unstrat","Rpart","PvIvE","Testing","NM-TX",3,2,0.666666666666667
+"Unstrat","Rpart","PvIvE","Testing","NV",5,2,0.4
+"Unstrat","Rpart","PvIvE","Training","AZ",22,16,0.727272727272727
+"Unstrat","Rpart","PvIvE","Training","CA",14,12,0.857142857142857
+"Unstrat","Rpart","PvIvE","Training","CO-WY-UT-MT",13,11,0.846153846153846
+"Unstrat","Rpart","PvIvE","Training","NM-TX",11,9,0.818181818181818
+"Unstrat","Rpart","PvIvE","Training","NV",12,7,0.583333333333333
+"Unstrat","Rpart","PvIwet","Testing","AZ",1,0,0
+"Unstrat","Rpart","PvIwet","Testing","CA",2,1,0.5
+"Unstrat","Rpart","PvIwet","Testing","NV",1,0,0
+"Unstrat","Rpart","PvIwet","Training","AZ",9,7,0.777777777777778
+"Unstrat","Rpart","PvIwet","Training","CA",12,10,0.833333333333333
+"Unstrat","Rpart","PvIwet","Training","CO-WY-UT-MT",4,4,1
+"Unstrat","Rpart","PvIwet","Training","NM-TX",7,6,0.857142857142857
+"Unstrat","Rpart","PvIwet","Training","NV",9,4,0.444444444444444
+"Unstrat","Rpart","PvNP","Testing","AZ",4,2,0.5
+"Unstrat","Rpart","PvNP","Testing","CA",3,2,0.666666666666667
+"Unstrat","Rpart","PvNP","Testing","CO-WY-UT-MT",2,2,1
+"Unstrat","Rpart","PvNP","Testing","NM-TX",3,3,1
+"Unstrat","Rpart","PvNP","Testing","NV",5,4,0.8
+"Unstrat","Rpart","PvNP","Training","AZ",22,20,0.909090909090909
+"Unstrat","Rpart","PvNP","Training","CA",14,12,0.857142857142857
+"Unstrat","Rpart","PvNP","Training","CO-WY-UT-MT",13,13,1
+"Unstrat","Rpart","PvNP","Training","NM-TX",11,10,0.909090909090909
+"Unstrat","Rpart","PvNP","Training","NV",12,9,0.75
+"Unstrat","RpartScore","EnotP","Testing","AZ",1,1,1
+"Unstrat","RpartScore","EnotP","Testing","CA",1,1,1
+"Unstrat","RpartScore","EnotP","Testing","NM-TX",2,2,1
+"Unstrat","RpartScore","EnotP","Testing","NV",1,1,1
+"Unstrat","RpartScore","EnotP","Training","AZ",11,11,1
+"Unstrat","RpartScore","EnotP","Training","CA",2,2,1
+"Unstrat","RpartScore","EnotP","Training","CO-WY-UT-MT",6,6,1
+"Unstrat","RpartScore","EnotP","Training","NM-TX",3,3,1
+"Unstrat","RpartScore","EnotP","Training","NV",3,3,1
+"Unstrat","RpartScore","EvIdry","Testing","AZ",3,1,0.333333333333333
+"Unstrat","RpartScore","EvIdry","Testing","CA",1,1,1
+"Unstrat","RpartScore","EvIdry","Testing","CO-WY-UT-MT",2,0,0
+"Unstrat","RpartScore","EvIdry","Testing","NM-TX",3,2,0.666666666666667
+"Unstrat","RpartScore","EvIdry","Testing","NV",4,2,0.5
+"Unstrat","RpartScore","EvIdry","Training","AZ",11,8,0.727272727272727
+"Unstrat","RpartScore","EvIdry","Training","CA",2,2,1
+"Unstrat","RpartScore","EvIdry","Training","CO-WY-UT-MT",9,7,0.777777777777778
+"Unstrat","RpartScore","EvIdry","Training","NM-TX",4,3,0.75
+"Unstrat","RpartScore","EvIdry","Training","NV",3,3,1
+"Unstrat","RpartScore","EvNE","Testing","AZ",4,3,0.75
+"Unstrat","RpartScore","EvNE","Testing","CA",3,3,1
+"Unstrat","RpartScore","EvNE","Testing","CO-WY-UT-MT",2,0,0
+"Unstrat","RpartScore","EvNE","Testing","NM-TX",3,2,0.666666666666667
+"Unstrat","RpartScore","EvNE","Testing","NV",5,3,0.6
+"Unstrat","RpartScore","EvNE","Training","AZ",22,18,0.818181818181818
+"Unstrat","RpartScore","EvNE","Training","CA",14,14,1
+"Unstrat","RpartScore","EvNE","Training","CO-WY-UT-MT",13,11,0.846153846153846
+"Unstrat","RpartScore","EvNE","Training","NM-TX",11,10,0.909090909090909
+"Unstrat","RpartScore","EvNE","Training","NV",12,9,0.75
+"Unstrat","RpartScore","EvNE_SInm","Testing","AZ",4,3,0.75
+"Unstrat","RpartScore","EvNE_SInm","Testing","CA",3,3,1
+"Unstrat","RpartScore","EvNE_SInm","Testing","CO-WY-UT-MT",2,0,0
+"Unstrat","RpartScore","EvNE_SInm","Testing","NM-TX",3,2,0.666666666666667
+"Unstrat","RpartScore","EvNE_SInm","Testing","NV",5,3,0.6
+"Unstrat","RpartScore","EvNE_SInm","Training","AZ",22,18,0.818181818181818
+"Unstrat","RpartScore","EvNE_SInm","Training","CA",14,14,1
+"Unstrat","RpartScore","EvNE_SInm","Training","CO-WY-UT-MT",13,11,0.846153846153846
+"Unstrat","RpartScore","EvNE_SInm","Training","NM-TX",11,10,0.909090909090909
+"Unstrat","RpartScore","EvNE_SInm","Training","NV",12,9,0.75
+"Unstrat","RpartScore","EvNE_SIpnw","Testing","AZ",4,3,0.75
+"Unstrat","RpartScore","EvNE_SIpnw","Testing","CA",3,3,1
+"Unstrat","RpartScore","EvNE_SIpnw","Testing","CO-WY-UT-MT",2,0,0
+"Unstrat","RpartScore","EvNE_SIpnw","Testing","NM-TX",3,2,0.666666666666667
+"Unstrat","RpartScore","EvNE_SIpnw","Testing","NV",5,3,0.6
+"Unstrat","RpartScore","EvNE_SIpnw","Training","AZ",22,18,0.818181818181818
+"Unstrat","RpartScore","EvNE_SIpnw","Training","CA",14,14,1
+"Unstrat","RpartScore","EvNE_SIpnw","Training","CO-WY-UT-MT",13,11,0.846153846153846
+"Unstrat","RpartScore","EvNE_SIpnw","Training","NM-TX",11,9,0.818181818181818
+"Unstrat","RpartScore","EvNE_SIpnw","Training","NV",12,9,0.75
+"Unstrat","RpartScore","PnotE","Testing","AZ",1,1,1
+"Unstrat","RpartScore","PnotE","Testing","CA",1,1,1
+"Unstrat","RpartScore","PnotE","Testing","NV",1,1,1
+"Unstrat","RpartScore","PnotE","Training","AZ",5,5,1
+"Unstrat","RpartScore","PnotE","Training","CA",4,4,1
+"Unstrat","RpartScore","PnotE","Training","CO-WY-UT-MT",3,3,1
+"Unstrat","RpartScore","PnotE","Training","NM-TX",5,5,1
+"Unstrat","RpartScore","PnotE","Training","NV",5,4,0.8
+"Unstrat","RpartScore","PvIvE","Testing","AZ",4,1,0.25
+"Unstrat","RpartScore","PvIvE","Testing","CA",3,2,0.666666666666667
+"Unstrat","RpartScore","PvIvE","Testing","CO-WY-UT-MT",2,0,0
+"Unstrat","RpartScore","PvIvE","Testing","NM-TX",3,2,0.666666666666667
+"Unstrat","RpartScore","PvIvE","Testing","NV",5,2,0.4
+"Unstrat","RpartScore","PvIvE","Training","AZ",22,16,0.727272727272727
+"Unstrat","RpartScore","PvIvE","Training","CA",14,12,0.857142857142857
+"Unstrat","RpartScore","PvIvE","Training","CO-WY-UT-MT",13,11,0.846153846153846
+"Unstrat","RpartScore","PvIvE","Training","NM-TX",11,9,0.818181818181818
+"Unstrat","RpartScore","PvIvE","Training","NV",12,7,0.583333333333333
+"Unstrat","RpartScore","PvIwet","Testing","AZ",1,0,0
+"Unstrat","RpartScore","PvIwet","Testing","CA",2,1,0.5
+"Unstrat","RpartScore","PvIwet","Testing","NV",1,0,0
+"Unstrat","RpartScore","PvIwet","Training","AZ",9,7,0.777777777777778
+"Unstrat","RpartScore","PvIwet","Training","CA",12,10,0.833333333333333
+"Unstrat","RpartScore","PvIwet","Training","CO-WY-UT-MT",4,4,1
+"Unstrat","RpartScore","PvIwet","Training","NM-TX",7,6,0.857142857142857
+"Unstrat","RpartScore","PvIwet","Training","NV",9,4,0.444444444444444
+"Unstrat","RpartScore","PvNP","Testing","AZ",4,2,0.5
+"Unstrat","RpartScore","PvNP","Testing","CA",3,2,0.666666666666667
+"Unstrat","RpartScore","PvNP","Testing","CO-WY-UT-MT",2,2,1
+"Unstrat","RpartScore","PvNP","Testing","NM-TX",3,3,1
+"Unstrat","RpartScore","PvNP","Testing","NV",5,4,0.8
+"Unstrat","RpartScore","PvNP","Training","AZ",22,20,0.909090909090909
+"Unstrat","RpartScore","PvNP","Training","CA",14,12,0.857142857142857
+"Unstrat","RpartScore","PvNP","Training","CO-WY-UT-MT",13,13,1
+"Unstrat","RpartScore","PvNP","Training","NM-TX",11,10,0.909090909090909
+"Unstrat","RpartScore","PvNP","Training","NV",12,9,0.75
+"Unstrat H2O","RandomForest","EnotP","Testing","AZ",4,4,1
+"Unstrat H2O","RandomForest","EnotP","Testing","CO-WY-UT-MT",2,2,1
+"Unstrat H2O","RandomForest","EnotP","Training","AZ",8,7,0.875
+"Unstrat H2O","RandomForest","EnotP","Training","CA",3,3,1
+"Unstrat H2O","RandomForest","EnotP","Training","CO-WY-UT-MT",4,4,1
+"Unstrat H2O","RandomForest","EnotP","Training","NM-TX",5,5,1
+"Unstrat H2O","RandomForest","EnotP","Training","NV",4,4,1
+"Unstrat H2O","RandomForest","EvIdry","Testing","AZ",5,4,0.8
+"Unstrat H2O","RandomForest","EvIdry","Testing","CO-WY-UT-MT",4,2,0.5
+"Unstrat H2O","RandomForest","EvIdry","Testing","NV",1,0,0
+"Unstrat H2O","RandomForest","EvIdry","Training","AZ",9,6,0.666666666666667
+"Unstrat H2O","RandomForest","EvIdry","Training","CA",3,3,1
+"Unstrat H2O","RandomForest","EvIdry","Training","CO-WY-UT-MT",7,4,0.571428571428571
+"Unstrat H2O","RandomForest","EvIdry","Training","NM-TX",7,5,0.714285714285714
+"Unstrat H2O","RandomForest","EvIdry","Training","NV",6,4,0.666666666666667
+"Unstrat H2O","RandomForest","EvNE","Testing","AZ",6,5,0.833333333333333
+"Unstrat H2O","RandomForest","EvNE","Testing","CA",2,2,1
+"Unstrat H2O","RandomForest","EvNE","Testing","CO-WY-UT-MT",4,2,0.5
+"Unstrat H2O","RandomForest","EvNE","Testing","NM-TX",2,2,1
+"Unstrat H2O","RandomForest","EvNE","Testing","NV",3,2,0.666666666666667
+"Unstrat H2O","RandomForest","EvNE","Training","AZ",20,16,0.8
+"Unstrat H2O","RandomForest","EvNE","Training","CA",15,15,1
+"Unstrat H2O","RandomForest","EvNE","Training","CO-WY-UT-MT",11,8,0.727272727272727
+"Unstrat H2O","RandomForest","EvNE","Training","NM-TX",12,10,0.833333333333333
+"Unstrat H2O","RandomForest","EvNE","Training","NV",14,12,0.857142857142857
+"Unstrat H2O","RandomForest","EvNE_SInm","Testing","AZ",6,5,0.833333333333333
+"Unstrat H2O","RandomForest","EvNE_SInm","Testing","CA",2,2,1
+"Unstrat H2O","RandomForest","EvNE_SInm","Testing","CO-WY-UT-MT",4,2,0.5
+"Unstrat H2O","RandomForest","EvNE_SInm","Testing","NM-TX",2,2,1
+"Unstrat H2O","RandomForest","EvNE_SInm","Testing","NV",3,3,1
+"Unstrat H2O","RandomForest","EvNE_SInm","Training","AZ",20,15,0.75
+"Unstrat H2O","RandomForest","EvNE_SInm","Training","CA",15,15,1
+"Unstrat H2O","RandomForest","EvNE_SInm","Training","CO-WY-UT-MT",11,9,0.818181818181818
+"Unstrat H2O","RandomForest","EvNE_SInm","Training","NM-TX",12,10,0.833333333333333
+"Unstrat H2O","RandomForest","EvNE_SInm","Training","NV",14,12,0.857142857142857
+"Unstrat H2O","RandomForest","EvNE_SIpnw","Testing","AZ",6,5,0.833333333333333
+"Unstrat H2O","RandomForest","EvNE_SIpnw","Testing","CA",2,2,1
+"Unstrat H2O","RandomForest","EvNE_SIpnw","Testing","CO-WY-UT-MT",4,2,0.5
+"Unstrat H2O","RandomForest","EvNE_SIpnw","Testing","NM-TX",2,2,1
+"Unstrat H2O","RandomForest","EvNE_SIpnw","Testing","NV",3,2,0.666666666666667
+"Unstrat H2O","RandomForest","EvNE_SIpnw","Training","AZ",20,16,0.8
+"Unstrat H2O","RandomForest","EvNE_SIpnw","Training","CA",15,15,1
+"Unstrat H2O","RandomForest","EvNE_SIpnw","Training","CO-WY-UT-MT",11,9,0.818181818181818
+"Unstrat H2O","RandomForest","EvNE_SIpnw","Training","NM-TX",12,9,0.75
+"Unstrat H2O","RandomForest","EvNE_SIpnw","Training","NV",14,12,0.857142857142857
+"Unstrat H2O","RandomForest","PnotE","Testing","CA",1,1,1
+"Unstrat H2O","RandomForest","PnotE","Testing","NM-TX",1,1,1
+"Unstrat H2O","RandomForest","PnotE","Training","AZ",6,6,1
+"Unstrat H2O","RandomForest","PnotE","Training","CA",4,4,1
+"Unstrat H2O","RandomForest","PnotE","Training","CO-WY-UT-MT",3,3,1
+"Unstrat H2O","RandomForest","PnotE","Training","NM-TX",4,4,1
+"Unstrat H2O","RandomForest","PnotE","Training","NV",6,6,1
+"Unstrat H2O","RandomForest","PvIvE","Testing","AZ",6,4,0.666666666666667
+"Unstrat H2O","RandomForest","PvIvE","Testing","CA",2,1,0.5
+"Unstrat H2O","RandomForest","PvIvE","Testing","CO-WY-UT-MT",4,2,0.5
+"Unstrat H2O","RandomForest","PvIvE","Testing","NM-TX",2,1,0.5
+"Unstrat H2O","RandomForest","PvIvE","Testing","NV",3,0,0
+"Unstrat H2O","RandomForest","PvIvE","Training","AZ",20,14,0.7
+"Unstrat H2O","RandomForest","PvIvE","Training","CA",15,8,0.533333333333333
+"Unstrat H2O","RandomForest","PvIvE","Training","CO-WY-UT-MT",11,6,0.545454545454545
+"Unstrat H2O","RandomForest","PvIvE","Training","NM-TX",12,9,0.75
+"Unstrat H2O","RandomForest","PvIvE","Training","NV",14,9,0.642857142857143
+"Unstrat H2O","RandomForest","PvIwet","Testing","AZ",1,0,0
+"Unstrat H2O","RandomForest","PvIwet","Testing","CA",2,1,0.5
+"Unstrat H2O","RandomForest","PvIwet","Testing","NM-TX",2,1,0.5
+"Unstrat H2O","RandomForest","PvIwet","Testing","NV",2,0,0
+"Unstrat H2O","RandomForest","PvIwet","Training","AZ",9,8,0.888888888888889
+"Unstrat H2O","RandomForest","PvIwet","Training","CA",12,5,0.416666666666667
+"Unstrat H2O","RandomForest","PvIwet","Training","CO-WY-UT-MT",4,2,0.5
+"Unstrat H2O","RandomForest","PvIwet","Training","NM-TX",5,4,0.8
+"Unstrat H2O","RandomForest","PvIwet","Training","NV",8,5,0.625
+"Unstrat H2O","RandomForest","PvNP","Testing","AZ",6,5,0.833333333333333
+"Unstrat H2O","RandomForest","PvNP","Testing","CA",2,1,0.5
+"Unstrat H2O","RandomForest","PvNP","Testing","CO-WY-UT-MT",4,4,1
+"Unstrat H2O","RandomForest","PvNP","Testing","NM-TX",2,1,0.5
+"Unstrat H2O","RandomForest","PvNP","Testing","NV",3,1,0.333333333333333
+"Unstrat H2O","RandomForest","PvNP","Training","AZ",20,17,0.85
+"Unstrat H2O","RandomForest","PvNP","Training","CA",15,8,0.533333333333333
+"Unstrat H2O","RandomForest","PvNP","Training","CO-WY-UT-MT",11,9,0.818181818181818
+"Unstrat H2O","RandomForest","PvNP","Training","NM-TX",12,11,0.916666666666667
+"Unstrat H2O","RandomForest","PvNP","Training","NV",14,11,0.785714285714286
+"Unstrat H2O","Rpart","EnotP","Testing","AZ",4,4,1
+"Unstrat H2O","Rpart","EnotP","Testing","CO-WY-UT-MT",2,2,1
+"Unstrat H2O","Rpart","EnotP","Training","AZ",8,7,0.875
+"Unstrat H2O","Rpart","EnotP","Training","CA",3,3,1
+"Unstrat H2O","Rpart","EnotP","Training","CO-WY-UT-MT",4,4,1
+"Unstrat H2O","Rpart","EnotP","Training","NM-TX",5,5,1
+"Unstrat H2O","Rpart","EnotP","Training","NV",4,4,1
+"Unstrat H2O","Rpart","EvIdry","Testing","AZ",5,4,0.8
+"Unstrat H2O","Rpart","EvIdry","Testing","CO-WY-UT-MT",4,2,0.5
+"Unstrat H2O","Rpart","EvIdry","Testing","NV",1,0,0
+"Unstrat H2O","Rpart","EvIdry","Training","AZ",9,5,0.555555555555556
+"Unstrat H2O","Rpart","EvIdry","Training","CA",3,2,0.666666666666667
+"Unstrat H2O","Rpart","EvIdry","Training","CO-WY-UT-MT",7,7,1
+"Unstrat H2O","Rpart","EvIdry","Training","NM-TX",7,7,1
+"Unstrat H2O","Rpart","EvIdry","Training","NV",6,5,0.833333333333333
+"Unstrat H2O","Rpart","EvNE","Testing","AZ",6,5,0.833333333333333
+"Unstrat H2O","Rpart","EvNE","Testing","CA",2,2,1
+"Unstrat H2O","Rpart","EvNE","Testing","CO-WY-UT-MT",4,2,0.5
+"Unstrat H2O","Rpart","EvNE","Testing","NM-TX",2,2,1
+"Unstrat H2O","Rpart","EvNE","Testing","NV",3,2,0.666666666666667
+"Unstrat H2O","Rpart","EvNE","Training","AZ",20,15,0.75
+"Unstrat H2O","Rpart","EvNE","Training","CA",15,14,0.933333333333333
+"Unstrat H2O","Rpart","EvNE","Training","CO-WY-UT-MT",11,11,1
+"Unstrat H2O","Rpart","EvNE","Training","NM-TX",12,12,1
+"Unstrat H2O","Rpart","EvNE","Training","NV",14,13,0.928571428571429
+"Unstrat H2O","Rpart","EvNE_SInm","Testing","AZ",6,5,0.833333333333333
+"Unstrat H2O","Rpart","EvNE_SInm","Testing","CA",2,2,1
+"Unstrat H2O","Rpart","EvNE_SInm","Testing","CO-WY-UT-MT",4,2,0.5
+"Unstrat H2O","Rpart","EvNE_SInm","Testing","NM-TX",2,2,1
+"Unstrat H2O","Rpart","EvNE_SInm","Testing","NV",3,3,1
+"Unstrat H2O","Rpart","EvNE_SInm","Training","AZ",20,14,0.7
+"Unstrat H2O","Rpart","EvNE_SInm","Training","CA",15,14,0.933333333333333
+"Unstrat H2O","Rpart","EvNE_SInm","Training","CO-WY-UT-MT",11,11,1
+"Unstrat H2O","Rpart","EvNE_SInm","Training","NM-TX",12,12,1
+"Unstrat H2O","Rpart","EvNE_SInm","Training","NV",14,13,0.928571428571429
+"Unstrat H2O","Rpart","EvNE_SIpnw","Testing","AZ",6,5,0.833333333333333
+"Unstrat H2O","Rpart","EvNE_SIpnw","Testing","CA",2,2,1
+"Unstrat H2O","Rpart","EvNE_SIpnw","Testing","CO-WY-UT-MT",4,2,0.5
+"Unstrat H2O","Rpart","EvNE_SIpnw","Testing","NM-TX",2,2,1
+"Unstrat H2O","Rpart","EvNE_SIpnw","Testing","NV",3,2,0.666666666666667
+"Unstrat H2O","Rpart","EvNE_SIpnw","Training","AZ",20,15,0.75
+"Unstrat H2O","Rpart","EvNE_SIpnw","Training","CA",15,14,0.933333333333333
+"Unstrat H2O","Rpart","EvNE_SIpnw","Training","CO-WY-UT-MT",11,11,1
+"Unstrat H2O","Rpart","EvNE_SIpnw","Training","NM-TX",12,11,0.916666666666667
+"Unstrat H2O","Rpart","EvNE_SIpnw","Training","NV",14,13,0.928571428571429
+"Unstrat H2O","Rpart","PnotE","Testing","CA",1,1,1
+"Unstrat H2O","Rpart","PnotE","Testing","NM-TX",1,1,1
+"Unstrat H2O","Rpart","PnotE","Training","AZ",6,6,1
+"Unstrat H2O","Rpart","PnotE","Training","CA",4,4,1
+"Unstrat H2O","Rpart","PnotE","Training","CO-WY-UT-MT",3,3,1
+"Unstrat H2O","Rpart","PnotE","Training","NM-TX",4,4,1
+"Unstrat H2O","Rpart","PnotE","Training","NV",6,6,1
+"Unstrat H2O","Rpart","PvIvE","Testing","AZ",6,5,0.833333333333333
+"Unstrat H2O","Rpart","PvIvE","Testing","CA",2,2,1
+"Unstrat H2O","Rpart","PvIvE","Testing","CO-WY-UT-MT",4,2,0.5
+"Unstrat H2O","Rpart","PvIvE","Testing","NM-TX",2,1,0.5
+"Unstrat H2O","Rpart","PvIvE","Testing","NV",3,0,0
+"Unstrat H2O","Rpart","PvIvE","Training","AZ",20,13,0.65
+"Unstrat H2O","Rpart","PvIvE","Training","CA",15,9,0.6
+"Unstrat H2O","Rpart","PvIvE","Training","CO-WY-UT-MT",11,11,1
+"Unstrat H2O","Rpart","PvIvE","Training","NM-TX",12,12,1
+"Unstrat H2O","Rpart","PvIvE","Training","NV",14,11,0.785714285714286
+"Unstrat H2O","Rpart","PvIwet","Testing","AZ",1,1,1
+"Unstrat H2O","Rpart","PvIwet","Testing","CA",2,2,1
+"Unstrat H2O","Rpart","PvIwet","Testing","NM-TX",2,1,0.5
+"Unstrat H2O","Rpart","PvIwet","Testing","NV",2,0,0
+"Unstrat H2O","Rpart","PvIwet","Training","AZ",9,8,0.888888888888889
+"Unstrat H2O","Rpart","PvIwet","Training","CA",12,7,0.583333333333333
+"Unstrat H2O","Rpart","PvIwet","Training","CO-WY-UT-MT",4,4,1
+"Unstrat H2O","Rpart","PvIwet","Training","NM-TX",5,5,1
+"Unstrat H2O","Rpart","PvIwet","Training","NV",8,6,0.75
+"Unstrat H2O","Rpart","PvNP","Testing","AZ",6,6,1
+"Unstrat H2O","Rpart","PvNP","Testing","CA",2,2,1
+"Unstrat H2O","Rpart","PvNP","Testing","CO-WY-UT-MT",4,4,1
+"Unstrat H2O","Rpart","PvNP","Testing","NM-TX",2,1,0.5
+"Unstrat H2O","Rpart","PvNP","Testing","NV",3,1,0.333333333333333
+"Unstrat H2O","Rpart","PvNP","Training","AZ",20,17,0.85
+"Unstrat H2O","Rpart","PvNP","Training","CA",15,10,0.666666666666667
+"Unstrat H2O","Rpart","PvNP","Training","CO-WY-UT-MT",11,11,1
+"Unstrat H2O","Rpart","PvNP","Training","NM-TX",12,12,1
+"Unstrat H2O","Rpart","PvNP","Training","NV",14,12,0.857142857142857
+"Unstrat H2O","RpartScore","EnotP","Testing","AZ",4,4,1
+"Unstrat H2O","RpartScore","EnotP","Testing","CO-WY-UT-MT",2,2,1
+"Unstrat H2O","RpartScore","EnotP","Training","AZ",8,8,1
+"Unstrat H2O","RpartScore","EnotP","Training","CA",3,3,1
+"Unstrat H2O","RpartScore","EnotP","Training","CO-WY-UT-MT",4,4,1
+"Unstrat H2O","RpartScore","EnotP","Training","NM-TX",5,5,1
+"Unstrat H2O","RpartScore","EnotP","Training","NV",4,4,1
+"Unstrat H2O","RpartScore","EvIdry","Testing","AZ",5,4,0.8
+"Unstrat H2O","RpartScore","EvIdry","Testing","CO-WY-UT-MT",4,2,0.5
+"Unstrat H2O","RpartScore","EvIdry","Testing","NV",1,0,0
+"Unstrat H2O","RpartScore","EvIdry","Training","AZ",9,6,0.666666666666667
+"Unstrat H2O","RpartScore","EvIdry","Training","CA",3,2,0.666666666666667
+"Unstrat H2O","RpartScore","EvIdry","Training","CO-WY-UT-MT",7,6,0.857142857142857
+"Unstrat H2O","RpartScore","EvIdry","Training","NM-TX",7,7,1
+"Unstrat H2O","RpartScore","EvIdry","Training","NV",6,5,0.833333333333333
+"Unstrat H2O","RpartScore","EvNE","Testing","AZ",6,5,0.833333333333333
+"Unstrat H2O","RpartScore","EvNE","Testing","CA",2,2,1
+"Unstrat H2O","RpartScore","EvNE","Testing","CO-WY-UT-MT",4,2,0.5
+"Unstrat H2O","RpartScore","EvNE","Testing","NM-TX",2,2,1
+"Unstrat H2O","RpartScore","EvNE","Testing","NV",3,2,0.666666666666667
+"Unstrat H2O","RpartScore","EvNE","Training","AZ",20,15,0.75
+"Unstrat H2O","RpartScore","EvNE","Training","CA",15,14,0.933333333333333
+"Unstrat H2O","RpartScore","EvNE","Training","CO-WY-UT-MT",11,10,0.909090909090909
+"Unstrat H2O","RpartScore","EvNE","Training","NM-TX",12,12,1
+"Unstrat H2O","RpartScore","EvNE","Training","NV",14,13,0.928571428571429
+"Unstrat H2O","RpartScore","EvNE_SInm","Testing","AZ",6,5,0.833333333333333
+"Unstrat H2O","RpartScore","EvNE_SInm","Testing","CA",2,2,1
+"Unstrat H2O","RpartScore","EvNE_SInm","Testing","CO-WY-UT-MT",4,2,0.5
+"Unstrat H2O","RpartScore","EvNE_SInm","Testing","NM-TX",2,2,1
+"Unstrat H2O","RpartScore","EvNE_SInm","Testing","NV",3,3,1
+"Unstrat H2O","RpartScore","EvNE_SInm","Training","AZ",20,14,0.7
+"Unstrat H2O","RpartScore","EvNE_SInm","Training","CA",15,14,0.933333333333333
+"Unstrat H2O","RpartScore","EvNE_SInm","Training","CO-WY-UT-MT",11,11,1
+"Unstrat H2O","RpartScore","EvNE_SInm","Training","NM-TX",12,12,1
+"Unstrat H2O","RpartScore","EvNE_SInm","Training","NV",14,13,0.928571428571429
+"Unstrat H2O","RpartScore","EvNE_SIpnw","Testing","AZ",6,5,0.833333333333333
+"Unstrat H2O","RpartScore","EvNE_SIpnw","Testing","CA",2,2,1
+"Unstrat H2O","RpartScore","EvNE_SIpnw","Testing","CO-WY-UT-MT",4,2,0.5
+"Unstrat H2O","RpartScore","EvNE_SIpnw","Testing","NM-TX",2,2,1
+"Unstrat H2O","RpartScore","EvNE_SIpnw","Testing","NV",3,2,0.666666666666667
+"Unstrat H2O","RpartScore","EvNE_SIpnw","Training","AZ",20,15,0.75
+"Unstrat H2O","RpartScore","EvNE_SIpnw","Training","CA",15,14,0.933333333333333
+"Unstrat H2O","RpartScore","EvNE_SIpnw","Training","CO-WY-UT-MT",11,11,1
+"Unstrat H2O","RpartScore","EvNE_SIpnw","Training","NM-TX",12,11,0.916666666666667
+"Unstrat H2O","RpartScore","EvNE_SIpnw","Training","NV",14,13,0.928571428571429
+"Unstrat H2O","RpartScore","PnotE","Testing","CA",1,1,1
+"Unstrat H2O","RpartScore","PnotE","Testing","NM-TX",1,1,1
+"Unstrat H2O","RpartScore","PnotE","Training","AZ",6,6,1
+"Unstrat H2O","RpartScore","PnotE","Training","CA",4,4,1
+"Unstrat H2O","RpartScore","PnotE","Training","CO-WY-UT-MT",3,3,1
+"Unstrat H2O","RpartScore","PnotE","Training","NM-TX",4,4,1
+"Unstrat H2O","RpartScore","PnotE","Training","NV",6,6,1
+"Unstrat H2O","RpartScore","PvIvE","Testing","AZ",6,5,0.833333333333333
+"Unstrat H2O","RpartScore","PvIvE","Testing","CA",2,1,0.5
+"Unstrat H2O","RpartScore","PvIvE","Testing","CO-WY-UT-MT",4,2,0.5
+"Unstrat H2O","RpartScore","PvIvE","Testing","NM-TX",2,2,1
+"Unstrat H2O","RpartScore","PvIvE","Testing","NV",3,1,0.333333333333333
+"Unstrat H2O","RpartScore","PvIvE","Training","AZ",20,13,0.65
+"Unstrat H2O","RpartScore","PvIvE","Training","CA",15,8,0.533333333333333
+"Unstrat H2O","RpartScore","PvIvE","Training","CO-WY-UT-MT",11,9,0.818181818181818
+"Unstrat H2O","RpartScore","PvIvE","Training","NM-TX",12,11,0.916666666666667
+"Unstrat H2O","RpartScore","PvIvE","Training","NV",14,12,0.857142857142857
+"Unstrat H2O","RpartScore","PvIwet","Testing","AZ",1,1,1
+"Unstrat H2O","RpartScore","PvIwet","Testing","CA",2,1,0.5
+"Unstrat H2O","RpartScore","PvIwet","Testing","NM-TX",2,2,1
+"Unstrat H2O","RpartScore","PvIwet","Testing","NV",2,1,0.5
+"Unstrat H2O","RpartScore","PvIwet","Training","AZ",9,7,0.777777777777778
+"Unstrat H2O","RpartScore","PvIwet","Training","CA",12,6,0.5
+"Unstrat H2O","RpartScore","PvIwet","Training","CO-WY-UT-MT",4,3,0.75
+"Unstrat H2O","RpartScore","PvIwet","Training","NM-TX",5,4,0.8
+"Unstrat H2O","RpartScore","PvIwet","Training","NV",8,7,0.875
+"Unstrat H2O","RpartScore","PvNP","Testing","AZ",6,6,1
+"Unstrat H2O","RpartScore","PvNP","Testing","CA",2,1,0.5
+"Unstrat H2O","RpartScore","PvNP","Testing","CO-WY-UT-MT",4,4,1
+"Unstrat H2O","RpartScore","PvNP","Testing","NM-TX",2,2,1
+"Unstrat H2O","RpartScore","PvNP","Testing","NV",3,2,0.666666666666667
+"Unstrat H2O","RpartScore","PvNP","Training","AZ",20,18,0.9
+"Unstrat H2O","RpartScore","PvNP","Training","CA",15,9,0.6
+"Unstrat H2O","RpartScore","PvNP","Training","CO-WY-UT-MT",11,10,0.909090909090909
+"Unstrat H2O","RpartScore","PvNP","Training","NM-TX",12,11,0.916666666666667
+"Unstrat H2O","RpartScore","PvNP","Training","NV",14,13,0.928571428571429
+"Unstrat H2O SC","RandomForest","EnotP","Testing","AZ",4,4,1
+"Unstrat H2O SC","RandomForest","EnotP","Testing","NV",1,1,1
+"Unstrat H2O SC","RandomForest","EnotP","Training","AZ",8,8,1
+"Unstrat H2O SC","RandomForest","EnotP","Training","CA",3,3,1
+"Unstrat H2O SC","RandomForest","EnotP","Training","CO-WY-UT-MT",5,5,1
+"Unstrat H2O SC","RandomForest","EnotP","Training","NM-TX",5,5,1
+"Unstrat H2O SC","RandomForest","EnotP","Training","NV",3,3,1
+"Unstrat H2O SC","RandomForest","EvIdry","Testing","AZ",2,1,0.5
+"Unstrat H2O SC","RandomForest","EvIdry","Testing","CO-WY-UT-MT",3,1,0.333333333333333
+"Unstrat H2O SC","RandomForest","EvIdry","Testing","NV",2,1,0.5
+"Unstrat H2O SC","RandomForest","EvIdry","Training","AZ",12,8,0.666666666666667
+"Unstrat H2O SC","RandomForest","EvIdry","Training","CA",3,3,1
+"Unstrat H2O SC","RandomForest","EvIdry","Training","CO-WY-UT-MT",7,5,0.714285714285714
+"Unstrat H2O SC","RandomForest","EvIdry","Training","NM-TX",7,5,0.714285714285714
+"Unstrat H2O SC","RandomForest","EvIdry","Training","NV",5,3,0.6
+"Unstrat H2O SC","RandomForest","EvNE","Testing","AZ",6,3,0.5
+"Unstrat H2O SC","RandomForest","EvNE","Testing","CA",2,2,1
+"Unstrat H2O SC","RandomForest","EvNE","Testing","CO-WY-UT-MT",4,2,0.5
+"Unstrat H2O SC","RandomForest","EvNE","Testing","NM-TX",1,1,1
+"Unstrat H2O SC","RandomForest","EvNE","Testing","NV",4,3,0.75
+"Unstrat H2O SC","RandomForest","EvNE","Training","AZ",19,16,0.842105263157895
+"Unstrat H2O SC","RandomForest","EvNE","Training","CA",15,15,1
+"Unstrat H2O SC","RandomForest","EvNE","Training","CO-WY-UT-MT",10,8,0.8
+"Unstrat H2O SC","RandomForest","EvNE","Training","NM-TX",13,11,0.846153846153846
+"Unstrat H2O SC","RandomForest","EvNE","Training","NV",13,11,0.846153846153846
+"Unstrat H2O SC","RandomForest","EvNE_SInm","Testing","AZ",6,3,0.5
+"Unstrat H2O SC","RandomForest","EvNE_SInm","Testing","CA",2,2,1
+"Unstrat H2O SC","RandomForest","EvNE_SInm","Testing","CO-WY-UT-MT",4,2,0.5
+"Unstrat H2O SC","RandomForest","EvNE_SInm","Testing","NM-TX",1,1,1
+"Unstrat H2O SC","RandomForest","EvNE_SInm","Testing","NV",4,3,0.75
+"Unstrat H2O SC","RandomForest","EvNE_SInm","Training","AZ",19,16,0.842105263157895
+"Unstrat H2O SC","RandomForest","EvNE_SInm","Training","CA",15,15,1
+"Unstrat H2O SC","RandomForest","EvNE_SInm","Training","CO-WY-UT-MT",10,8,0.8
+"Unstrat H2O SC","RandomForest","EvNE_SInm","Training","NM-TX",13,11,0.846153846153846
+"Unstrat H2O SC","RandomForest","EvNE_SInm","Training","NV",13,12,0.923076923076923
+"Unstrat H2O SC","RandomForest","EvNE_SIpnw","Testing","AZ",6,3,0.5
+"Unstrat H2O SC","RandomForest","EvNE_SIpnw","Testing","CA",2,2,1
+"Unstrat H2O SC","RandomForest","EvNE_SIpnw","Testing","CO-WY-UT-MT",4,2,0.5
+"Unstrat H2O SC","RandomForest","EvNE_SIpnw","Testing","NM-TX",1,1,1
+"Unstrat H2O SC","RandomForest","EvNE_SIpnw","Testing","NV",4,3,0.75
+"Unstrat H2O SC","RandomForest","EvNE_SIpnw","Training","AZ",19,16,0.842105263157895
+"Unstrat H2O SC","RandomForest","EvNE_SIpnw","Training","CA",15,15,1
+"Unstrat H2O SC","RandomForest","EvNE_SIpnw","Training","CO-WY-UT-MT",10,8,0.8
+"Unstrat H2O SC","RandomForest","EvNE_SIpnw","Training","NM-TX",13,10,0.769230769230769
+"Unstrat H2O SC","RandomForest","EvNE_SIpnw","Training","NV",13,11,0.846153846153846
+"Unstrat H2O SC","RandomForest","PnotE","Testing","AZ",2,2,1
+"Unstrat H2O SC","RandomForest","PnotE","Testing","CA",1,1,1
+"Unstrat H2O SC","RandomForest","PnotE","Testing","CO-WY-UT-MT",1,1,1
+"Unstrat H2O SC","RandomForest","PnotE","Testing","NV",1,1,1
+"Unstrat H2O SC","RandomForest","PnotE","Training","AZ",3,3,1
+"Unstrat H2O SC","RandomForest","PnotE","Training","CA",4,4,1
+"Unstrat H2O SC","RandomForest","PnotE","Training","CO-WY-UT-MT",2,2,1
+"Unstrat H2O SC","RandomForest","PnotE","Training","NM-TX",5,5,1
+"Unstrat H2O SC","RandomForest","PnotE","Training","NV",5,5,1
+"Unstrat H2O SC","RandomForest","PvIvE","Testing","AZ",6,2,0.333333333333333
+"Unstrat H2O SC","RandomForest","PvIvE","Testing","CA",2,2,1
+"Unstrat H2O SC","RandomForest","PvIvE","Testing","CO-WY-UT-MT",4,1,0.25
+"Unstrat H2O SC","RandomForest","PvIvE","Testing","NM-TX",1,1,1
+"Unstrat H2O SC","RandomForest","PvIvE","Testing","NV",4,2,0.5
+"Unstrat H2O SC","RandomForest","PvIvE","Training","AZ",19,13,0.684210526315789
+"Unstrat H2O SC","RandomForest","PvIvE","Training","CA",15,9,0.6
+"Unstrat H2O SC","RandomForest","PvIvE","Training","CO-WY-UT-MT",10,7,0.7
+"Unstrat H2O SC","RandomForest","PvIvE","Training","NM-TX",13,11,0.846153846153846
+"Unstrat H2O SC","RandomForest","PvIvE","Training","NV",13,6,0.461538461538462
+"Unstrat H2O SC","RandomForest","PvIwet","Testing","AZ",2,1,0.5
+"Unstrat H2O SC","RandomForest","PvIwet","Testing","CA",2,2,1
+"Unstrat H2O SC","RandomForest","PvIwet","Testing","CO-WY-UT-MT",1,0,0
+"Unstrat H2O SC","RandomForest","PvIwet","Testing","NM-TX",1,1,1
+"Unstrat H2O SC","RandomForest","PvIwet","Testing","NV",2,1,0.5
+"Unstrat H2O SC","RandomForest","PvIwet","Training","AZ",7,5,0.714285714285714
+"Unstrat H2O SC","RandomForest","PvIwet","Training","CA",12,6,0.5
+"Unstrat H2O SC","RandomForest","PvIwet","Training","CO-WY-UT-MT",3,2,0.666666666666667
+"Unstrat H2O SC","RandomForest","PvIwet","Training","NM-TX",6,6,1
+"Unstrat H2O SC","RandomForest","PvIwet","Training","NV",8,3,0.375
+"Unstrat H2O SC","RandomForest","PvNP","Testing","AZ",6,5,0.833333333333333
+"Unstrat H2O SC","RandomForest","PvNP","Testing","CA",2,2,1
+"Unstrat H2O SC","RandomForest","PvNP","Testing","CO-WY-UT-MT",4,3,0.75
+"Unstrat H2O SC","RandomForest","PvNP","Testing","NM-TX",1,1,1
+"Unstrat H2O SC","RandomForest","PvNP","Testing","NV",4,3,0.75
+"Unstrat H2O SC","RandomForest","PvNP","Training","AZ",19,16,0.842105263157895
+"Unstrat H2O SC","RandomForest","PvNP","Training","CA",15,9,0.6
+"Unstrat H2O SC","RandomForest","PvNP","Training","CO-WY-UT-MT",10,9,0.9
+"Unstrat H2O SC","RandomForest","PvNP","Training","NM-TX",13,13,1
+"Unstrat H2O SC","RandomForest","PvNP","Training","NV",13,8,0.615384615384615
+"Unstrat H2O SC","Rpart","EnotP","Testing","AZ",4,3,0.75
+"Unstrat H2O SC","Rpart","EnotP","Testing","NV",1,1,1
+"Unstrat H2O SC","Rpart","EnotP","Training","AZ",8,8,1
+"Unstrat H2O SC","Rpart","EnotP","Training","CA",3,3,1
+"Unstrat H2O SC","Rpart","EnotP","Training","CO-WY-UT-MT",5,5,1
+"Unstrat H2O SC","Rpart","EnotP","Training","NM-TX",5,5,1
+"Unstrat H2O SC","Rpart","EnotP","Training","NV",3,3,1
+"Unstrat H2O SC","Rpart","EvIdry","Testing","AZ",2,1,0.5
+"Unstrat H2O SC","Rpart","EvIdry","Testing","CO-WY-UT-MT",3,3,1
+"Unstrat H2O SC","Rpart","EvIdry","Testing","NV",2,0,0
+"Unstrat H2O SC","Rpart","EvIdry","Training","AZ",12,11,0.916666666666667
+"Unstrat H2O SC","Rpart","EvIdry","Training","CA",3,2,0.666666666666667
+"Unstrat H2O SC","Rpart","EvIdry","Training","CO-WY-UT-MT",7,5,0.714285714285714
+"Unstrat H2O SC","Rpart","EvIdry","Training","NM-TX",7,7,1
+"Unstrat H2O SC","Rpart","EvIdry","Training","NV",5,4,0.8
+"Unstrat H2O SC","Rpart","EvNE","Testing","AZ",6,3,0.5
+"Unstrat H2O SC","Rpart","EvNE","Testing","CA",2,2,1
+"Unstrat H2O SC","Rpart","EvNE","Testing","CO-WY-UT-MT",4,4,1
+"Unstrat H2O SC","Rpart","EvNE","Testing","NM-TX",1,1,1
+"Unstrat H2O SC","Rpart","EvNE","Testing","NV",4,2,0.5
+"Unstrat H2O SC","Rpart","EvNE","Training","AZ",19,18,0.947368421052632
+"Unstrat H2O SC","Rpart","EvNE","Training","CA",15,14,0.933333333333333
+"Unstrat H2O SC","Rpart","EvNE","Training","CO-WY-UT-MT",10,8,0.8
+"Unstrat H2O SC","Rpart","EvNE","Training","NM-TX",13,13,1
+"Unstrat H2O SC","Rpart","EvNE","Training","NV",13,12,0.923076923076923
+"Unstrat H2O SC","Rpart","EvNE_SInm","Testing","AZ",6,3,0.5
+"Unstrat H2O SC","Rpart","EvNE_SInm","Testing","CA",2,2,1
+"Unstrat H2O SC","Rpart","EvNE_SInm","Testing","CO-WY-UT-MT",4,4,1
+"Unstrat H2O SC","Rpart","EvNE_SInm","Testing","NM-TX",1,1,1
+"Unstrat H2O SC","Rpart","EvNE_SInm","Testing","NV",4,2,0.5
+"Unstrat H2O SC","Rpart","EvNE_SInm","Training","AZ",19,17,0.894736842105263
+"Unstrat H2O SC","Rpart","EvNE_SInm","Training","CA",15,14,0.933333333333333
+"Unstrat H2O SC","Rpart","EvNE_SInm","Training","CO-WY-UT-MT",10,8,0.8
+"Unstrat H2O SC","Rpart","EvNE_SInm","Training","NM-TX",13,13,1
+"Unstrat H2O SC","Rpart","EvNE_SInm","Training","NV",13,13,1
+"Unstrat H2O SC","Rpart","EvNE_SIpnw","Testing","AZ",6,3,0.5
+"Unstrat H2O SC","Rpart","EvNE_SIpnw","Testing","CA",2,2,1
+"Unstrat H2O SC","Rpart","EvNE_SIpnw","Testing","CO-WY-UT-MT",4,4,1
+"Unstrat H2O SC","Rpart","EvNE_SIpnw","Testing","NM-TX",1,1,1
+"Unstrat H2O SC","Rpart","EvNE_SIpnw","Testing","NV",4,2,0.5
+"Unstrat H2O SC","Rpart","EvNE_SIpnw","Training","AZ",19,18,0.947368421052632
+"Unstrat H2O SC","Rpart","EvNE_SIpnw","Training","CA",15,14,0.933333333333333
+"Unstrat H2O SC","Rpart","EvNE_SIpnw","Training","CO-WY-UT-MT",10,8,0.8
+"Unstrat H2O SC","Rpart","EvNE_SIpnw","Training","NM-TX",13,12,0.923076923076923
+"Unstrat H2O SC","Rpart","EvNE_SIpnw","Training","NV",13,12,0.923076923076923
+"Unstrat H2O SC","Rpart","PnotE","Testing","AZ",2,2,1
+"Unstrat H2O SC","Rpart","PnotE","Testing","CA",1,1,1
+"Unstrat H2O SC","Rpart","PnotE","Testing","CO-WY-UT-MT",1,1,1
+"Unstrat H2O SC","Rpart","PnotE","Testing","NV",1,1,1
+"Unstrat H2O SC","Rpart","PnotE","Training","AZ",3,3,1
+"Unstrat H2O SC","Rpart","PnotE","Training","CA",4,4,1
+"Unstrat H2O SC","Rpart","PnotE","Training","CO-WY-UT-MT",2,2,1
+"Unstrat H2O SC","Rpart","PnotE","Training","NM-TX",5,5,1
+"Unstrat H2O SC","Rpart","PnotE","Training","NV",5,5,1
+"Unstrat H2O SC","Rpart","PvIvE","Testing","AZ",6,2,0.333333333333333
+"Unstrat H2O SC","Rpart","PvIvE","Testing","CA",2,1,0.5
+"Unstrat H2O SC","Rpart","PvIvE","Testing","CO-WY-UT-MT",4,3,0.75
+"Unstrat H2O SC","Rpart","PvIvE","Testing","NM-TX",1,0,0
+"Unstrat H2O SC","Rpart","PvIvE","Testing","NV",4,0,0
+"Unstrat H2O SC","Rpart","PvIvE","Training","AZ",19,16,0.842105263157895
+"Unstrat H2O SC","Rpart","PvIvE","Training","CA",15,11,0.733333333333333
+"Unstrat H2O SC","Rpart","PvIvE","Training","CO-WY-UT-MT",10,7,0.7
+"Unstrat H2O SC","Rpart","PvIvE","Training","NM-TX",13,13,1
+"Unstrat H2O SC","Rpart","PvIvE","Training","NV",13,10,0.769230769230769
+"Unstrat H2O SC","Rpart","PvIwet","Testing","AZ",2,1,0.5
+"Unstrat H2O SC","Rpart","PvIwet","Testing","CA",2,1,0.5
+"Unstrat H2O SC","Rpart","PvIwet","Testing","CO-WY-UT-MT",1,0,0
+"Unstrat H2O SC","Rpart","PvIwet","Testing","NM-TX",1,0,0
+"Unstrat H2O SC","Rpart","PvIwet","Testing","NV",2,0,0
+"Unstrat H2O SC","Rpart","PvIwet","Training","AZ",7,5,0.714285714285714
+"Unstrat H2O SC","Rpart","PvIwet","Training","CA",12,9,0.75
+"Unstrat H2O SC","Rpart","PvIwet","Training","CO-WY-UT-MT",3,2,0.666666666666667
+"Unstrat H2O SC","Rpart","PvIwet","Training","NM-TX",6,6,1
+"Unstrat H2O SC","Rpart","PvIwet","Training","NV",8,6,0.75
+"Unstrat H2O SC","Rpart","PvNP","Testing","AZ",6,4,0.666666666666667
+"Unstrat H2O SC","Rpart","PvNP","Testing","CA",2,1,0.5
+"Unstrat H2O SC","Rpart","PvNP","Testing","CO-WY-UT-MT",4,3,0.75
+"Unstrat H2O SC","Rpart","PvNP","Testing","NM-TX",1,0,0
+"Unstrat H2O SC","Rpart","PvNP","Testing","NV",4,2,0.5
+"Unstrat H2O SC","Rpart","PvNP","Training","AZ",19,17,0.894736842105263
+"Unstrat H2O SC","Rpart","PvNP","Training","CA",15,12,0.8
+"Unstrat H2O SC","Rpart","PvNP","Training","CO-WY-UT-MT",10,9,0.9
+"Unstrat H2O SC","Rpart","PvNP","Training","NM-TX",13,13,1
+"Unstrat H2O SC","Rpart","PvNP","Training","NV",13,11,0.846153846153846
+"Unstrat H2O SC","RpartScore","EnotP","Testing","AZ",4,3,0.75
+"Unstrat H2O SC","RpartScore","EnotP","Testing","NV",1,1,1
+"Unstrat H2O SC","RpartScore","EnotP","Training","AZ",8,8,1
+"Unstrat H2O SC","RpartScore","EnotP","Training","CA",3,3,1
+"Unstrat H2O SC","RpartScore","EnotP","Training","CO-WY-UT-MT",5,5,1
+"Unstrat H2O SC","RpartScore","EnotP","Training","NM-TX",5,5,1
+"Unstrat H2O SC","RpartScore","EnotP","Training","NV",3,3,1
+"Unstrat H2O SC","RpartScore","EvIdry","Testing","AZ",2,1,0.5
+"Unstrat H2O SC","RpartScore","EvIdry","Testing","CO-WY-UT-MT",3,3,1
+"Unstrat H2O SC","RpartScore","EvIdry","Testing","NV",2,0,0
+"Unstrat H2O SC","RpartScore","EvIdry","Training","AZ",12,11,0.916666666666667
+"Unstrat H2O SC","RpartScore","EvIdry","Training","CA",3,2,0.666666666666667
+"Unstrat H2O SC","RpartScore","EvIdry","Training","CO-WY-UT-MT",7,5,0.714285714285714
+"Unstrat H2O SC","RpartScore","EvIdry","Training","NM-TX",7,7,1
+"Unstrat H2O SC","RpartScore","EvIdry","Training","NV",5,4,0.8
+"Unstrat H2O SC","RpartScore","EvNE","Testing","AZ",6,3,0.5
+"Unstrat H2O SC","RpartScore","EvNE","Testing","CA",2,2,1
+"Unstrat H2O SC","RpartScore","EvNE","Testing","CO-WY-UT-MT",4,4,1
+"Unstrat H2O SC","RpartScore","EvNE","Testing","NM-TX",1,1,1
+"Unstrat H2O SC","RpartScore","EvNE","Testing","NV",4,2,0.5
+"Unstrat H2O SC","RpartScore","EvNE","Training","AZ",19,18,0.947368421052632
+"Unstrat H2O SC","RpartScore","EvNE","Training","CA",15,14,0.933333333333333
+"Unstrat H2O SC","RpartScore","EvNE","Training","CO-WY-UT-MT",10,8,0.8
+"Unstrat H2O SC","RpartScore","EvNE","Training","NM-TX",13,13,1
+"Unstrat H2O SC","RpartScore","EvNE","Training","NV",13,12,0.923076923076923
+"Unstrat H2O SC","RpartScore","EvNE_SInm","Testing","AZ",6,3,0.5
+"Unstrat H2O SC","RpartScore","EvNE_SInm","Testing","CA",2,2,1
+"Unstrat H2O SC","RpartScore","EvNE_SInm","Testing","CO-WY-UT-MT",4,4,1
+"Unstrat H2O SC","RpartScore","EvNE_SInm","Testing","NM-TX",1,1,1
+"Unstrat H2O SC","RpartScore","EvNE_SInm","Testing","NV",4,2,0.5
+"Unstrat H2O SC","RpartScore","EvNE_SInm","Training","AZ",19,17,0.894736842105263
+"Unstrat H2O SC","RpartScore","EvNE_SInm","Training","CA",15,14,0.933333333333333
+"Unstrat H2O SC","RpartScore","EvNE_SInm","Training","CO-WY-UT-MT",10,8,0.8
+"Unstrat H2O SC","RpartScore","EvNE_SInm","Training","NM-TX",13,13,1
+"Unstrat H2O SC","RpartScore","EvNE_SInm","Training","NV",13,13,1
+"Unstrat H2O SC","RpartScore","EvNE_SIpnw","Testing","AZ",6,3,0.5
+"Unstrat H2O SC","RpartScore","EvNE_SIpnw","Testing","CA",2,2,1
+"Unstrat H2O SC","RpartScore","EvNE_SIpnw","Testing","CO-WY-UT-MT",4,4,1
+"Unstrat H2O SC","RpartScore","EvNE_SIpnw","Testing","NM-TX",1,1,1
+"Unstrat H2O SC","RpartScore","EvNE_SIpnw","Testing","NV",4,2,0.5
+"Unstrat H2O SC","RpartScore","EvNE_SIpnw","Training","AZ",19,18,0.947368421052632
+"Unstrat H2O SC","RpartScore","EvNE_SIpnw","Training","CA",15,14,0.933333333333333
+"Unstrat H2O SC","RpartScore","EvNE_SIpnw","Training","CO-WY-UT-MT",10,8,0.8
+"Unstrat H2O SC","RpartScore","EvNE_SIpnw","Training","NM-TX",13,12,0.923076923076923
+"Unstrat H2O SC","RpartScore","EvNE_SIpnw","Training","NV",13,12,0.923076923076923
+"Unstrat H2O SC","RpartScore","PnotE","Testing","AZ",2,2,1
+"Unstrat H2O SC","RpartScore","PnotE","Testing","CA",1,1,1
+"Unstrat H2O SC","RpartScore","PnotE","Testing","CO-WY-UT-MT",1,1,1
+"Unstrat H2O SC","RpartScore","PnotE","Testing","NV",1,1,1
+"Unstrat H2O SC","RpartScore","PnotE","Training","AZ",3,3,1
+"Unstrat H2O SC","RpartScore","PnotE","Training","CA",4,4,1
+"Unstrat H2O SC","RpartScore","PnotE","Training","CO-WY-UT-MT",2,2,1
+"Unstrat H2O SC","RpartScore","PnotE","Training","NM-TX",5,5,1
+"Unstrat H2O SC","RpartScore","PnotE","Training","NV",5,5,1
+"Unstrat H2O SC","RpartScore","PvIvE","Testing","AZ",6,2,0.333333333333333
+"Unstrat H2O SC","RpartScore","PvIvE","Testing","CA",2,1,0.5
+"Unstrat H2O SC","RpartScore","PvIvE","Testing","CO-WY-UT-MT",4,3,0.75
+"Unstrat H2O SC","RpartScore","PvIvE","Testing","NM-TX",1,0,0
+"Unstrat H2O SC","RpartScore","PvIvE","Testing","NV",4,0,0
+"Unstrat H2O SC","RpartScore","PvIvE","Training","AZ",19,16,0.842105263157895
+"Unstrat H2O SC","RpartScore","PvIvE","Training","CA",15,11,0.733333333333333
+"Unstrat H2O SC","RpartScore","PvIvE","Training","CO-WY-UT-MT",10,7,0.7
+"Unstrat H2O SC","RpartScore","PvIvE","Training","NM-TX",13,13,1
+"Unstrat H2O SC","RpartScore","PvIvE","Training","NV",13,10,0.769230769230769
+"Unstrat H2O SC","RpartScore","PvIwet","Testing","AZ",2,1,0.5
+"Unstrat H2O SC","RpartScore","PvIwet","Testing","CA",2,1,0.5
+"Unstrat H2O SC","RpartScore","PvIwet","Testing","CO-WY-UT-MT",1,0,0
+"Unstrat H2O SC","RpartScore","PvIwet","Testing","NM-TX",1,0,0
+"Unstrat H2O SC","RpartScore","PvIwet","Testing","NV",2,0,0
+"Unstrat H2O SC","RpartScore","PvIwet","Training","AZ",7,5,0.714285714285714
+"Unstrat H2O SC","RpartScore","PvIwet","Training","CA",12,9,0.75
+"Unstrat H2O SC","RpartScore","PvIwet","Training","CO-WY-UT-MT",3,2,0.666666666666667
+"Unstrat H2O SC","RpartScore","PvIwet","Training","NM-TX",6,6,1
+"Unstrat H2O SC","RpartScore","PvIwet","Training","NV",8,6,0.75
+"Unstrat H2O SC","RpartScore","PvNP","Testing","AZ",6,4,0.666666666666667
+"Unstrat H2O SC","RpartScore","PvNP","Testing","CA",2,1,0.5
+"Unstrat H2O SC","RpartScore","PvNP","Testing","CO-WY-UT-MT",4,3,0.75
+"Unstrat H2O SC","RpartScore","PvNP","Testing","NM-TX",1,0,0
+"Unstrat H2O SC","RpartScore","PvNP","Testing","NV",4,2,0.5
+"Unstrat H2O SC","RpartScore","PvNP","Training","AZ",19,17,0.894736842105263
+"Unstrat H2O SC","RpartScore","PvNP","Training","CA",15,12,0.8
+"Unstrat H2O SC","RpartScore","PvNP","Training","CO-WY-UT-MT",10,9,0.9
+"Unstrat H2O SC","RpartScore","PvNP","Training","NM-TX",13,13,1
+"Unstrat H2O SC","RpartScore","PvNP","Training","NV",13,11,0.846153846153846
+"Unstrat SC","RandomForest","EnotP","Testing","AZ",2,2,1
+"Unstrat SC","RandomForest","EnotP","Testing","NM-TX",2,2,1
+"Unstrat SC","RandomForest","EnotP","Testing","NV",1,1,1
+"Unstrat SC","RandomForest","EnotP","Training","AZ",10,10,1
+"Unstrat SC","RandomForest","EnotP","Training","CA",3,3,1
+"Unstrat SC","RandomForest","EnotP","Training","CO-WY-UT-MT",5,5,1
+"Unstrat SC","RandomForest","EnotP","Training","NM-TX",3,3,1
+"Unstrat SC","RandomForest","EnotP","Training","NV",3,3,1
+"Unstrat SC","RandomForest","EvIdry","Testing","AZ",4,1,0.25
+"Unstrat SC","RandomForest","EvIdry","Testing","NM-TX",2,2,1
+"Unstrat SC","RandomForest","EvIdry","Testing","NV",1,1,1
+"Unstrat SC","RandomForest","EvIdry","Training","AZ",10,8,0.8
+"Unstrat SC","RandomForest","EvIdry","Training","CA",3,3,1
+"Unstrat SC","RandomForest","EvIdry","Training","CO-WY-UT-MT",10,5,0.5
+"Unstrat SC","RandomForest","EvIdry","Training","NM-TX",5,4,0.8
+"Unstrat SC","RandomForest","EvIdry","Training","NV",6,4,0.666666666666667
+"Unstrat SC","RandomForest","EvNE","Testing","AZ",6,4,0.666666666666667
+"Unstrat SC","RandomForest","EvNE","Testing","CA",4,4,1
+"Unstrat SC","RandomForest","EvNE","Testing","CO-WY-UT-MT",1,1,1
+"Unstrat SC","RandomForest","EvNE","Testing","NM-TX",2,2,1
+"Unstrat SC","RandomForest","EvNE","Testing","NV",3,3,1
+"Unstrat SC","RandomForest","EvNE","Training","AZ",19,17,0.894736842105263
+"Unstrat SC","RandomForest","EvNE","Training","CA",13,13,1
+"Unstrat SC","RandomForest","EvNE","Training","CO-WY-UT-MT",13,8,0.615384615384615
+"Unstrat SC","RandomForest","EvNE","Training","NM-TX",12,11,0.916666666666667
+"Unstrat SC","RandomForest","EvNE","Training","NV",14,10,0.714285714285714
+"Unstrat SC","RandomForest","EvNE_SInm","Testing","AZ",6,4,0.666666666666667
+"Unstrat SC","RandomForest","EvNE_SInm","Testing","CA",4,4,1
+"Unstrat SC","RandomForest","EvNE_SInm","Testing","CO-WY-UT-MT",1,1,1
+"Unstrat SC","RandomForest","EvNE_SInm","Testing","NM-TX",2,2,1
+"Unstrat SC","RandomForest","EvNE_SInm","Testing","NV",3,3,1
+"Unstrat SC","RandomForest","EvNE_SInm","Training","AZ",19,16,0.842105263157895
+"Unstrat SC","RandomForest","EvNE_SInm","Training","CA",13,13,1
+"Unstrat SC","RandomForest","EvNE_SInm","Training","CO-WY-UT-MT",13,8,0.615384615384615
+"Unstrat SC","RandomForest","EvNE_SInm","Training","NM-TX",12,11,0.916666666666667
+"Unstrat SC","RandomForest","EvNE_SInm","Training","NV",14,10,0.714285714285714
+"Unstrat SC","RandomForest","EvNE_SIpnw","Testing","AZ",6,4,0.666666666666667
+"Unstrat SC","RandomForest","EvNE_SIpnw","Testing","CA",4,4,1
+"Unstrat SC","RandomForest","EvNE_SIpnw","Testing","CO-WY-UT-MT",1,1,1
+"Unstrat SC","RandomForest","EvNE_SIpnw","Testing","NM-TX",2,2,1
+"Unstrat SC","RandomForest","EvNE_SIpnw","Testing","NV",3,3,1
+"Unstrat SC","RandomForest","EvNE_SIpnw","Training","AZ",19,17,0.894736842105263
+"Unstrat SC","RandomForest","EvNE_SIpnw","Training","CA",13,13,1
+"Unstrat SC","RandomForest","EvNE_SIpnw","Training","CO-WY-UT-MT",13,8,0.615384615384615
+"Unstrat SC","RandomForest","EvNE_SIpnw","Training","NM-TX",12,10,0.833333333333333
+"Unstrat SC","RandomForest","EvNE_SIpnw","Training","NV",14,10,0.714285714285714
+"Unstrat SC","RandomForest","PnotE","Testing","AZ",2,2,1
+"Unstrat SC","RandomForest","PnotE","Testing","NV",2,2,1
+"Unstrat SC","RandomForest","PnotE","Training","AZ",3,3,1
+"Unstrat SC","RandomForest","PnotE","Training","CA",5,5,1
+"Unstrat SC","RandomForest","PnotE","Training","CO-WY-UT-MT",3,3,1
+"Unstrat SC","RandomForest","PnotE","Training","NM-TX",5,5,1
+"Unstrat SC","RandomForest","PnotE","Training","NV",4,3,0.75
+"Unstrat SC","RandomForest","PvIvE","Testing","AZ",6,2,0.333333333333333
+"Unstrat SC","RandomForest","PvIvE","Testing","CA",4,3,0.75
+"Unstrat SC","RandomForest","PvIvE","Testing","CO-WY-UT-MT",1,0,0
+"Unstrat SC","RandomForest","PvIvE","Testing","NM-TX",2,2,1
+"Unstrat SC","RandomForest","PvIvE","Testing","NV",3,2,0.666666666666667
+"Unstrat SC","RandomForest","PvIvE","Training","AZ",19,15,0.789473684210526
+"Unstrat SC","RandomForest","PvIvE","Training","CA",13,7,0.538461538461538
+"Unstrat SC","RandomForest","PvIvE","Training","CO-WY-UT-MT",13,7,0.538461538461538
+"Unstrat SC","RandomForest","PvIvE","Training","NM-TX",12,11,0.916666666666667
+"Unstrat SC","RandomForest","PvIvE","Training","NV",14,6,0.428571428571429
+"Unstrat SC","RandomForest","PvIwet","Testing","AZ",2,1,0.5
+"Unstrat SC","RandomForest","PvIwet","Testing","CA",4,3,0.75
+"Unstrat SC","RandomForest","PvIwet","Testing","CO-WY-UT-MT",1,0,0
+"Unstrat SC","RandomForest","PvIwet","Testing","NV",2,1,0.5
+"Unstrat SC","RandomForest","PvIwet","Training","AZ",7,5,0.714285714285714
+"Unstrat SC","RandomForest","PvIwet","Training","CA",10,4,0.4
+"Unstrat SC","RandomForest","PvIwet","Training","CO-WY-UT-MT",3,2,0.666666666666667
+"Unstrat SC","RandomForest","PvIwet","Training","NM-TX",7,7,1
+"Unstrat SC","RandomForest","PvIwet","Training","NV",8,2,0.25
+"Unstrat SC","RandomForest","PvNP","Testing","AZ",6,4,0.666666666666667
+"Unstrat SC","RandomForest","PvNP","Testing","CA",4,3,0.75
+"Unstrat SC","RandomForest","PvNP","Testing","CO-WY-UT-MT",1,0,0
+"Unstrat SC","RandomForest","PvNP","Testing","NM-TX",2,2,1
+"Unstrat SC","RandomForest","PvNP","Testing","NV",3,2,0.666666666666667
+"Unstrat SC","RandomForest","PvNP","Training","AZ",19,17,0.894736842105263
+"Unstrat SC","RandomForest","PvNP","Training","CA",13,7,0.538461538461538
+"Unstrat SC","RandomForest","PvNP","Training","CO-WY-UT-MT",13,12,0.923076923076923
+"Unstrat SC","RandomForest","PvNP","Training","NM-TX",12,12,1
+"Unstrat SC","RandomForest","PvNP","Training","NV",14,9,0.642857142857143
+"Unstrat SC","Rpart","EnotP","Testing","AZ",2,2,1
+"Unstrat SC","Rpart","EnotP","Testing","NM-TX",2,2,1
+"Unstrat SC","Rpart","EnotP","Testing","NV",1,1,1
+"Unstrat SC","Rpart","EnotP","Training","AZ",10,10,1
+"Unstrat SC","Rpart","EnotP","Training","CA",3,2,0.666666666666667
+"Unstrat SC","Rpart","EnotP","Training","CO-WY-UT-MT",5,4,0.8
+"Unstrat SC","Rpart","EnotP","Training","NM-TX",3,3,1
+"Unstrat SC","Rpart","EnotP","Training","NV",3,2,0.666666666666667
+"Unstrat SC","Rpart","EvIdry","Testing","AZ",4,2,0.5
+"Unstrat SC","Rpart","EvIdry","Testing","NM-TX",2,2,1
+"Unstrat SC","Rpart","EvIdry","Testing","NV",1,1,1
+"Unstrat SC","Rpart","EvIdry","Training","AZ",10,8,0.8
+"Unstrat SC","Rpart","EvIdry","Training","CA",3,2,0.666666666666667
+"Unstrat SC","Rpart","EvIdry","Training","CO-WY-UT-MT",10,7,0.7
+"Unstrat SC","Rpart","EvIdry","Training","NM-TX",5,4,0.8
+"Unstrat SC","Rpart","EvIdry","Training","NV",6,3,0.5
+"Unstrat SC","Rpart","EvNE","Testing","AZ",6,4,0.666666666666667
+"Unstrat SC","Rpart","EvNE","Testing","CA",4,4,1
+"Unstrat SC","Rpart","EvNE","Testing","CO-WY-UT-MT",1,1,1
+"Unstrat SC","Rpart","EvNE","Testing","NM-TX",2,2,1
+"Unstrat SC","Rpart","EvNE","Testing","NV",3,3,1
+"Unstrat SC","Rpart","EvNE","Training","AZ",19,16,0.842105263157895
+"Unstrat SC","Rpart","EvNE","Training","CA",13,12,0.923076923076923
+"Unstrat SC","Rpart","EvNE","Training","CO-WY-UT-MT",13,10,0.769230769230769
+"Unstrat SC","Rpart","EvNE","Training","NM-TX",12,11,0.916666666666667
+"Unstrat SC","Rpart","EvNE","Training","NV",14,11,0.785714285714286
+"Unstrat SC","Rpart","EvNE_SInm","Testing","AZ",6,4,0.666666666666667
+"Unstrat SC","Rpart","EvNE_SInm","Testing","CA",4,4,1
+"Unstrat SC","Rpart","EvNE_SInm","Testing","CO-WY-UT-MT",1,1,1
+"Unstrat SC","Rpart","EvNE_SInm","Testing","NM-TX",2,2,1
+"Unstrat SC","Rpart","EvNE_SInm","Testing","NV",3,3,1
+"Unstrat SC","Rpart","EvNE_SInm","Training","AZ",19,16,0.842105263157895
+"Unstrat SC","Rpart","EvNE_SInm","Training","CA",13,12,0.923076923076923
+"Unstrat SC","Rpart","EvNE_SInm","Training","CO-WY-UT-MT",13,10,0.769230769230769
+"Unstrat SC","Rpart","EvNE_SInm","Training","NM-TX",12,11,0.916666666666667
+"Unstrat SC","Rpart","EvNE_SInm","Training","NV",14,11,0.785714285714286
+"Unstrat SC","Rpart","EvNE_SIpnw","Testing","AZ",6,4,0.666666666666667
+"Unstrat SC","Rpart","EvNE_SIpnw","Testing","CA",4,4,1
+"Unstrat SC","Rpart","EvNE_SIpnw","Testing","CO-WY-UT-MT",1,1,1
+"Unstrat SC","Rpart","EvNE_SIpnw","Testing","NM-TX",2,2,1
+"Unstrat SC","Rpart","EvNE_SIpnw","Testing","NV",3,3,1
+"Unstrat SC","Rpart","EvNE_SIpnw","Training","AZ",19,17,0.894736842105263
+"Unstrat SC","Rpart","EvNE_SIpnw","Training","CA",13,12,0.923076923076923
+"Unstrat SC","Rpart","EvNE_SIpnw","Training","CO-WY-UT-MT",13,10,0.769230769230769
+"Unstrat SC","Rpart","EvNE_SIpnw","Training","NM-TX",12,10,0.833333333333333
+"Unstrat SC","Rpart","EvNE_SIpnw","Training","NV",14,11,0.785714285714286
+"Unstrat SC","Rpart","PnotE","Testing","AZ",2,2,1
+"Unstrat SC","Rpart","PnotE","Testing","NV",2,2,1
+"Unstrat SC","Rpart","PnotE","Training","AZ",3,3,1
+"Unstrat SC","Rpart","PnotE","Training","CA",5,5,1
+"Unstrat SC","Rpart","PnotE","Training","CO-WY-UT-MT",3,3,1
+"Unstrat SC","Rpart","PnotE","Training","NM-TX",5,5,1
+"Unstrat SC","Rpart","PnotE","Training","NV",4,4,1
+"Unstrat SC","Rpart","PvIvE","Testing","AZ",6,2,0.333333333333333
+"Unstrat SC","Rpart","PvIvE","Testing","CA",4,2,0.5
+"Unstrat SC","Rpart","PvIvE","Testing","CO-WY-UT-MT",1,0,0
+"Unstrat SC","Rpart","PvIvE","Testing","NM-TX",2,2,1
+"Unstrat SC","Rpart","PvIvE","Testing","NV",3,2,0.666666666666667
+"Unstrat SC","Rpart","PvIvE","Training","AZ",19,16,0.842105263157895
+"Unstrat SC","Rpart","PvIvE","Training","CA",13,10,0.769230769230769
+"Unstrat SC","Rpart","PvIvE","Training","CO-WY-UT-MT",13,9,0.692307692307692
+"Unstrat SC","Rpart","PvIvE","Training","NM-TX",12,11,0.916666666666667
+"Unstrat SC","Rpart","PvIvE","Training","NV",14,10,0.714285714285714
+"Unstrat SC","Rpart","PvIwet","Testing","AZ",2,0,0
+"Unstrat SC","Rpart","PvIwet","Testing","CA",4,2,0.5
+"Unstrat SC","Rpart","PvIwet","Testing","CO-WY-UT-MT",1,0,0
+"Unstrat SC","Rpart","PvIwet","Testing","NV",2,1,0.5
+"Unstrat SC","Rpart","PvIwet","Training","AZ",7,6,0.857142857142857
+"Unstrat SC","Rpart","PvIwet","Training","CA",10,8,0.8
+"Unstrat SC","Rpart","PvIwet","Training","CO-WY-UT-MT",3,2,0.666666666666667
+"Unstrat SC","Rpart","PvIwet","Training","NM-TX",7,7,1
+"Unstrat SC","Rpart","PvIwet","Training","NV",8,7,0.875
+"Unstrat SC","Rpart","PvNP","Testing","AZ",6,4,0.666666666666667
+"Unstrat SC","Rpart","PvNP","Testing","CA",4,2,0.5
+"Unstrat SC","Rpart","PvNP","Testing","CO-WY-UT-MT",1,0,0
+"Unstrat SC","Rpart","PvNP","Testing","NM-TX",2,2,1
+"Unstrat SC","Rpart","PvNP","Testing","NV",3,2,0.666666666666667
+"Unstrat SC","Rpart","PvNP","Training","AZ",19,19,1
+"Unstrat SC","Rpart","PvNP","Training","CA",13,10,0.769230769230769
+"Unstrat SC","Rpart","PvNP","Training","CO-WY-UT-MT",13,11,0.846153846153846
+"Unstrat SC","Rpart","PvNP","Training","NM-TX",12,12,1
+"Unstrat SC","Rpart","PvNP","Training","NV",14,12,0.857142857142857
+"Unstrat SC","RpartScore","EnotP","Testing","AZ",2,1,0.5
+"Unstrat SC","RpartScore","EnotP","Testing","NM-TX",2,2,1
+"Unstrat SC","RpartScore","EnotP","Testing","NV",1,1,1
+"Unstrat SC","RpartScore","EnotP","Training","AZ",10,10,1
+"Unstrat SC","RpartScore","EnotP","Training","CA",3,3,1
+"Unstrat SC","RpartScore","EnotP","Training","CO-WY-UT-MT",5,5,1
+"Unstrat SC","RpartScore","EnotP","Training","NM-TX",3,3,1
+"Unstrat SC","RpartScore","EnotP","Training","NV",3,3,1
+"Unstrat SC","RpartScore","EvIdry","Testing","AZ",4,3,0.75
+"Unstrat SC","RpartScore","EvIdry","Testing","NM-TX",2,2,1
+"Unstrat SC","RpartScore","EvIdry","Testing","NV",1,0,0
+"Unstrat SC","RpartScore","EvIdry","Training","AZ",10,9,0.9
+"Unstrat SC","RpartScore","EvIdry","Training","CA",3,3,1
+"Unstrat SC","RpartScore","EvIdry","Training","CO-WY-UT-MT",10,7,0.7
+"Unstrat SC","RpartScore","EvIdry","Training","NM-TX",5,4,0.8
+"Unstrat SC","RpartScore","EvIdry","Training","NV",6,4,0.666666666666667
+"Unstrat SC","RpartScore","EvNE","Testing","AZ",6,5,0.833333333333333
+"Unstrat SC","RpartScore","EvNE","Testing","CA",4,3,0.75
+"Unstrat SC","RpartScore","EvNE","Testing","CO-WY-UT-MT",1,1,1
+"Unstrat SC","RpartScore","EvNE","Testing","NM-TX",2,2,1
+"Unstrat SC","RpartScore","EvNE","Testing","NV",3,2,0.666666666666667
+"Unstrat SC","RpartScore","EvNE","Training","AZ",19,18,0.947368421052632
+"Unstrat SC","RpartScore","EvNE","Training","CA",13,13,1
+"Unstrat SC","RpartScore","EvNE","Training","CO-WY-UT-MT",13,10,0.769230769230769
+"Unstrat SC","RpartScore","EvNE","Training","NM-TX",12,11,0.916666666666667
+"Unstrat SC","RpartScore","EvNE","Training","NV",14,11,0.785714285714286
+"Unstrat SC","RpartScore","EvNE_SInm","Testing","AZ",6,5,0.833333333333333
+"Unstrat SC","RpartScore","EvNE_SInm","Testing","CA",4,4,1
+"Unstrat SC","RpartScore","EvNE_SInm","Testing","CO-WY-UT-MT",1,1,1
+"Unstrat SC","RpartScore","EvNE_SInm","Testing","NM-TX",2,2,1
+"Unstrat SC","RpartScore","EvNE_SInm","Testing","NV",3,2,0.666666666666667
+"Unstrat SC","RpartScore","EvNE_SInm","Training","AZ",19,17,0.894736842105263
+"Unstrat SC","RpartScore","EvNE_SInm","Training","CA",13,13,1
+"Unstrat SC","RpartScore","EvNE_SInm","Training","CO-WY-UT-MT",13,10,0.769230769230769
+"Unstrat SC","RpartScore","EvNE_SInm","Training","NM-TX",12,11,0.916666666666667
+"Unstrat SC","RpartScore","EvNE_SInm","Training","NV",14,11,0.785714285714286
+"Unstrat SC","RpartScore","EvNE_SIpnw","Testing","AZ",6,5,0.833333333333333
+"Unstrat SC","RpartScore","EvNE_SIpnw","Testing","CA",4,3,0.75
+"Unstrat SC","RpartScore","EvNE_SIpnw","Testing","CO-WY-UT-MT",1,1,1
+"Unstrat SC","RpartScore","EvNE_SIpnw","Testing","NM-TX",2,2,1
+"Unstrat SC","RpartScore","EvNE_SIpnw","Testing","NV",3,2,0.666666666666667
+"Unstrat SC","RpartScore","EvNE_SIpnw","Training","AZ",19,18,0.947368421052632
+"Unstrat SC","RpartScore","EvNE_SIpnw","Training","CA",13,13,1
+"Unstrat SC","RpartScore","EvNE_SIpnw","Training","CO-WY-UT-MT",13,10,0.769230769230769
+"Unstrat SC","RpartScore","EvNE_SIpnw","Training","NM-TX",12,10,0.833333333333333
+"Unstrat SC","RpartScore","EvNE_SIpnw","Training","NV",14,11,0.785714285714286
+"Unstrat SC","RpartScore","PnotE","Testing","AZ",2,2,1
+"Unstrat SC","RpartScore","PnotE","Testing","NV",2,2,1
+"Unstrat SC","RpartScore","PnotE","Training","AZ",3,3,1
+"Unstrat SC","RpartScore","PnotE","Training","CA",5,5,1
+"Unstrat SC","RpartScore","PnotE","Training","CO-WY-UT-MT",3,3,1
+"Unstrat SC","RpartScore","PnotE","Training","NM-TX",5,5,1
+"Unstrat SC","RpartScore","PnotE","Training","NV",4,4,1
+"Unstrat SC","RpartScore","PvIvE","Testing","AZ",6,3,0.5
+"Unstrat SC","RpartScore","PvIvE","Testing","CA",4,1,0.25
+"Unstrat SC","RpartScore","PvIvE","Testing","CO-WY-UT-MT",1,0,0
+"Unstrat SC","RpartScore","PvIvE","Testing","NM-TX",2,2,1
+"Unstrat SC","RpartScore","PvIvE","Testing","NV",3,1,0.333333333333333
+"Unstrat SC","RpartScore","PvIvE","Training","AZ",19,18,0.947368421052632
+"Unstrat SC","RpartScore","PvIvE","Training","CA",13,9,0.692307692307692
+"Unstrat SC","RpartScore","PvIvE","Training","CO-WY-UT-MT",13,9,0.692307692307692
+"Unstrat SC","RpartScore","PvIvE","Training","NM-TX",12,11,0.916666666666667
+"Unstrat SC","RpartScore","PvIvE","Training","NV",14,8,0.571428571428571
+"Unstrat SC","RpartScore","PvIwet","Testing","AZ",2,0,0
+"Unstrat SC","RpartScore","PvIwet","Testing","CA",4,1,0.25
+"Unstrat SC","RpartScore","PvIwet","Testing","CO-WY-UT-MT",1,0,0
+"Unstrat SC","RpartScore","PvIwet","Testing","NV",2,1,0.5
+"Unstrat SC","RpartScore","PvIwet","Training","AZ",7,7,1
+"Unstrat SC","RpartScore","PvIwet","Training","CA",10,6,0.6
+"Unstrat SC","RpartScore","PvIwet","Training","CO-WY-UT-MT",3,2,0.666666666666667
+"Unstrat SC","RpartScore","PvIwet","Training","NM-TX",7,7,1
+"Unstrat SC","RpartScore","PvIwet","Training","NV",8,4,0.5
+"Unstrat SC","RpartScore","PvNP","Testing","AZ",6,3,0.5
+"Unstrat SC","RpartScore","PvNP","Testing","CA",4,2,0.5
+"Unstrat SC","RpartScore","PvNP","Testing","CO-WY-UT-MT",1,0,0
+"Unstrat SC","RpartScore","PvNP","Testing","NM-TX",2,2,1
+"Unstrat SC","RpartScore","PvNP","Testing","NV",3,2,0.666666666666667
+"Unstrat SC","RpartScore","PvNP","Training","AZ",19,19,1
+"Unstrat SC","RpartScore","PvNP","Training","CA",13,9,0.692307692307692
+"Unstrat SC","RpartScore","PvNP","Training","CO-WY-UT-MT",13,12,0.923076923076923
+"Unstrat SC","RpartScore","PvNP","Training","NM-TX",12,12,1
+"Unstrat SC","RpartScore","PvNP","Training","NV",14,11,0.785714285714286
